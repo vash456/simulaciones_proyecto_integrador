@@ -1,0 +1,9 @@
+# Entorno virtual
+/.venv
+
+# Cachés de Python y herramientas
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.pytest_cache/
