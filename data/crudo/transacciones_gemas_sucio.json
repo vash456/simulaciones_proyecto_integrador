@@ -1,0 +1,6722 @@
+[
+  {
+    "id_transaccion":1,
+    "id_usuario":2,
+    "cantidad":500,
+    "motivo":" compra ",
+    "id_referencia":null,
+    "fecha":"20\/07\/2026 12:16"
+  },
+  {
+    "id_transaccion":2,
+    "id_usuario":9,
+    "cantidad":-1000,
+    "motivo":" compra ",
+    "id_referencia":null,
+    "fecha":"27\/12\/2025 10:03"
+  },
+  {
+    "id_transaccion":3,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"23\/11\/2025 21:29"
+  },
+  {
+    "id_transaccion":4,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"29\/08\/2026 04:07"
+  },
+  {
+    "id_transaccion":5,
+    "id_usuario":2,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":455,
+    "fecha":"28\/02\/2026 23:50"
+  },
+  {
+    "id_transaccion":6,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":3062,
+    "fecha":"17\/02\/2026 06:56"
+  },
+  {
+    "id_transaccion":7,
+    "id_usuario":2,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":927,
+    "fecha":"2026-02-08 20:51:14"
+  },
+  {
+    "id_transaccion":8,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"07\/01\/2026 08:58"
+  },
+  {
+    "id_transaccion":9,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2311,
+    "fecha":"27\/08\/2026 04:47"
+  },
+  {
+    "id_transaccion":10,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"23\/12\/2025 23:42"
+  },
+  {
+    "id_transaccion":11,
+    "id_usuario":6,
+    "cantidad":-22,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2677,
+    "fecha":"2026-08-03 23:40:31"
+  },
+  {
+    "id_transaccion":12,
+    "id_usuario":8,
+    "cantidad":-46,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"28\/08\/2026 19:54"
+  },
+  {
+    "id_transaccion":13,
+    "id_usuario":5,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"26\/10\/2026 16:05"
+  },
+  {
+    "id_transaccion":14,
+    "id_usuario":9,
+    "cantidad":-10,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-06-13 23:33:49"
+  },
+  {
+    "id_transaccion":15,
+    "id_usuario":7,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2159,
+    "fecha":"17\/12\/2025 22:42"
+  },
+  {
+    "id_transaccion":16,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-07-01 12:10:05"
+  },
+  {
+    "id_transaccion":17,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":4258,
+    "fecha":"27\/04\/2026 00:58"
+  },
+  {
+    "id_transaccion":18,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":104,
+    "fecha":"26\/11\/2025 12:36"
+  },
+  {
+    "id_transaccion":19,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":2619,
+    "fecha":"2025-11-25 18:06:33"
+  },
+  {
+    "id_transaccion":20,
+    "id_usuario":4,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"20\/12\/2025 13:40"
+  },
+  {
+    "id_transaccion":21,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"07\/02\/2026 02:13"
+  },
+  {
+    "id_transaccion":22,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":3368,
+    "fecha":"12\/02\/2026 12:56"
+  },
+  {
+    "id_transaccion":23,
+    "id_usuario":6,
+    "cantidad":-38,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-05-29 10:37:54"
+  },
+  {
+    "id_transaccion":24,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":1975,
+    "fecha":"2026-07-05 23:36:01"
+  },
+  {
+    "id_transaccion":25,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4517,
+    "fecha":"2025-11-24 11:42:44"
+  },
+  {
+    "id_transaccion":26,
+    "id_usuario":8,
+    "cantidad":25,
+    "motivo":"Bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-06-20 03:33:44"
+  },
+  {
+    "id_transaccion":27,
+    "id_usuario":7,
+    "cantidad":-34,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":906,
+    "fecha":"2026-01-30 09:40:49"
+  },
+  {
+    "id_transaccion":28,
+    "id_usuario":6,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-08-19 06:09:56"
+  },
+  {
+    "id_transaccion":29,
+    "id_usuario":8,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":514,
+    "fecha":"24\/07\/2026 13:44"
+  },
+  {
+    "id_transaccion":30,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-08-13 13:12:06"
+  },
+  {
+    "id_transaccion":31,
+    "id_usuario":4,
+    "cantidad":-8,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":3827,
+    "fecha":"2026-06-13 19:36:06"
+  },
+  {
+    "id_transaccion":32,
+    "id_usuario":9,
+    "cantidad":-14,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"26\/04\/2026 02:35"
+  },
+  {
+    "id_transaccion":33,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4450,
+    "fecha":"2026-02-07 19:02:04"
+  },
+  {
+    "id_transaccion":34,
+    "id_usuario":9,
+    "cantidad":250,
+    "motivo":"COMPRA",
+    "id_referencia":3407,
+    "fecha":"2026-05-07 15:18:39"
+  },
+  {
+    "id_transaccion":35,
+    "id_usuario":4,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4382,
+    "fecha":"2026-07-01 00:44:00"
+  },
+  {
+    "id_transaccion":36,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2557,
+    "fecha":"2026-03-02 05:18:16"
+  },
+  {
+    "id_transaccion":37,
+    "id_usuario":2,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"24\/09\/2026 12:49"
+  },
+  {
+    "id_transaccion":38,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3127,
+    "fecha":"2026-10-17 18:50:43"
+  },
+  {
+    "id_transaccion":39,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":164,
+    "fecha":"16\/11\/2025 16:57"
+  },
+  {
+    "id_transaccion":40,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"2026-09-04 20:58:35"
+  },
+  {
+    "id_transaccion":41,
+    "id_usuario":9,
+    "cantidad":25,
+    "motivo":"Bono_diario",
+    "id_referencia":" 2262 ",
+    "fecha":"23\/09\/2026 03:09"
+  },
+  {
+    "id_transaccion":42,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-01-15 04:30:42"
+  },
+  {
+    "id_transaccion":43,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":179,
+    "fecha":"2026-08-12 07:30:35"
+  },
+  {
+    "id_transaccion":44,
+    "id_usuario":3,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-04-27 07:25:51"
+  },
+  {
+    "id_transaccion":45,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-03-26 07:44:37"
+  },
+  {
+    "id_transaccion":46,
+    "id_usuario":9,
+    "cantidad":-44,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-03-02 02:19:40"
+  },
+  {
+    "id_transaccion":47,
+    "id_usuario":3,
+    "cantidad":-6,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3472,
+    "fecha":"13\/01\/2026 13:33"
+  },
+  {
+    "id_transaccion":48,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":3955,
+    "fecha":"2026-02-05 19:14:55"
+  },
+  {
+    "id_transaccion":49,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"06\/09\/2026 16:39"
+  },
+  {
+    "id_transaccion":50,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"24\/03\/2026 21:40"
+  },
+  {
+    "id_transaccion":51,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":" ajuste_admin ",
+    "id_referencia":1562,
+    "fecha":"23\/12\/2025 21:02"
+  },
+  {
+    "id_transaccion":52,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":3674,
+    "fecha":"20\/12\/2025 04:49"
+  },
+  {
+    "id_transaccion":53,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"Compra",
+    "id_referencia":null,
+    "fecha":"2026-04-10 17:33:29"
+  },
+  {
+    "id_transaccion":54,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":2804,
+    "fecha":"21\/12\/2025 17:50"
+  },
+  {
+    "id_transaccion":55,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4641,
+    "fecha":"2026-04-02 14:18:34"
+  },
+  {
+    "id_transaccion":56,
+    "id_usuario":7,
+    "cantidad":-48,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":3426,
+    "fecha":"09\/10\/2026 07:35"
+  },
+  {
+    "id_transaccion":57,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2739,
+    "fecha":"2026-03-27 18:16:43"
+  },
+  {
+    "id_transaccion":58,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":1490,
+    "fecha":"06\/07\/2026 15:30"
+  },
+  {
+    "id_transaccion":59,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-02-24 21:53:32"
+  },
+  {
+    "id_transaccion":60,
+    "id_usuario":4,
+    "cantidad":-20,
+    "motivo":"bono_diario",
+    "id_referencia":696,
+    "fecha":"2026-09-23 15:21:35"
+  },
+  {
+    "id_transaccion":61,
+    "id_usuario":4,
+    "cantidad":-36,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":973,
+    "fecha":"01\/12\/2025 01:21"
+  },
+  {
+    "id_transaccion":62,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":null,
+    "fecha":"24\/08\/2026 13:58"
+  },
+  {
+    "id_transaccion":63,
+    "id_usuario":8,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":3725,
+    "fecha":"11\/05\/2026 14:31"
+  },
+  {
+    "id_transaccion":64,
+    "id_usuario":9,
+    "cantidad":-40,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":3786,
+    "fecha":"2026-06-10 10:23:14"
+  },
+  {
+    "id_transaccion":65,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-01-01 15:50:35"
+  },
+  {
+    "id_transaccion":66,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"2026-11-07 08:47:42"
+  },
+  {
+    "id_transaccion":67,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":610,
+    "fecha":"2026-04-10 04:34:31"
+  },
+  {
+    "id_transaccion":68,
+    "id_usuario":7,
+    "cantidad":-42,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":4816,
+    "fecha":"2025-12-14 18:51:00"
+  },
+  {
+    "id_transaccion":69,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3532,
+    "fecha":"16\/06\/2026 13:46"
+  },
+  {
+    "id_transaccion":70,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":3285,
+    "fecha":"2026-03-08 00:59:55"
+  },
+  {
+    "id_transaccion":71,
+    "id_usuario":7,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":3327,
+    "fecha":"02\/10\/2026 06:59"
+  },
+  {
+    "id_transaccion":72,
+    "id_usuario":1,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-07-16 07:43:36"
+  },
+  {
+    "id_transaccion":73,
+    "id_usuario":4,
+    "cantidad":-25,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"12\/07\/2026 09:24"
+  },
+  {
+    "id_transaccion":74,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"24\/10\/2026 01:23"
+  },
+  {
+    "id_transaccion":75,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-10-14 20:04:10"
+  },
+  {
+    "id_transaccion":76,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":" bono_diario ",
+    "id_referencia":3909,
+    "fecha":"03\/04\/2026 15:03"
+  },
+  {
+    "id_transaccion":77,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"26\/06\/2026 09:41"
+  },
+  {
+    "id_transaccion":78,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":3174,
+    "fecha":"2026-01-27 20:38:19"
+  },
+  {
+    "id_transaccion":79,
+    "id_usuario":4,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":1091,
+    "fecha":"14\/08\/2026 19:27"
+  },
+  {
+    "id_transaccion":80,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":203,
+    "fecha":"11\/12\/2025 04:40"
+  },
+  {
+    "id_transaccion":81,
+    "id_usuario":8,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":1353,
+    "fecha":"2025-12-01 23:29:36"
+  },
+  {
+    "id_transaccion":82,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2740,
+    "fecha":"28\/07\/2026 23:48"
+  },
+  {
+    "id_transaccion":83,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3204,
+    "fecha":"2026-02-10 16:32:42"
+  },
+  {
+    "id_transaccion":84,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-09-10 09:53:54"
+  },
+  {
+    "id_transaccion":85,
+    "id_usuario":5,
+    "cantidad":-50,
+    "motivo":"Ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-03-06 13:40:13"
+  },
+  {
+    "id_transaccion":86,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":241,
+    "fecha":"2025-12-15 04:05:39"
+  },
+  {
+    "id_transaccion":87,
+    "id_usuario":4,
+    "cantidad":-49,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4634,
+    "fecha":"12\/10\/2026 08:31"
+  },
+  {
+    "id_transaccion":88,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 1988 ",
+    "fecha":"2026-02-12 14:08:50"
+  },
+  {
+    "id_transaccion":89,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1669,
+    "fecha":"2026-10-16 16:35:32"
+  },
+  {
+    "id_transaccion":90,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2025-12-23 09:46:50"
+  },
+  {
+    "id_transaccion":91,
+    "id_usuario":5,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":1134,
+    "fecha":"10\/04\/2026 19:24"
+  },
+  {
+    "id_transaccion":92,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":1610,
+    "fecha":"02\/03\/2026 03:16"
+  },
+  {
+    "id_transaccion":93,
+    "id_usuario":5,
+    "cantidad":-12,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"09\/05\/2026 06:28"
+  },
+  {
+    "id_transaccion":94,
+    "id_usuario":1,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-07-19 01:23:15"
+  },
+  {
+    "id_transaccion":95,
+    "id_usuario":9,
+    "cantidad":-43,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3216,
+    "fecha":"2026-10-04 02:51:06"
+  },
+  {
+    "id_transaccion":96,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":912,
+    "fecha":"04\/04\/2026 20:51"
+  },
+  {
+    "id_transaccion":97,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":" bono_diario ",
+    "id_referencia":null,
+    "fecha":"2026-01-16 08:25:30"
+  },
+  {
+    "id_transaccion":98,
+    "id_usuario":1,
+    "cantidad":-33,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-04-06 22:42:57"
+  },
+  {
+    "id_transaccion":99,
+    "id_usuario":5,
+    "cantidad":-9,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4931,
+    "fecha":"01\/04\/2026 03:44"
+  },
+  {
+    "id_transaccion":100,
+    "id_usuario":4,
+    "cantidad":-12,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1265,
+    "fecha":"2026-02-03 13:07:34"
+  },
+  {
+    "id_transaccion":101,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 3397 ",
+    "fecha":"01\/08\/2026 10:51"
+  },
+  {
+    "id_transaccion":102,
+    "id_usuario":9,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":2740,
+    "fecha":"25\/02\/2026 20:47"
+  },
+  {
+    "id_transaccion":103,
+    "id_usuario":1,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":269,
+    "fecha":"13\/08\/2026 17:49"
+  },
+  {
+    "id_transaccion":104,
+    "id_usuario":5,
+    "cantidad":-50,
+    "motivo":"Ajuste_admin",
+    "id_referencia":3722,
+    "fecha":"12\/11\/2026 22:37"
+  },
+  {
+    "id_transaccion":105,
+    "id_usuario":3,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-08-06 15:30:18"
+  },
+  {
+    "id_transaccion":106,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2461,
+    "fecha":"23\/07\/2026 20:30"
+  },
+  {
+    "id_transaccion":107,
+    "id_usuario":7,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 3411 ",
+    "fecha":"11\/12\/2025 21:53"
+  },
+  {
+    "id_transaccion":108,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"Ajuste_admin",
+    "id_referencia":4183,
+    "fecha":"08\/07\/2026 17:53"
+  },
+  {
+    "id_transaccion":109,
+    "id_usuario":1,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":4070,
+    "fecha":"2026-07-18 18:48:20"
+  },
+  {
+    "id_transaccion":110,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"19\/01\/2026 15:30"
+  },
+  {
+    "id_transaccion":111,
+    "id_usuario":2,
+    "cantidad":-12,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":2490,
+    "fecha":"09\/06\/2026 14:55"
+  },
+  {
+    "id_transaccion":112,
+    "id_usuario":5,
+    "cantidad":-35,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3242,
+    "fecha":"2026-08-24 08:20:00"
+  },
+  {
+    "id_transaccion":113,
+    "id_usuario":9,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4259,
+    "fecha":"2026-02-17 06:10:56"
+  },
+  {
+    "id_transaccion":114,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1317,
+    "fecha":"2026-01-16 15:24:02"
+  },
+  {
+    "id_transaccion":115,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2736,
+    "fecha":"12\/05\/2026 16:57"
+  },
+  {
+    "id_transaccion":116,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"10\/04\/2026 13:09"
+  },
+  {
+    "id_transaccion":117,
+    "id_usuario":7,
+    "cantidad":-47,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"27\/02\/2026 00:28"
+  },
+  {
+    "id_transaccion":118,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":4408,
+    "fecha":"08\/11\/2026 13:39"
+  },
+  {
+    "id_transaccion":119,
+    "id_usuario":1,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"20\/07\/2026 17:36"
+  },
+  {
+    "id_transaccion":120,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4471,
+    "fecha":"2026-08-08 10:30:48"
+  },
+  {
+    "id_transaccion":121,
+    "id_usuario":6,
+    "cantidad":39,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":2454,
+    "fecha":"18\/06\/2026 11:31"
+  },
+  {
+    "id_transaccion":122,
+    "id_usuario":2,
+    "cantidad":-11,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-02-07 11:20:27"
+  },
+  {
+    "id_transaccion":123,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"COMPRA",
+    "id_referencia":3628,
+    "fecha":"2026-08-07 01:26:47"
+  },
+  {
+    "id_transaccion":124,
+    "id_usuario":9,
+    "cantidad":-41,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"20\/03\/2026 02:54"
+  },
+  {
+    "id_transaccion":125,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"07\/10\/2026 12:19"
+  },
+  {
+    "id_transaccion":126,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"08\/09\/2026 13:34"
+  },
+  {
+    "id_transaccion":127,
+    "id_usuario":2,
+    "cantidad":-27,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2148,
+    "fecha":"2026-09-11 13:13:21"
+  },
+  {
+    "id_transaccion":128,
+    "id_usuario":5,
+    "cantidad":25,
+    "motivo":" bono_diario ",
+    "id_referencia":3040,
+    "fecha":"05\/12\/2025 21:45"
+  },
+  {
+    "id_transaccion":129,
+    "id_usuario":5,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":501,
+    "fecha":"11\/02\/2026 03:15"
+  },
+  {
+    "id_transaccion":130,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2153,
+    "fecha":"29\/09\/2026 08:08"
+  },
+  {
+    "id_transaccion":131,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":1176,
+    "fecha":"2025-11-26 15:34:30"
+  },
+  {
+    "id_transaccion":132,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":3097,
+    "fecha":"22\/09\/2026 19:56"
+  },
+  {
+    "id_transaccion":133,
+    "id_usuario":5,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2517,
+    "fecha":"16\/03\/2026 16:36"
+  },
+  {
+    "id_transaccion":134,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":" compra ",
+    "id_referencia":3355,
+    "fecha":"18\/04\/2026 23:30"
+  },
+  {
+    "id_transaccion":135,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":3825,
+    "fecha":"2026-02-26 03:54:18"
+  },
+  {
+    "id_transaccion":136,
+    "id_usuario":5,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2025-12-09 21:18:06"
+  },
+  {
+    "id_transaccion":137,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"04\/02\/2026 02:52"
+  },
+  {
+    "id_transaccion":138,
+    "id_usuario":5,
+    "cantidad":-12,
+    "motivo":"gasto_mensaje",
+    "id_referencia":" 4135 ",
+    "fecha":"2026-11-03 19:25:28"
+  },
+  {
+    "id_transaccion":139,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4525,
+    "fecha":"2026-06-22 10:52:49"
+  },
+  {
+    "id_transaccion":140,
+    "id_usuario":3,
+    "cantidad":-46,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2391,
+    "fecha":"2026-10-20 12:43:02"
+  },
+  {
+    "id_transaccion":141,
+    "id_usuario":6,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":3109,
+    "fecha":"19\/08\/2026 23:49"
+  },
+  {
+    "id_transaccion":142,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":3825,
+    "fecha":"2026-03-16 09:23:22"
+  },
+  {
+    "id_transaccion":143,
+    "id_usuario":4,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4725,
+    "fecha":"2026-02-04 18:12:07"
+  },
+  {
+    "id_transaccion":144,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":" 1308 ",
+    "fecha":"26\/07\/2026 17:30"
+  },
+  {
+    "id_transaccion":145,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1000,
+    "fecha":"27\/05\/2026 01:33"
+  },
+  {
+    "id_transaccion":146,
+    "id_usuario":1,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":229,
+    "fecha":"2026-04-16 19:56:08"
+  },
+  {
+    "id_transaccion":147,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":" bono_diario ",
+    "id_referencia":null,
+    "fecha":"2026-10-23 18:13:25"
+  },
+  {
+    "id_transaccion":148,
+    "id_usuario":6,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4371,
+    "fecha":"2026-11-04 08:34:49"
+  },
+  {
+    "id_transaccion":149,
+    "id_usuario":1,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"21\/07\/2026 20:11"
+  },
+  {
+    "id_transaccion":150,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":" compra ",
+    "id_referencia":null,
+    "fecha":"11\/05\/2026 09:11"
+  },
+  {
+    "id_transaccion":151,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3624,
+    "fecha":"2026-01-08 16:02:20"
+  },
+  {
+    "id_transaccion":152,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":3815,
+    "fecha":"2026-02-25 01:14:28"
+  },
+  {
+    "id_transaccion":153,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3985,
+    "fecha":"2026-01-07 09:49:41"
+  },
+  {
+    "id_transaccion":154,
+    "id_usuario":2,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":4657,
+    "fecha":"2026-02-17 23:06:50"
+  },
+  {
+    "id_transaccion":155,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":3564,
+    "fecha":"30\/08\/2026 12:10"
+  },
+  {
+    "id_transaccion":156,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"20\/06\/2026 04:42"
+  },
+  {
+    "id_transaccion":157,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":4803,
+    "fecha":"2026-06-11 12:00:41"
+  },
+  {
+    "id_transaccion":158,
+    "id_usuario":7,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":337,
+    "fecha":"2026-02-24 05:18:30"
+  },
+  {
+    "id_transaccion":159,
+    "id_usuario":5,
+    "cantidad":-100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3383,
+    "fecha":"2026-08-31 07:03:09"
+  },
+  {
+    "id_transaccion":160,
+    "id_usuario":1,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-06-29 05:06:55"
+  },
+  {
+    "id_transaccion":161,
+    "id_usuario":6,
+    "cantidad":-50,
+    "motivo":" ajuste_admin ",
+    "id_referencia":507,
+    "fecha":"29\/04\/2026 13:40"
+  },
+  {
+    "id_transaccion":162,
+    "id_usuario":5,
+    "cantidad":-47,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1865,
+    "fecha":"28\/10\/2026 20:41"
+  },
+  {
+    "id_transaccion":163,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4416,
+    "fecha":"28\/06\/2026 19:18"
+  },
+  {
+    "id_transaccion":164,
+    "id_usuario":1,
+    "cantidad":25,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":null,
+    "fecha":"18\/04\/2026 07:03"
+  },
+  {
+    "id_transaccion":165,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":1539,
+    "fecha":"2026-04-03 18:25:50"
+  },
+  {
+    "id_transaccion":166,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":3352,
+    "fecha":"07\/02\/2026 08:35"
+  },
+  {
+    "id_transaccion":167,
+    "id_usuario":1,
+    "cantidad":-6,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":" 3616 ",
+    "fecha":"06\/01\/2026 21:43"
+  },
+  {
+    "id_transaccion":168,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"31\/05\/2026 01:30"
+  },
+  {
+    "id_transaccion":169,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":3380,
+    "fecha":"24\/05\/2026 20:16"
+  },
+  {
+    "id_transaccion":170,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"19\/12\/2025 11:42"
+  },
+  {
+    "id_transaccion":171,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1309,
+    "fecha":"2026-09-03 16:46:46"
+  },
+  {
+    "id_transaccion":172,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":717,
+    "fecha":"2025-12-02 11:32:08"
+  },
+  {
+    "id_transaccion":173,
+    "id_usuario":8,
+    "cantidad":-41,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4724,
+    "fecha":"14\/10\/2026 14:26"
+  },
+  {
+    "id_transaccion":174,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2350,
+    "fecha":"26\/12\/2025 18:22"
+  },
+  {
+    "id_transaccion":175,
+    "id_usuario":6,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"12\/01\/2026 12:57"
+  },
+  {
+    "id_transaccion":176,
+    "id_usuario":2,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":436,
+    "fecha":"2026-07-15 20:36:00"
+  },
+  {
+    "id_transaccion":177,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2913,
+    "fecha":"15\/01\/2026 07:31"
+  },
+  {
+    "id_transaccion":178,
+    "id_usuario":2,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4393,
+    "fecha":"17\/09\/2026 19:05"
+  },
+  {
+    "id_transaccion":179,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4997,
+    "fecha":"2026-08-05 10:55:25"
+  },
+  {
+    "id_transaccion":180,
+    "id_usuario":6,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"27\/04\/2026 03:11"
+  },
+  {
+    "id_transaccion":181,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":" 3310 ",
+    "fecha":"2026-07-03 19:18:51"
+  },
+  {
+    "id_transaccion":182,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"08\/12\/2025 20:30"
+  },
+  {
+    "id_transaccion":183,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"COMPRA",
+    "id_referencia":" 1854 ",
+    "fecha":"2026-04-12 14:40:13"
+  },
+  {
+    "id_transaccion":184,
+    "id_usuario":8,
+    "cantidad":20,
+    "motivo":" bono_diario ",
+    "id_referencia":null,
+    "fecha":"11\/04\/2026 09:19"
+  },
+  {
+    "id_transaccion":185,
+    "id_usuario":9,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4992,
+    "fecha":"2026-07-03 14:27:42"
+  },
+  {
+    "id_transaccion":186,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-05-14 22:55:13"
+  },
+  {
+    "id_transaccion":187,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3777,
+    "fecha":"2026-06-07 16:04:56"
+  },
+  {
+    "id_transaccion":188,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":4772,
+    "fecha":"19\/02\/2026 19:43"
+  },
+  {
+    "id_transaccion":189,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-06-17 00:49:05"
+  },
+  {
+    "id_transaccion":190,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":940,
+    "fecha":"14\/10\/2026 11:25"
+  },
+  {
+    "id_transaccion":191,
+    "id_usuario":9,
+    "cantidad":500,
+    "motivo":"Compra",
+    "id_referencia":4305,
+    "fecha":"2025-11-18 15:23:24"
+  },
+  {
+    "id_transaccion":192,
+    "id_usuario":7,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":3498,
+    "fecha":"2026-08-05 09:04:48"
+  },
+  {
+    "id_transaccion":193,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"2026-08-21 01:59:36"
+  },
+  {
+    "id_transaccion":194,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1236,
+    "fecha":"28\/12\/2025 16:04"
+  },
+  {
+    "id_transaccion":195,
+    "id_usuario":8,
+    "cantidad":44,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":null,
+    "fecha":"05\/08\/2026 22:22"
+  },
+  {
+    "id_transaccion":196,
+    "id_usuario":9,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 491 ",
+    "fecha":"2026-10-23 19:12:18"
+  },
+  {
+    "id_transaccion":197,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":4321,
+    "fecha":"10\/06\/2026 17:18"
+  },
+  {
+    "id_transaccion":198,
+    "id_usuario":3,
+    "cantidad":-100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1634,
+    "fecha":"01\/09\/2026 19:04"
+  },
+  {
+    "id_transaccion":199,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":4258,
+    "fecha":"25\/02\/2026 19:22"
+  },
+  {
+    "id_transaccion":200,
+    "id_usuario":7,
+    "cantidad":-7,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-09-08 16:14:18"
+  },
+  {
+    "id_transaccion":201,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2823,
+    "fecha":"2026-07-21 02:34:34"
+  },
+  {
+    "id_transaccion":202,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"Ajuste_admin",
+    "id_referencia":3906,
+    "fecha":"26\/03\/2026 07:02"
+  },
+  {
+    "id_transaccion":203,
+    "id_usuario":8,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":2503,
+    "fecha":"2025-12-27 12:07:14"
+  },
+  {
+    "id_transaccion":204,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":4548,
+    "fecha":"2026-03-08 03:59:55"
+  },
+  {
+    "id_transaccion":205,
+    "id_usuario":1,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2819,
+    "fecha":"2026-05-02 00:41:06"
+  },
+  {
+    "id_transaccion":206,
+    "id_usuario":6,
+    "cantidad":-30,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1630,
+    "fecha":"2026-01-14 14:30:58"
+  },
+  {
+    "id_transaccion":207,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"09\/05\/2026 09:23"
+  },
+  {
+    "id_transaccion":208,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":" ajuste_admin ",
+    "id_referencia":2610,
+    "fecha":"2025-11-15 10:37:39"
+  },
+  {
+    "id_transaccion":209,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2988,
+    "fecha":"21\/08\/2026 14:45"
+  },
+  {
+    "id_transaccion":210,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1410,
+    "fecha":"20\/10\/2026 07:55"
+  },
+  {
+    "id_transaccion":211,
+    "id_usuario":3,
+    "cantidad":-500,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":3100,
+    "fecha":"2026-08-20 16:17:21"
+  },
+  {
+    "id_transaccion":212,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":729,
+    "fecha":"24\/02\/2026 11:20"
+  },
+  {
+    "id_transaccion":213,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":312,
+    "fecha":"27\/05\/2026 14:10"
+  },
+  {
+    "id_transaccion":214,
+    "id_usuario":8,
+    "cantidad":500,
+    "motivo":" ajuste_admin ",
+    "id_referencia":3755,
+    "fecha":"2026-09-06 02:22:53"
+  },
+  {
+    "id_transaccion":215,
+    "id_usuario":5,
+    "cantidad":-17,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3746,
+    "fecha":"22\/01\/2026 13:32"
+  },
+  {
+    "id_transaccion":216,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-05-30 08:18:55"
+  },
+  {
+    "id_transaccion":217,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"03\/11\/2026 14:41"
+  },
+  {
+    "id_transaccion":218,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"25\/12\/2025 12:11"
+  },
+  {
+    "id_transaccion":219,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3454,
+    "fecha":"18\/10\/2026 06:12"
+  },
+  {
+    "id_transaccion":220,
+    "id_usuario":2,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2922,
+    "fecha":"2026-07-15 00:35:57"
+  },
+  {
+    "id_transaccion":221,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":" ajuste_admin ",
+    "id_referencia":553,
+    "fecha":"10\/03\/2026 02:05"
+  },
+  {
+    "id_transaccion":222,
+    "id_usuario":9,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2934,
+    "fecha":"07\/10\/2026 01:18"
+  },
+  {
+    "id_transaccion":223,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1125,
+    "fecha":"20\/07\/2026 07:49"
+  },
+  {
+    "id_transaccion":224,
+    "id_usuario":9,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"30\/05\/2026 08:08"
+  },
+  {
+    "id_transaccion":225,
+    "id_usuario":6,
+    "cantidad":-50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":null,
+    "fecha":"08\/07\/2026 16:23"
+  },
+  {
+    "id_transaccion":226,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":4569,
+    "fecha":"2026-01-30 10:21:54"
+  },
+  {
+    "id_transaccion":227,
+    "id_usuario":5,
+    "cantidad":-20,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-01-12 12:56:39"
+  },
+  {
+    "id_transaccion":228,
+    "id_usuario":1,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":" 1276 ",
+    "fecha":"2026-04-08 09:30:31"
+  },
+  {
+    "id_transaccion":229,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2714,
+    "fecha":"2026-09-06 07:29:41"
+  },
+  {
+    "id_transaccion":230,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"2026-01-15 22:07:31"
+  },
+  {
+    "id_transaccion":231,
+    "id_usuario":7,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":1655,
+    "fecha":"11\/06\/2026 15:45"
+  },
+  {
+    "id_transaccion":232,
+    "id_usuario":8,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"12\/09\/2026 13:42"
+  },
+  {
+    "id_transaccion":233,
+    "id_usuario":9,
+    "cantidad":-20,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-11-07 10:05:16"
+  },
+  {
+    "id_transaccion":234,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3096,
+    "fecha":"08\/06\/2026 03:38"
+  },
+  {
+    "id_transaccion":235,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":2464,
+    "fecha":"2026-11-05 21:21:32"
+  },
+  {
+    "id_transaccion":236,
+    "id_usuario":9,
+    "cantidad":-40,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1073,
+    "fecha":"2025-11-14 09:42:34"
+  },
+  {
+    "id_transaccion":237,
+    "id_usuario":2,
+    "cantidad":-28,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1281,
+    "fecha":"2026-07-04 18:56:50"
+  },
+  {
+    "id_transaccion":238,
+    "id_usuario":9,
+    "cantidad":37,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":3980,
+    "fecha":"20\/03\/2026 01:43"
+  },
+  {
+    "id_transaccion":239,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"22\/05\/2026 22:30"
+  },
+  {
+    "id_transaccion":240,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":4711,
+    "fecha":"2025-11-21 17:54:56"
+  },
+  {
+    "id_transaccion":241,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":318,
+    "fecha":"27\/12\/2025 15:03"
+  },
+  {
+    "id_transaccion":242,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"10\/11\/2026 00:12"
+  },
+  {
+    "id_transaccion":243,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":1662,
+    "fecha":"2026-04-04 03:36:18"
+  },
+  {
+    "id_transaccion":244,
+    "id_usuario":6,
+    "cantidad":-14,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":3963,
+    "fecha":"21\/10\/2026 10:39"
+  },
+  {
+    "id_transaccion":245,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":4404,
+    "fecha":"2026-10-03 04:03:49"
+  },
+  {
+    "id_transaccion":246,
+    "id_usuario":3,
+    "cantidad":-39,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2265,
+    "fecha":"23\/09\/2026 12:03"
+  },
+  {
+    "id_transaccion":247,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2538,
+    "fecha":"13\/03\/2026 14:37"
+  },
+  {
+    "id_transaccion":248,
+    "id_usuario":4,
+    "cantidad":-25,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2340,
+    "fecha":"2026-02-15 04:14:11"
+  },
+  {
+    "id_transaccion":249,
+    "id_usuario":9,
+    "cantidad":-30,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2479,
+    "fecha":"2025-12-06 16:16:51"
+  },
+  {
+    "id_transaccion":250,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"15\/02\/2026 17:27"
+  },
+  {
+    "id_transaccion":251,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":2086,
+    "fecha":"2026-10-21 04:01:18"
+  },
+  {
+    "id_transaccion":252,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":" bono_diario ",
+    "id_referencia":" 3969 ",
+    "fecha":"2026-06-22 12:31:44"
+  },
+  {
+    "id_transaccion":253,
+    "id_usuario":3,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":4011,
+    "fecha":"14\/12\/2025 18:26"
+  },
+  {
+    "id_transaccion":254,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"17\/12\/2025 10:43"
+  },
+  {
+    "id_transaccion":255,
+    "id_usuario":9,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":397,
+    "fecha":"25\/08\/2026 10:15"
+  },
+  {
+    "id_transaccion":256,
+    "id_usuario":7,
+    "cantidad":-16,
+    "motivo":"gasto_mensaje",
+    "id_referencia":406,
+    "fecha":"2026-05-21 22:08:18"
+  },
+  {
+    "id_transaccion":257,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1199,
+    "fecha":"27\/09\/2026 02:16"
+  },
+  {
+    "id_transaccion":258,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2207,
+    "fecha":"11\/12\/2025 01:29"
+  },
+  {
+    "id_transaccion":259,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"05\/09\/2026 13:42"
+  },
+  {
+    "id_transaccion":260,
+    "id_usuario":7,
+    "cantidad":-37,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"09\/06\/2026 01:33"
+  },
+  {
+    "id_transaccion":261,
+    "id_usuario":8,
+    "cantidad":-50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2287,
+    "fecha":"07\/09\/2026 14:28"
+  },
+  {
+    "id_transaccion":262,
+    "id_usuario":5,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"02\/01\/2026 00:33"
+  },
+  {
+    "id_transaccion":263,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2647,
+    "fecha":"03\/01\/2026 01:04"
+  },
+  {
+    "id_transaccion":264,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"28\/07\/2026 09:42"
+  },
+  {
+    "id_transaccion":265,
+    "id_usuario":6,
+    "cantidad":-49,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1889,
+    "fecha":"17\/05\/2026 18:19"
+  },
+  {
+    "id_transaccion":266,
+    "id_usuario":2,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":1019,
+    "fecha":"2026-06-15 16:55:12"
+  },
+  {
+    "id_transaccion":267,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":" ajuste_admin ",
+    "id_referencia":" 4362 ",
+    "fecha":"2026-01-17 07:28:26"
+  },
+  {
+    "id_transaccion":268,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":3814,
+    "fecha":"2026-02-25 02:53:09"
+  },
+  {
+    "id_transaccion":269,
+    "id_usuario":7,
+    "cantidad":-41,
+    "motivo":"gasto_mensaje",
+    "id_referencia":278,
+    "fecha":"2026-06-07 02:39:19"
+  },
+  {
+    "id_transaccion":270,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":4533,
+    "fecha":"19\/10\/2026 00:02"
+  },
+  {
+    "id_transaccion":271,
+    "id_usuario":2,
+    "cantidad":-7,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"07\/07\/2026 18:14"
+  },
+  {
+    "id_transaccion":272,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":757,
+    "fecha":"27\/04\/2026 12:18"
+  },
+  {
+    "id_transaccion":273,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":" bono_diario ",
+    "id_referencia":3319,
+    "fecha":"04\/02\/2026 10:28"
+  },
+  {
+    "id_transaccion":274,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":3574,
+    "fecha":"09\/11\/2026 22:28"
+  },
+  {
+    "id_transaccion":275,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":1024,
+    "fecha":"2026-06-11 14:58:58"
+  },
+  {
+    "id_transaccion":276,
+    "id_usuario":7,
+    "cantidad":-50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":3757,
+    "fecha":"03\/09\/2026 11:57"
+  },
+  {
+    "id_transaccion":277,
+    "id_usuario":1,
+    "cantidad":-50,
+    "motivo":"bono_diario",
+    "id_referencia":562,
+    "fecha":"2026-08-24 15:49:47"
+  },
+  {
+    "id_transaccion":278,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2726,
+    "fecha":"2026-08-09 02:24:41"
+  },
+  {
+    "id_transaccion":279,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4946,
+    "fecha":"31\/01\/2026 07:14"
+  },
+  {
+    "id_transaccion":280,
+    "id_usuario":3,
+    "cantidad":-40,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3222,
+    "fecha":"18\/08\/2026 01:32"
+  },
+  {
+    "id_transaccion":281,
+    "id_usuario":6,
+    "cantidad":-31,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3979,
+    "fecha":"2026-03-15 05:47:08"
+  },
+  {
+    "id_transaccion":282,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3512,
+    "fecha":"18\/04\/2026 03:15"
+  },
+  {
+    "id_transaccion":283,
+    "id_usuario":3,
+    "cantidad":-20,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-08-02 00:57:19"
+  },
+  {
+    "id_transaccion":284,
+    "id_usuario":6,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":423,
+    "fecha":"24\/07\/2026 13:40"
+  },
+  {
+    "id_transaccion":285,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 225 ",
+    "fecha":"2026-04-08 04:54:37"
+  },
+  {
+    "id_transaccion":286,
+    "id_usuario":4,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":3349,
+    "fecha":"03\/05\/2026 07:46"
+  },
+  {
+    "id_transaccion":287,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2242,
+    "fecha":"2026-10-29 13:23:24"
+  },
+  {
+    "id_transaccion":288,
+    "id_usuario":8,
+    "cantidad":-11,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2723,
+    "fecha":"03\/06\/2026 04:32"
+  },
+  {
+    "id_transaccion":289,
+    "id_usuario":6,
+    "cantidad":-100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":232,
+    "fecha":"2026-05-08 12:32:06"
+  },
+  {
+    "id_transaccion":290,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2113,
+    "fecha":"2025-12-31 04:13:12"
+  },
+  {
+    "id_transaccion":291,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1478,
+    "fecha":"18\/02\/2026 11:01"
+  },
+  {
+    "id_transaccion":292,
+    "id_usuario":6,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4541,
+    "fecha":"09\/02\/2026 10:42"
+  },
+  {
+    "id_transaccion":293,
+    "id_usuario":1,
+    "cantidad":-50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":497,
+    "fecha":"09\/12\/2025 01:08"
+  },
+  {
+    "id_transaccion":294,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"25\/03\/2026 11:33"
+  },
+  {
+    "id_transaccion":295,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":"COMPRA",
+    "id_referencia":3469,
+    "fecha":"2025-11-22 08:25:57"
+  },
+  {
+    "id_transaccion":296,
+    "id_usuario":9,
+    "cantidad":-100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1568,
+    "fecha":"2026-06-30 15:48:49"
+  },
+  {
+    "id_transaccion":297,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-06-17 07:18:07"
+  },
+  {
+    "id_transaccion":298,
+    "id_usuario":7,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"11\/02\/2026 13:12"
+  },
+  {
+    "id_transaccion":299,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":559,
+    "fecha":"30\/06\/2026 17:02"
+  },
+  {
+    "id_transaccion":300,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":" 881 ",
+    "fecha":"07\/02\/2026 16:57"
+  },
+  {
+    "id_transaccion":301,
+    "id_usuario":1,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":2320,
+    "fecha":"2025-11-16 23:24:09"
+  },
+  {
+    "id_transaccion":302,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2025-12-11 18:04:57"
+  },
+  {
+    "id_transaccion":303,
+    "id_usuario":3,
+    "cantidad":-9,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3287,
+    "fecha":"16\/08\/2026 01:56"
+  },
+  {
+    "id_transaccion":304,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":742,
+    "fecha":"17\/07\/2026 06:41"
+  },
+  {
+    "id_transaccion":305,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":" 4979 ",
+    "fecha":"2025-12-07 01:07:20"
+  },
+  {
+    "id_transaccion":306,
+    "id_usuario":6,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"11\/02\/2026 02:16"
+  },
+  {
+    "id_transaccion":307,
+    "id_usuario":7,
+    "cantidad":-16,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"10\/12\/2025 08:35"
+  },
+  {
+    "id_transaccion":308,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":1363,
+    "fecha":"31\/10\/2026 19:30"
+  },
+  {
+    "id_transaccion":309,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2309,
+    "fecha":"2025-11-26 09:10:08"
+  },
+  {
+    "id_transaccion":310,
+    "id_usuario":2,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":315,
+    "fecha":"2026-10-14 00:45:42"
+  },
+  {
+    "id_transaccion":311,
+    "id_usuario":9,
+    "cantidad":500,
+    "motivo":"COMPRA",
+    "id_referencia":793,
+    "fecha":"22\/03\/2026 12:11"
+  },
+  {
+    "id_transaccion":312,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2025-12-11 16:49:03"
+  },
+  {
+    "id_transaccion":313,
+    "id_usuario":5,
+    "cantidad":-14,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4066,
+    "fecha":"01\/06\/2026 20:39"
+  },
+  {
+    "id_transaccion":314,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3850,
+    "fecha":"2026-02-14 14:44:35"
+  },
+  {
+    "id_transaccion":315,
+    "id_usuario":5,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":2799,
+    "fecha":"2026-03-02 07:58:31"
+  },
+  {
+    "id_transaccion":316,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4024,
+    "fecha":"2026-07-31 23:42:14"
+  },
+  {
+    "id_transaccion":317,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2085,
+    "fecha":"2026-05-21 16:46:12"
+  },
+  {
+    "id_transaccion":318,
+    "id_usuario":5,
+    "cantidad":-28,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4569,
+    "fecha":"2026-02-05 09:12:39"
+  },
+  {
+    "id_transaccion":319,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"Compra",
+    "id_referencia":666,
+    "fecha":"11\/06\/2026 14:24"
+  },
+  {
+    "id_transaccion":320,
+    "id_usuario":7,
+    "cantidad":-13,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3566,
+    "fecha":"04\/01\/2026 13:36"
+  },
+  {
+    "id_transaccion":321,
+    "id_usuario":2,
+    "cantidad":-43,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3526,
+    "fecha":"22\/08\/2026 02:30"
+  },
+  {
+    "id_transaccion":322,
+    "id_usuario":6,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1462,
+    "fecha":"12\/11\/2026 12:00"
+  },
+  {
+    "id_transaccion":323,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":967,
+    "fecha":"2026-10-22 20:47:07"
+  },
+  {
+    "id_transaccion":324,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":1910,
+    "fecha":"2026-06-23 22:53:11"
+  },
+  {
+    "id_transaccion":325,
+    "id_usuario":7,
+    "cantidad":-48,
+    "motivo":"gasto_mensaje",
+    "id_referencia":" 301 ",
+    "fecha":"2026-06-25 23:03:39"
+  },
+  {
+    "id_transaccion":326,
+    "id_usuario":5,
+    "cantidad":-10,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-05-16 17:59:32"
+  },
+  {
+    "id_transaccion":327,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":3806,
+    "fecha":"2026-02-16 13:16:39"
+  },
+  {
+    "id_transaccion":328,
+    "id_usuario":5,
+    "cantidad":-100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"14\/09\/2026 21:33"
+  },
+  {
+    "id_transaccion":329,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":3885,
+    "fecha":"2026-05-16 20:48:23"
+  },
+  {
+    "id_transaccion":330,
+    "id_usuario":7,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"23\/09\/2026 18:47"
+  },
+  {
+    "id_transaccion":331,
+    "id_usuario":4,
+    "cantidad":-42,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":null,
+    "fecha":"2026-04-21 06:27:10"
+  },
+  {
+    "id_transaccion":332,
+    "id_usuario":2,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1714,
+    "fecha":"2026-01-27 03:07:41"
+  },
+  {
+    "id_transaccion":333,
+    "id_usuario":5,
+    "cantidad":-38,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3315,
+    "fecha":"20\/12\/2025 19:33"
+  },
+  {
+    "id_transaccion":334,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2536,
+    "fecha":"21\/12\/2025 19:50"
+  },
+  {
+    "id_transaccion":335,
+    "id_usuario":2,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"28\/07\/2026 02:32"
+  },
+  {
+    "id_transaccion":336,
+    "id_usuario":9,
+    "cantidad":-31,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4086,
+    "fecha":"30\/04\/2026 14:04"
+  },
+  {
+    "id_transaccion":337,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":" ajuste_admin ",
+    "id_referencia":" 3794 ",
+    "fecha":"31\/03\/2026 18:40"
+  },
+  {
+    "id_transaccion":338,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":4240,
+    "fecha":"27\/04\/2026 16:25"
+  },
+  {
+    "id_transaccion":339,
+    "id_usuario":7,
+    "cantidad":-31,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"22\/04\/2026 20:07"
+  },
+  {
+    "id_transaccion":340,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-05-14 13:21:52"
+  },
+  {
+    "id_transaccion":341,
+    "id_usuario":8,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":3105,
+    "fecha":"15\/10\/2026 15:55"
+  },
+  {
+    "id_transaccion":342,
+    "id_usuario":1,
+    "cantidad":-39,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2127,
+    "fecha":"2026-08-24 07:51:31"
+  },
+  {
+    "id_transaccion":343,
+    "id_usuario":1,
+    "cantidad":-21,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1061,
+    "fecha":"05\/12\/2025 05:17"
+  },
+  {
+    "id_transaccion":344,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":3607,
+    "fecha":"2026-08-02 16:35:29"
+  },
+  {
+    "id_transaccion":345,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4989,
+    "fecha":"25\/07\/2026 23:01"
+  },
+  {
+    "id_transaccion":346,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":880,
+    "fecha":"2026-07-23 03:12:39"
+  },
+  {
+    "id_transaccion":347,
+    "id_usuario":7,
+    "cantidad":500,
+    "motivo":" compra ",
+    "id_referencia":2145,
+    "fecha":"2025-12-22 09:42:00"
+  },
+  {
+    "id_transaccion":348,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":" bono_diario ",
+    "id_referencia":3493,
+    "fecha":"2025-12-07 17:19:48"
+  },
+  {
+    "id_transaccion":349,
+    "id_usuario":2,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":3123,
+    "fecha":"2026-04-19 13:04:53"
+  },
+  {
+    "id_transaccion":350,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"23\/08\/2026 23:49"
+  },
+  {
+    "id_transaccion":351,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-03-25 22:54:31"
+  },
+  {
+    "id_transaccion":352,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 496 ",
+    "fecha":"2026-09-21 02:26:31"
+  },
+  {
+    "id_transaccion":353,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":" compra ",
+    "id_referencia":3604,
+    "fecha":"2026-10-14 19:44:57"
+  },
+  {
+    "id_transaccion":354,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2025-12-26 14:50:25"
+  },
+  {
+    "id_transaccion":355,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2018,
+    "fecha":"2026-02-18 18:01:27"
+  },
+  {
+    "id_transaccion":356,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"COMPRA",
+    "id_referencia":4355,
+    "fecha":"27\/01\/2026 14:07"
+  },
+  {
+    "id_transaccion":357,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":1182,
+    "fecha":"2026-01-27 01:15:16"
+  },
+  {
+    "id_transaccion":358,
+    "id_usuario":4,
+    "cantidad":-10,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":" 2551 ",
+    "fecha":"2026-06-10 10:55:28"
+  },
+  {
+    "id_transaccion":359,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":3705,
+    "fecha":"2026-05-07 09:45:37"
+  },
+  {
+    "id_transaccion":360,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"07\/01\/2026 14:58"
+  },
+  {
+    "id_transaccion":361,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":2129,
+    "fecha":"2026-04-27 00:36:03"
+  },
+  {
+    "id_transaccion":362,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"24\/01\/2026 10:36"
+  },
+  {
+    "id_transaccion":363,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2521,
+    "fecha":"02\/03\/2026 08:36"
+  },
+  {
+    "id_transaccion":364,
+    "id_usuario":4,
+    "cantidad":-29,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4427,
+    "fecha":"12\/05\/2026 20:23"
+  },
+  {
+    "id_transaccion":365,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3093,
+    "fecha":"19\/02\/2026 04:44"
+  },
+  {
+    "id_transaccion":366,
+    "id_usuario":3,
+    "cantidad":9,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":null,
+    "fecha":"2026-10-19 19:10:44"
+  },
+  {
+    "id_transaccion":367,
+    "id_usuario":1,
+    "cantidad":-37,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3569,
+    "fecha":"07\/11\/2026 17:50"
+  },
+  {
+    "id_transaccion":368,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1764,
+    "fecha":"13\/12\/2025 11:01"
+  },
+  {
+    "id_transaccion":369,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":641,
+    "fecha":"2026-05-05 06:39:25"
+  },
+  {
+    "id_transaccion":370,
+    "id_usuario":7,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"23\/09\/2026 23:41"
+  },
+  {
+    "id_transaccion":371,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1442,
+    "fecha":"2026-10-14 16:44:04"
+  },
+  {
+    "id_transaccion":372,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":" ajuste_admin ",
+    "id_referencia":2301,
+    "fecha":"12\/10\/2026 14:34"
+  },
+  {
+    "id_transaccion":373,
+    "id_usuario":2,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"15\/06\/2026 21:46"
+  },
+  {
+    "id_transaccion":374,
+    "id_usuario":2,
+    "cantidad":-34,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":1467,
+    "fecha":"2025-12-22 04:57:16"
+  },
+  {
+    "id_transaccion":375,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"03\/12\/2025 19:53"
+  },
+  {
+    "id_transaccion":376,
+    "id_usuario":4,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"25\/07\/2026 10:48"
+  },
+  {
+    "id_transaccion":377,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":2720,
+    "fecha":"2026-06-12 03:01:26"
+  },
+  {
+    "id_transaccion":378,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-10-04 20:43:15"
+  },
+  {
+    "id_transaccion":379,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"19\/11\/2025 21:55"
+  },
+  {
+    "id_transaccion":380,
+    "id_usuario":6,
+    "cantidad":-1000,
+    "motivo":"Compra",
+    "id_referencia":2589,
+    "fecha":"20\/12\/2025 09:39"
+  },
+  {
+    "id_transaccion":381,
+    "id_usuario":4,
+    "cantidad":-28,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1700,
+    "fecha":"08\/11\/2026 22:44"
+  },
+  {
+    "id_transaccion":382,
+    "id_usuario":9,
+    "cantidad":-20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-09-02 20:07:07"
+  },
+  {
+    "id_transaccion":383,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2619,
+    "fecha":"2026-10-09 18:47:48"
+  },
+  {
+    "id_transaccion":384,
+    "id_usuario":9,
+    "cantidad":25,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":2392,
+    "fecha":"2026-02-13 23:35:44"
+  },
+  {
+    "id_transaccion":385,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":795,
+    "fecha":"17\/01\/2026 18:30"
+  },
+  {
+    "id_transaccion":386,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":3663,
+    "fecha":"21\/04\/2026 00:25"
+  },
+  {
+    "id_transaccion":387,
+    "id_usuario":3,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2772,
+    "fecha":"2026-05-21 18:52:57"
+  },
+  {
+    "id_transaccion":388,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":" bono_diario ",
+    "id_referencia":992,
+    "fecha":"2026-05-20 02:57:53"
+  },
+  {
+    "id_transaccion":389,
+    "id_usuario":3,
+    "cantidad":-34,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":1800,
+    "fecha":"2026-02-05 04:38:54"
+  },
+  {
+    "id_transaccion":390,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 430 ",
+    "fecha":"2026-10-15 23:30:17"
+  },
+  {
+    "id_transaccion":391,
+    "id_usuario":6,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":501,
+    "fecha":"18\/04\/2026 22:20"
+  },
+  {
+    "id_transaccion":392,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4606,
+    "fecha":"2026-10-30 15:45:22"
+  },
+  {
+    "id_transaccion":393,
+    "id_usuario":8,
+    "cantidad":250,
+    "motivo":"COMPRA",
+    "id_referencia":1920,
+    "fecha":"2025-12-06 22:54:02"
+  },
+  {
+    "id_transaccion":394,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":278,
+    "fecha":"17\/01\/2026 02:54"
+  },
+  {
+    "id_transaccion":395,
+    "id_usuario":4,
+    "cantidad":-13,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1103,
+    "fecha":"2026-04-10 08:39:52"
+  },
+  {
+    "id_transaccion":396,
+    "id_usuario":8,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":4164,
+    "fecha":"2025-11-15 00:28:07"
+  },
+  {
+    "id_transaccion":397,
+    "id_usuario":7,
+    "cantidad":25,
+    "motivo":"Bono_diario",
+    "id_referencia":null,
+    "fecha":"14\/04\/2026 19:22"
+  },
+  {
+    "id_transaccion":398,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4024,
+    "fecha":"2026-02-25 04:15:02"
+  },
+  {
+    "id_transaccion":399,
+    "id_usuario":5,
+    "cantidad":-13,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2141,
+    "fecha":"09\/11\/2026 00:09"
+  },
+  {
+    "id_transaccion":400,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":4070,
+    "fecha":"2026-09-14 16:26:48"
+  },
+  {
+    "id_transaccion":401,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":340,
+    "fecha":"15\/09\/2026 02:18"
+  },
+  {
+    "id_transaccion":402,
+    "id_usuario":5,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":1407,
+    "fecha":"2026-05-09 21:21:52"
+  },
+  {
+    "id_transaccion":403,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3281,
+    "fecha":"2026-03-04 23:05:40"
+  },
+  {
+    "id_transaccion":404,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4946,
+    "fecha":"2026-04-27 11:05:40"
+  },
+  {
+    "id_transaccion":405,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"Ajuste_admin",
+    "id_referencia":4132,
+    "fecha":"11\/08\/2026 17:04"
+  },
+  {
+    "id_transaccion":406,
+    "id_usuario":3,
+    "cantidad":-7,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"24\/08\/2026 21:10"
+  },
+  {
+    "id_transaccion":407,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"14\/09\/2026 09:50"
+  },
+  {
+    "id_transaccion":408,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-06-18 00:30:55"
+  },
+  {
+    "id_transaccion":409,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":927,
+    "fecha":"2026-07-29 05:28:00"
+  },
+  {
+    "id_transaccion":410,
+    "id_usuario":6,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4091,
+    "fecha":"20\/08\/2026 04:25"
+  },
+  {
+    "id_transaccion":411,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-05-22 04:29:07"
+  },
+  {
+    "id_transaccion":412,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":3307,
+    "fecha":"13\/01\/2026 07:11"
+  },
+  {
+    "id_transaccion":413,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":4732,
+    "fecha":"2026-01-26 22:21:20"
+  },
+  {
+    "id_transaccion":414,
+    "id_usuario":8,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":1475,
+    "fecha":"09\/03\/2026 09:53"
+  },
+  {
+    "id_transaccion":415,
+    "id_usuario":2,
+    "cantidad":-100,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":2971,
+    "fecha":"2026-02-06 17:29:54"
+  },
+  {
+    "id_transaccion":416,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":3491,
+    "fecha":"2025-12-06 21:28:58"
+  },
+  {
+    "id_transaccion":417,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1947,
+    "fecha":"2026-06-27 02:43:50"
+  },
+  {
+    "id_transaccion":418,
+    "id_usuario":2,
+    "cantidad":-500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-08-26 21:56:48"
+  },
+  {
+    "id_transaccion":419,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2868,
+    "fecha":"12\/06\/2026 18:00"
+  },
+  {
+    "id_transaccion":420,
+    "id_usuario":8,
+    "cantidad":1000,
+    "motivo":"Compra",
+    "id_referencia":1386,
+    "fecha":"2025-12-07 20:32:41"
+  },
+  {
+    "id_transaccion":421,
+    "id_usuario":6,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4524,
+    "fecha":"2026-08-31 16:01:00"
+  },
+  {
+    "id_transaccion":422,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4121,
+    "fecha":"2026-03-15 23:23:16"
+  },
+  {
+    "id_transaccion":423,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":4034,
+    "fecha":"2025-12-06 09:11:53"
+  },
+  {
+    "id_transaccion":424,
+    "id_usuario":1,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":1046,
+    "fecha":"2025-12-03 15:44:22"
+  },
+  {
+    "id_transaccion":425,
+    "id_usuario":7,
+    "cantidad":-36,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3274,
+    "fecha":"2026-06-29 01:18:32"
+  },
+  {
+    "id_transaccion":426,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1953,
+    "fecha":"18\/05\/2026 08:22"
+  },
+  {
+    "id_transaccion":427,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":" bono_diario ",
+    "id_referencia":" 4535 ",
+    "fecha":"2026-05-28 11:17:03"
+  },
+  {
+    "id_transaccion":428,
+    "id_usuario":4,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4486,
+    "fecha":"06\/11\/2026 05:41"
+  },
+  {
+    "id_transaccion":429,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":384,
+    "fecha":"11\/10\/2026 08:18"
+  },
+  {
+    "id_transaccion":430,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"08\/06\/2026 10:50"
+  },
+  {
+    "id_transaccion":431,
+    "id_usuario":4,
+    "cantidad":-20,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":1754,
+    "fecha":"14\/01\/2026 07:45"
+  },
+  {
+    "id_transaccion":432,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":812,
+    "fecha":"2025-12-06 06:32:06"
+  },
+  {
+    "id_transaccion":433,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":201,
+    "fecha":"30\/05\/2026 09:41"
+  },
+  {
+    "id_transaccion":434,
+    "id_usuario":9,
+    "cantidad":-12,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":920,
+    "fecha":"15\/12\/2025 07:04"
+  },
+  {
+    "id_transaccion":435,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4786,
+    "fecha":"10\/10\/2026 19:28"
+  },
+  {
+    "id_transaccion":436,
+    "id_usuario":1,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":3390,
+    "fecha":"2026-01-25 08:23:36"
+  },
+  {
+    "id_transaccion":437,
+    "id_usuario":6,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":265,
+    "fecha":"2025-12-10 19:02:39"
+  },
+  {
+    "id_transaccion":438,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1967,
+    "fecha":"2026-07-03 06:30:30"
+  },
+  {
+    "id_transaccion":439,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2025-12-10 13:49:13"
+  },
+  {
+    "id_transaccion":440,
+    "id_usuario":7,
+    "cantidad":-38,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1402,
+    "fecha":"2026-08-03 09:48:58"
+  },
+  {
+    "id_transaccion":441,
+    "id_usuario":9,
+    "cantidad":-13,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1523,
+    "fecha":"2026-10-14 21:06:58"
+  },
+  {
+    "id_transaccion":442,
+    "id_usuario":4,
+    "cantidad":-250,
+    "motivo":"COMPRA",
+    "id_referencia":1731,
+    "fecha":"2026-02-13 12:38:18"
+  },
+  {
+    "id_transaccion":443,
+    "id_usuario":8,
+    "cantidad":500,
+    "motivo":" ajuste_admin ",
+    "id_referencia":null,
+    "fecha":"2026-04-19 23:50:24"
+  },
+  {
+    "id_transaccion":444,
+    "id_usuario":8,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"30\/12\/2025 17:48"
+  },
+  {
+    "id_transaccion":445,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":1855,
+    "fecha":"25\/10\/2026 22:27"
+  },
+  {
+    "id_transaccion":446,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":172,
+    "fecha":"2026-06-23 10:08:19"
+  },
+  {
+    "id_transaccion":447,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2602,
+    "fecha":"17\/02\/2026 19:16"
+  },
+  {
+    "id_transaccion":448,
+    "id_usuario":5,
+    "cantidad":-29,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-06-27 00:17:45"
+  },
+  {
+    "id_transaccion":449,
+    "id_usuario":9,
+    "cantidad":500,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":3165,
+    "fecha":"03\/07\/2026 01:41"
+  },
+  {
+    "id_transaccion":450,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2025-11-29 14:47:53"
+  },
+  {
+    "id_transaccion":451,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-07-12 17:25:59"
+  },
+  {
+    "id_transaccion":452,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2225,
+    "fecha":"16\/12\/2025 00:31"
+  },
+  {
+    "id_transaccion":453,
+    "id_usuario":7,
+    "cantidad":-7,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2911,
+    "fecha":"25\/04\/2026 23:50"
+  },
+  {
+    "id_transaccion":454,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":1492,
+    "fecha":"27\/07\/2026 11:32"
+  },
+  {
+    "id_transaccion":455,
+    "id_usuario":9,
+    "cantidad":25,
+    "motivo":" bono_diario ",
+    "id_referencia":null,
+    "fecha":"28\/06\/2026 20:35"
+  },
+  {
+    "id_transaccion":456,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3544,
+    "fecha":"21\/06\/2026 16:40"
+  },
+  {
+    "id_transaccion":457,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-06-05 05:04:02"
+  },
+  {
+    "id_transaccion":458,
+    "id_usuario":2,
+    "cantidad":-17,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2544,
+    "fecha":"2026-03-17 01:09:35"
+  },
+  {
+    "id_transaccion":459,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":3848,
+    "fecha":"2026-11-12 04:28:22"
+  },
+  {
+    "id_transaccion":460,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":" 575 ",
+    "fecha":"2026-02-23 10:53:29"
+  },
+  {
+    "id_transaccion":461,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":" bono_diario ",
+    "id_referencia":821,
+    "fecha":"2026-02-01 12:12:46"
+  },
+  {
+    "id_transaccion":462,
+    "id_usuario":7,
+    "cantidad":-30,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"01\/08\/2026 06:40"
+  },
+  {
+    "id_transaccion":463,
+    "id_usuario":6,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-08-19 07:46:14"
+  },
+  {
+    "id_transaccion":464,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"16\/03\/2026 04:47"
+  },
+  {
+    "id_transaccion":465,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"14\/02\/2026 21:05"
+  },
+  {
+    "id_transaccion":466,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 4115 ",
+    "fecha":"2026-02-25 08:05:09"
+  },
+  {
+    "id_transaccion":467,
+    "id_usuario":4,
+    "cantidad":-25,
+    "motivo":"bono_diario",
+    "id_referencia":1830,
+    "fecha":"16\/04\/2026 21:22"
+  },
+  {
+    "id_transaccion":468,
+    "id_usuario":9,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"04\/01\/2026 00:15"
+  },
+  {
+    "id_transaccion":469,
+    "id_usuario":5,
+    "cantidad":-50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":null,
+    "fecha":"02\/08\/2026 00:59"
+  },
+  {
+    "id_transaccion":470,
+    "id_usuario":1,
+    "cantidad":1000,
+    "motivo":" compra ",
+    "id_referencia":null,
+    "fecha":"22\/07\/2026 20:52"
+  },
+  {
+    "id_transaccion":471,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":" compra ",
+    "id_referencia":1223,
+    "fecha":"2026-03-10 16:33:16"
+  },
+  {
+    "id_transaccion":472,
+    "id_usuario":2,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1736,
+    "fecha":"10\/05\/2026 18:01"
+  },
+  {
+    "id_transaccion":473,
+    "id_usuario":9,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-03-16 23:21:51"
+  },
+  {
+    "id_transaccion":474,
+    "id_usuario":4,
+    "cantidad":-26,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":null,
+    "fecha":"2026-11-09 23:27:27"
+  },
+  {
+    "id_transaccion":475,
+    "id_usuario":8,
+    "cantidad":20,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":2196,
+    "fecha":"02\/09\/2026 04:15"
+  },
+  {
+    "id_transaccion":476,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"2026-11-12 14:03:17"
+  },
+  {
+    "id_transaccion":477,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":475,
+    "fecha":"2025-12-12 08:31:48"
+  },
+  {
+    "id_transaccion":478,
+    "id_usuario":3,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":861,
+    "fecha":"2025-11-17 19:12:19"
+  },
+  {
+    "id_transaccion":479,
+    "id_usuario":6,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-05-11 03:54:35"
+  },
+  {
+    "id_transaccion":480,
+    "id_usuario":8,
+    "cantidad":-46,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"13\/07\/2026 10:00"
+  },
+  {
+    "id_transaccion":481,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":3689,
+    "fecha":"2026-06-20 19:51:36"
+  },
+  {
+    "id_transaccion":482,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1170,
+    "fecha":"2025-12-23 00:16:19"
+  },
+  {
+    "id_transaccion":483,
+    "id_usuario":8,
+    "cantidad":1000,
+    "motivo":"COMPRA",
+    "id_referencia":201,
+    "fecha":"12\/12\/2025 15:13"
+  },
+  {
+    "id_transaccion":484,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 4385 ",
+    "fecha":"10\/06\/2026 23:29"
+  },
+  {
+    "id_transaccion":485,
+    "id_usuario":2,
+    "cantidad":-47,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3252,
+    "fecha":"2026-02-04 23:07:16"
+  },
+  {
+    "id_transaccion":486,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":3944,
+    "fecha":"29\/05\/2026 15:33"
+  },
+  {
+    "id_transaccion":487,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"25\/02\/2026 04:13"
+  },
+  {
+    "id_transaccion":488,
+    "id_usuario":9,
+    "cantidad":-30,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":4794,
+    "fecha":"2026-01-04 14:57:49"
+  },
+  {
+    "id_transaccion":489,
+    "id_usuario":8,
+    "cantidad":-25,
+    "motivo":"gasto_mensaje",
+    "id_referencia":940,
+    "fecha":"2026-11-11 14:59:13"
+  },
+  {
+    "id_transaccion":490,
+    "id_usuario":1,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2595,
+    "fecha":"29\/03\/2026 17:22"
+  },
+  {
+    "id_transaccion":491,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":544,
+    "fecha":"22\/10\/2026 06:37"
+  },
+  {
+    "id_transaccion":492,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":898,
+    "fecha":"10\/12\/2025 21:33"
+  },
+  {
+    "id_transaccion":493,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":4586,
+    "fecha":"21\/10\/2026 15:46"
+  },
+  {
+    "id_transaccion":494,
+    "id_usuario":2,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":3452,
+    "fecha":"2026-02-17 01:16:29"
+  },
+  {
+    "id_transaccion":495,
+    "id_usuario":4,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":1661,
+    "fecha":"06\/04\/2026 16:37"
+  },
+  {
+    "id_transaccion":496,
+    "id_usuario":2,
+    "cantidad":-7,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3790,
+    "fecha":"2026-03-04 20:39:15"
+  },
+  {
+    "id_transaccion":497,
+    "id_usuario":9,
+    "cantidad":-25,
+    "motivo":"bono_diario",
+    "id_referencia":3645,
+    "fecha":"14\/01\/2026 10:41"
+  },
+  {
+    "id_transaccion":498,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"Ajuste_admin",
+    "id_referencia":948,
+    "fecha":"2026-05-03 08:33:19"
+  },
+  {
+    "id_transaccion":499,
+    "id_usuario":6,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":2133,
+    "fecha":"2026-10-03 23:26:43"
+  },
+  {
+    "id_transaccion":500,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":4296,
+    "fecha":"2026-06-13 03:32:15"
+  },
+  {
+    "id_transaccion":501,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-08-14 09:50:47"
+  },
+  {
+    "id_transaccion":502,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2985,
+    "fecha":"11\/03\/2026 16:02"
+  },
+  {
+    "id_transaccion":503,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-07-09 17:37:44"
+  },
+  {
+    "id_transaccion":504,
+    "id_usuario":7,
+    "cantidad":20,
+    "motivo":"Bono_diario",
+    "id_referencia":1418,
+    "fecha":"23\/09\/2026 15:05"
+  },
+  {
+    "id_transaccion":505,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":364,
+    "fecha":"2026-07-26 03:52:48"
+  },
+  {
+    "id_transaccion":506,
+    "id_usuario":8,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"07\/06\/2026 14:27"
+  },
+  {
+    "id_transaccion":507,
+    "id_usuario":5,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":2661,
+    "fecha":"17\/11\/2025 05:17"
+  },
+  {
+    "id_transaccion":508,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":3729,
+    "fecha":"31\/07\/2026 13:18"
+  },
+  {
+    "id_transaccion":509,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-09-27 12:20:30"
+  },
+  {
+    "id_transaccion":510,
+    "id_usuario":2,
+    "cantidad":20,
+    "motivo":" bono_diario ",
+    "id_referencia":null,
+    "fecha":"2026-06-17 13:38:49"
+  },
+  {
+    "id_transaccion":511,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":" 1368 ",
+    "fecha":"2026-03-10 10:47:28"
+  },
+  {
+    "id_transaccion":512,
+    "id_usuario":6,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2567,
+    "fecha":"2026-11-11 00:58:29"
+  },
+  {
+    "id_transaccion":513,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-07-29 19:36:36"
+  },
+  {
+    "id_transaccion":514,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2025-12-24 09:52:31"
+  },
+  {
+    "id_transaccion":515,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":4445,
+    "fecha":"2026-11-13 19:50:27"
+  },
+  {
+    "id_transaccion":516,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":2097,
+    "fecha":"21\/10\/2026 05:06"
+  },
+  {
+    "id_transaccion":517,
+    "id_usuario":6,
+    "cantidad":-12,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"05\/01\/2026 08:03"
+  },
+  {
+    "id_transaccion":518,
+    "id_usuario":6,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":2724,
+    "fecha":"24\/02\/2026 21:22"
+  },
+  {
+    "id_transaccion":519,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"29\/12\/2025 00:15"
+  },
+  {
+    "id_transaccion":520,
+    "id_usuario":4,
+    "cantidad":-11,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3665,
+    "fecha":"25\/10\/2026 17:06"
+  },
+  {
+    "id_transaccion":521,
+    "id_usuario":2,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2025-12-25 18:01:36"
+  },
+  {
+    "id_transaccion":522,
+    "id_usuario":5,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-08-29 12:12:15"
+  },
+  {
+    "id_transaccion":523,
+    "id_usuario":7,
+    "cantidad":25,
+    "motivo":"gasto_mensaje",
+    "id_referencia":618,
+    "fecha":"17\/06\/2026 00:47"
+  },
+  {
+    "id_transaccion":524,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":" compra ",
+    "id_referencia":2568,
+    "fecha":"13\/01\/2026 13:15"
+  },
+  {
+    "id_transaccion":525,
+    "id_usuario":5,
+    "cantidad":-29,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4470,
+    "fecha":"2026-02-27 22:50:54"
+  },
+  {
+    "id_transaccion":526,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":" ajuste_admin ",
+    "id_referencia":3156,
+    "fecha":"03\/03\/2026 14:32"
+  },
+  {
+    "id_transaccion":527,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":4500,
+    "fecha":"07\/07\/2026 01:48"
+  },
+  {
+    "id_transaccion":528,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 3480 ",
+    "fecha":"03\/02\/2026 23:35"
+  },
+  {
+    "id_transaccion":529,
+    "id_usuario":9,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-08-19 21:00:34"
+  },
+  {
+    "id_transaccion":530,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":2153,
+    "fecha":"2026-03-27 08:15:18"
+  },
+  {
+    "id_transaccion":531,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"01\/02\/2026 06:02"
+  },
+  {
+    "id_transaccion":532,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 4885 ",
+    "fecha":"2026-08-08 04:19:00"
+  },
+  {
+    "id_transaccion":533,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3672,
+    "fecha":"2026-07-18 11:54:19"
+  },
+  {
+    "id_transaccion":534,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":3038,
+    "fecha":"11\/10\/2026 10:06"
+  },
+  {
+    "id_transaccion":535,
+    "id_usuario":8,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1246,
+    "fecha":"24\/02\/2026 16:53"
+  },
+  {
+    "id_transaccion":536,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":355,
+    "fecha":"29\/05\/2026 11:07"
+  },
+  {
+    "id_transaccion":537,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4521,
+    "fecha":"2026-05-22 21:49:33"
+  },
+  {
+    "id_transaccion":538,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2483,
+    "fecha":"2026-02-19 16:59:55"
+  },
+  {
+    "id_transaccion":539,
+    "id_usuario":9,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1458,
+    "fecha":"31\/10\/2026 18:43"
+  },
+  {
+    "id_transaccion":540,
+    "id_usuario":3,
+    "cantidad":-15,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1297,
+    "fecha":"01\/11\/2026 21:02"
+  },
+  {
+    "id_transaccion":541,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-10-08 18:38:14"
+  },
+  {
+    "id_transaccion":542,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":3824,
+    "fecha":"03\/12\/2025 21:51"
+  },
+  {
+    "id_transaccion":543,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2257,
+    "fecha":"20\/12\/2025 00:39"
+  },
+  {
+    "id_transaccion":544,
+    "id_usuario":3,
+    "cantidad":-46,
+    "motivo":"gasto_mensaje",
+    "id_referencia":737,
+    "fecha":"18\/07\/2026 12:20"
+  },
+  {
+    "id_transaccion":545,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":" 4049 ",
+    "fecha":"27\/04\/2026 16:23"
+  },
+  {
+    "id_transaccion":546,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2400,
+    "fecha":"2026-10-02 06:27:49"
+  },
+  {
+    "id_transaccion":547,
+    "id_usuario":3,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":3496,
+    "fecha":"01\/03\/2026 15:13"
+  },
+  {
+    "id_transaccion":548,
+    "id_usuario":2,
+    "cantidad":-48,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"01\/12\/2025 07:17"
+  },
+  {
+    "id_transaccion":549,
+    "id_usuario":1,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"15\/11\/2025 13:25"
+  },
+  {
+    "id_transaccion":550,
+    "id_usuario":3,
+    "cantidad":250,
+    "motivo":"Compra",
+    "id_referencia":4717,
+    "fecha":"23\/03\/2026 17:21"
+  },
+  {
+    "id_transaccion":551,
+    "id_usuario":5,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":1497,
+    "fecha":"2026-09-09 15:43:52"
+  },
+  {
+    "id_transaccion":552,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"03\/01\/2026 23:42"
+  },
+  {
+    "id_transaccion":553,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":663,
+    "fecha":"2026-07-19 14:42:22"
+  },
+  {
+    "id_transaccion":554,
+    "id_usuario":7,
+    "cantidad":-20,
+    "motivo":"bono_diario",
+    "id_referencia":3538,
+    "fecha":"23\/02\/2026 21:58"
+  },
+  {
+    "id_transaccion":555,
+    "id_usuario":2,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":4453,
+    "fecha":"15\/01\/2026 22:25"
+  },
+  {
+    "id_transaccion":556,
+    "id_usuario":2,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":109,
+    "fecha":"29\/08\/2026 01:09"
+  },
+  {
+    "id_transaccion":557,
+    "id_usuario":7,
+    "cantidad":500,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":1979,
+    "fecha":"04\/05\/2026 18:35"
+  },
+  {
+    "id_transaccion":558,
+    "id_usuario":8,
+    "cantidad":-27,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4819,
+    "fecha":"2026-06-16 10:24:48"
+  },
+  {
+    "id_transaccion":559,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"15\/08\/2026 05:40"
+  },
+  {
+    "id_transaccion":560,
+    "id_usuario":9,
+    "cantidad":-21,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4834,
+    "fecha":"29\/04\/2026 06:42"
+  },
+  {
+    "id_transaccion":561,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":" 3067 ",
+    "fecha":"2026-06-20 00:24:36"
+  },
+  {
+    "id_transaccion":562,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":2357,
+    "fecha":"17\/11\/2025 22:30"
+  },
+  {
+    "id_transaccion":563,
+    "id_usuario":7,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"27\/12\/2025 15:07"
+  },
+  {
+    "id_transaccion":564,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1231,
+    "fecha":"13\/12\/2025 09:42"
+  },
+  {
+    "id_transaccion":565,
+    "id_usuario":2,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"23\/10\/2026 03:31"
+  },
+  {
+    "id_transaccion":566,
+    "id_usuario":6,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-08-09 13:08:55"
+  },
+  {
+    "id_transaccion":567,
+    "id_usuario":3,
+    "cantidad":-43,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":null,
+    "fecha":"2026-10-31 05:36:14"
+  },
+  {
+    "id_transaccion":568,
+    "id_usuario":1,
+    "cantidad":-30,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4994,
+    "fecha":"2026-01-11 01:39:56"
+  },
+  {
+    "id_transaccion":569,
+    "id_usuario":3,
+    "cantidad":33,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4344,
+    "fecha":"2026-06-14 01:38:57"
+  },
+  {
+    "id_transaccion":570,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":102,
+    "fecha":"28\/11\/2025 04:11"
+  },
+  {
+    "id_transaccion":571,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4341,
+    "fecha":"2026-10-04 07:22:06"
+  },
+  {
+    "id_transaccion":572,
+    "id_usuario":2,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":2946,
+    "fecha":"06\/04\/2026 13:43"
+  },
+  {
+    "id_transaccion":573,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":138,
+    "fecha":"2026-06-28 09:45:42"
+  },
+  {
+    "id_transaccion":574,
+    "id_usuario":7,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 1058 ",
+    "fecha":"16\/06\/2026 18:17"
+  },
+  {
+    "id_transaccion":575,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":2092,
+    "fecha":"10\/01\/2026 16:42"
+  },
+  {
+    "id_transaccion":576,
+    "id_usuario":8,
+    "cantidad":-42,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-04-30 02:16:54"
+  },
+  {
+    "id_transaccion":577,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2257,
+    "fecha":"2026-01-02 16:15:27"
+  },
+  {
+    "id_transaccion":578,
+    "id_usuario":2,
+    "cantidad":-48,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1562,
+    "fecha":"2025-11-30 10:15:08"
+  },
+  {
+    "id_transaccion":579,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":1657,
+    "fecha":"2026-03-13 21:33:18"
+  },
+  {
+    "id_transaccion":580,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"04\/04\/2026 19:10"
+  },
+  {
+    "id_transaccion":581,
+    "id_usuario":6,
+    "cantidad":20,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":4135,
+    "fecha":"29\/10\/2026 07:29"
+  },
+  {
+    "id_transaccion":582,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":4806,
+    "fecha":"11\/11\/2026 13:23"
+  },
+  {
+    "id_transaccion":583,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":543,
+    "fecha":"19\/09\/2026 08:46"
+  },
+  {
+    "id_transaccion":584,
+    "id_usuario":7,
+    "cantidad":39,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1531,
+    "fecha":"2026-10-14 10:42:31"
+  },
+  {
+    "id_transaccion":585,
+    "id_usuario":2,
+    "cantidad":500,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":3208,
+    "fecha":"29\/11\/2025 16:13"
+  },
+  {
+    "id_transaccion":586,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"29\/10\/2026 06:57"
+  },
+  {
+    "id_transaccion":587,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":3149,
+    "fecha":"2026-04-02 03:24:10"
+  },
+  {
+    "id_transaccion":588,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":1972,
+    "fecha":"03\/02\/2026 18:26"
+  },
+  {
+    "id_transaccion":589,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"06\/08\/2026 01:42"
+  },
+  {
+    "id_transaccion":590,
+    "id_usuario":3,
+    "cantidad":-5,
+    "motivo":"gasto_mensaje",
+    "id_referencia":4335,
+    "fecha":"19\/02\/2026 02:09"
+  },
+  {
+    "id_transaccion":591,
+    "id_usuario":6,
+    "cantidad":-24,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-07-31 04:38:56"
+  },
+  {
+    "id_transaccion":592,
+    "id_usuario":3,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":3785,
+    "fecha":"24\/12\/2025 02:29"
+  },
+  {
+    "id_transaccion":593,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-03-31 12:54:10"
+  },
+  {
+    "id_transaccion":594,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2431,
+    "fecha":"2026-09-13 03:35:22"
+  },
+  {
+    "id_transaccion":595,
+    "id_usuario":9,
+    "cantidad":-33,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"19\/06\/2026 14:52"
+  },
+  {
+    "id_transaccion":596,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":4782,
+    "fecha":"2026-10-23 13:06:42"
+  },
+  {
+    "id_transaccion":597,
+    "id_usuario":2,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":2291,
+    "fecha":"19\/10\/2026 21:17"
+  },
+  {
+    "id_transaccion":598,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4367,
+    "fecha":"21\/04\/2026 00:05"
+  },
+  {
+    "id_transaccion":599,
+    "id_usuario":7,
+    "cantidad":20,
+    "motivo":" bono_diario ",
+    "id_referencia":null,
+    "fecha":"2026-07-13 05:21:49"
+  },
+  {
+    "id_transaccion":600,
+    "id_usuario":2,
+    "cantidad":20,
+    "motivo":" bono_diario ",
+    "id_referencia":3976,
+    "fecha":"01\/09\/2026 06:01"
+  },
+  {
+    "id_transaccion":601,
+    "id_usuario":1,
+    "cantidad":-38,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":null,
+    "fecha":"2026-01-13 04:55:14"
+  },
+  {
+    "id_transaccion":602,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1175,
+    "fecha":"08\/11\/2026 17:07"
+  },
+  {
+    "id_transaccion":603,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":" 4000 ",
+    "fecha":"2026-11-10 07:29:54"
+  },
+  {
+    "id_transaccion":604,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4940,
+    "fecha":"14\/02\/2026 02:55"
+  },
+  {
+    "id_transaccion":605,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-10-15 23:05:18"
+  },
+  {
+    "id_transaccion":606,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"16\/01\/2026 07:00"
+  },
+  {
+    "id_transaccion":607,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":4008,
+    "fecha":"2026-09-20 19:51:59"
+  },
+  {
+    "id_transaccion":608,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"25\/09\/2026 01:19"
+  },
+  {
+    "id_transaccion":609,
+    "id_usuario":7,
+    "cantidad":-20,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3199,
+    "fecha":"2026-01-21 22:37:36"
+  },
+  {
+    "id_transaccion":610,
+    "id_usuario":2,
+    "cantidad":-45,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2327,
+    "fecha":"2026-10-22 11:46:25"
+  },
+  {
+    "id_transaccion":611,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":null,
+    "fecha":"2026-04-23 07:14:29"
+  },
+  {
+    "id_transaccion":612,
+    "id_usuario":8,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2025-11-23 19:24:17"
+  },
+  {
+    "id_transaccion":613,
+    "id_usuario":1,
+    "cantidad":-50,
+    "motivo":" ajuste_admin ",
+    "id_referencia":null,
+    "fecha":"22\/01\/2026 20:08"
+  },
+  {
+    "id_transaccion":614,
+    "id_usuario":1,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":" 2652 ",
+    "fecha":"27\/08\/2026 05:39"
+  },
+  {
+    "id_transaccion":615,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":null,
+    "fecha":"08\/11\/2026 05:13"
+  },
+  {
+    "id_transaccion":616,
+    "id_usuario":3,
+    "cantidad":500,
+    "motivo":"COMPRA",
+    "id_referencia":1674,
+    "fecha":"23\/03\/2026 04:34"
+  },
+  {
+    "id_transaccion":617,
+    "id_usuario":5,
+    "cantidad":-5,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"14\/09\/2026 00:44"
+  },
+  {
+    "id_transaccion":618,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"Bono_diario",
+    "id_referencia":869,
+    "fecha":"10\/11\/2026 16:12"
+  },
+  {
+    "id_transaccion":619,
+    "id_usuario":4,
+    "cantidad":-29,
+    "motivo":"gasto_mensaje",
+    "id_referencia":" 445 ",
+    "fecha":"23\/04\/2026 01:49"
+  },
+  {
+    "id_transaccion":620,
+    "id_usuario":9,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"21\/09\/2026 17:45"
+  },
+  {
+    "id_transaccion":621,
+    "id_usuario":4,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-08-01 08:21:58"
+  },
+  {
+    "id_transaccion":622,
+    "id_usuario":2,
+    "cantidad":20,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":3993,
+    "fecha":"15\/10\/2026 18:02"
+  },
+  {
+    "id_transaccion":623,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2872,
+    "fecha":"26\/08\/2026 15:36"
+  },
+  {
+    "id_transaccion":624,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":1130,
+    "fecha":"2026-09-25 01:06:37"
+  },
+  {
+    "id_transaccion":625,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"18\/02\/2026 13:27"
+  },
+  {
+    "id_transaccion":626,
+    "id_usuario":6,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":2514,
+    "fecha":"25\/02\/2026 19:11"
+  },
+  {
+    "id_transaccion":627,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2355,
+    "fecha":"15\/01\/2026 00:12"
+  },
+  {
+    "id_transaccion":628,
+    "id_usuario":9,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4536,
+    "fecha":"2026-09-15 23:14:29"
+  },
+  {
+    "id_transaccion":629,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":3082,
+    "fecha":"13\/08\/2026 12:45"
+  },
+  {
+    "id_transaccion":630,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4393,
+    "fecha":"26\/12\/2025 03:54"
+  },
+  {
+    "id_transaccion":631,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":" 888 ",
+    "fecha":"11\/04\/2026 17:55"
+  },
+  {
+    "id_transaccion":632,
+    "id_usuario":2,
+    "cantidad":250,
+    "motivo":"COMPRA",
+    "id_referencia":null,
+    "fecha":"2026-10-18 21:33:46"
+  },
+  {
+    "id_transaccion":633,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":2196,
+    "fecha":"2025-11-29 05:19:07"
+  },
+  {
+    "id_transaccion":634,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":755,
+    "fecha":"2026-10-13 15:02:53"
+  },
+  {
+    "id_transaccion":635,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"15\/05\/2026 23:31"
+  },
+  {
+    "id_transaccion":636,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"COMPRA",
+    "id_referencia":null,
+    "fecha":"08\/02\/2026 13:36"
+  },
+  {
+    "id_transaccion":637,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"Bono_diario",
+    "id_referencia":4769,
+    "fecha":"30\/01\/2026 16:31"
+  },
+  {
+    "id_transaccion":638,
+    "id_usuario":3,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":3857,
+    "fecha":"27\/09\/2026 07:31"
+  },
+  {
+    "id_transaccion":639,
+    "id_usuario":7,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":1395,
+    "fecha":"05\/11\/2026 20:58"
+  },
+  {
+    "id_transaccion":640,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3477,
+    "fecha":"11\/05\/2026 22:42"
+  },
+  {
+    "id_transaccion":641,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":2181,
+    "fecha":"2026-03-29 23:25:54"
+  },
+  {
+    "id_transaccion":642,
+    "id_usuario":8,
+    "cantidad":30,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":null,
+    "fecha":"2026-03-12 16:57:51"
+  },
+  {
+    "id_transaccion":643,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":277,
+    "fecha":"28\/09\/2026 20:19"
+  },
+  {
+    "id_transaccion":644,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-09-19 01:32:11"
+  },
+  {
+    "id_transaccion":645,
+    "id_usuario":4,
+    "cantidad":25,
+    "motivo":" bono_diario ",
+    "id_referencia":1881,
+    "fecha":"18\/10\/2026 13:41"
+  },
+  {
+    "id_transaccion":646,
+    "id_usuario":6,
+    "cantidad":-16,
+    "motivo":"gasto_mensaje",
+    "id_referencia":881,
+    "fecha":"10\/02\/2026 13:43"
+  },
+  {
+    "id_transaccion":647,
+    "id_usuario":5,
+    "cantidad":1000,
+    "motivo":"COMPRA",
+    "id_referencia":2950,
+    "fecha":"08\/02\/2026 18:10"
+  },
+  {
+    "id_transaccion":648,
+    "id_usuario":7,
+    "cantidad":-12,
+    "motivo":"gasto_mensaje",
+    "id_referencia":193,
+    "fecha":"23\/11\/2025 08:56"
+  },
+  {
+    "id_transaccion":649,
+    "id_usuario":7,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":2777,
+    "fecha":"28\/07\/2026 12:20"
+  },
+  {
+    "id_transaccion":650,
+    "id_usuario":4,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4975,
+    "fecha":"28\/01\/2026 04:28"
+  },
+  {
+    "id_transaccion":651,
+    "id_usuario":2,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-04-17 22:21:04"
+  },
+  {
+    "id_transaccion":652,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":1168,
+    "fecha":"21\/03\/2026 16:00"
+  },
+  {
+    "id_transaccion":653,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"02\/03\/2026 09:08"
+  },
+  {
+    "id_transaccion":654,
+    "id_usuario":9,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":" 4818 ",
+    "fecha":"2026-10-15 20:43:57"
+  },
+  {
+    "id_transaccion":655,
+    "id_usuario":7,
+    "cantidad":-28,
+    "motivo":"gasto_mensaje",
+    "id_referencia":298,
+    "fecha":"11\/12\/2025 03:25"
+  },
+  {
+    "id_transaccion":656,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2012,
+    "fecha":"2026-09-10 12:18:21"
+  },
+  {
+    "id_transaccion":657,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":" bono_diario ",
+    "id_referencia":null,
+    "fecha":"02\/03\/2026 14:00"
+  },
+  {
+    "id_transaccion":658,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 3959 ",
+    "fecha":"2026-03-30 13:17:53"
+  },
+  {
+    "id_transaccion":659,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-07-21 07:25:20"
+  },
+  {
+    "id_transaccion":660,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-05-31 00:23:03"
+  },
+  {
+    "id_transaccion":661,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":168,
+    "fecha":"2026-04-18 09:39:06"
+  },
+  {
+    "id_transaccion":662,
+    "id_usuario":5,
+    "cantidad":-50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1993,
+    "fecha":"05\/08\/2026 01:56"
+  },
+  {
+    "id_transaccion":663,
+    "id_usuario":9,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-10-07 19:52:16"
+  },
+  {
+    "id_transaccion":664,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 4113 ",
+    "fecha":"2026-06-10 10:16:19"
+  },
+  {
+    "id_transaccion":665,
+    "id_usuario":3,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":" 4206 ",
+    "fecha":"2026-03-22 18:55:10"
+  },
+  {
+    "id_transaccion":666,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"13\/11\/2026 22:42"
+  },
+  {
+    "id_transaccion":667,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"24\/11\/2025 21:38"
+  },
+  {
+    "id_transaccion":668,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2659,
+    "fecha":"28\/12\/2025 23:26"
+  },
+  {
+    "id_transaccion":669,
+    "id_usuario":6,
+    "cantidad":-39,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1757,
+    "fecha":"20\/10\/2026 18:58"
+  },
+  {
+    "id_transaccion":670,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4727,
+    "fecha":"23\/02\/2026 15:04"
+  },
+  {
+    "id_transaccion":671,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-01-22 12:45:06"
+  },
+  {
+    "id_transaccion":672,
+    "id_usuario":6,
+    "cantidad":-31,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2342,
+    "fecha":"2026-06-27 15:52:03"
+  },
+  {
+    "id_transaccion":673,
+    "id_usuario":4,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":2286,
+    "fecha":"25\/02\/2026 06:42"
+  },
+  {
+    "id_transaccion":674,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":null,
+    "fecha":"29\/11\/2025 00:57"
+  },
+  {
+    "id_transaccion":675,
+    "id_usuario":3,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":4125,
+    "fecha":"2025-12-26 06:45:50"
+  },
+  {
+    "id_transaccion":676,
+    "id_usuario":3,
+    "cantidad":-20,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-07-03 20:49:34"
+  },
+  {
+    "id_transaccion":677,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"Bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-05-01 22:48:25"
+  },
+  {
+    "id_transaccion":678,
+    "id_usuario":8,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":3602,
+    "fecha":"2026-03-28 10:24:59"
+  },
+  {
+    "id_transaccion":679,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":4785,
+    "fecha":"24\/08\/2026 02:54"
+  },
+  {
+    "id_transaccion":680,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"15\/09\/2026 14:25"
+  },
+  {
+    "id_transaccion":681,
+    "id_usuario":9,
+    "cantidad":500,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":503,
+    "fecha":"2026-03-16 00:03:49"
+  },
+  {
+    "id_transaccion":682,
+    "id_usuario":8,
+    "cantidad":-24,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-05-02 15:51:53"
+  },
+  {
+    "id_transaccion":683,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"07\/07\/2026 14:39"
+  },
+  {
+    "id_transaccion":684,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-05-31 19:11:15"
+  },
+  {
+    "id_transaccion":685,
+    "id_usuario":4,
+    "cantidad":-10,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1443,
+    "fecha":"29\/12\/2025 02:16"
+  },
+  {
+    "id_transaccion":686,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"12\/04\/2026 18:39"
+  },
+  {
+    "id_transaccion":687,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2845,
+    "fecha":"29\/10\/2026 12:22"
+  },
+  {
+    "id_transaccion":688,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":2635,
+    "fecha":"26\/06\/2026 02:34"
+  },
+  {
+    "id_transaccion":689,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"27\/01\/2026 00:02"
+  },
+  {
+    "id_transaccion":690,
+    "id_usuario":5,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":4142,
+    "fecha":"2026-02-21 02:33:54"
+  },
+  {
+    "id_transaccion":691,
+    "id_usuario":8,
+    "cantidad":-31,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"01\/12\/2025 10:05"
+  },
+  {
+    "id_transaccion":692,
+    "id_usuario":5,
+    "cantidad":-50,
+    "motivo":" ajuste_admin ",
+    "id_referencia":400,
+    "fecha":"2026-08-16 10:44:12"
+  },
+  {
+    "id_transaccion":693,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":" ajuste_admin ",
+    "id_referencia":null,
+    "fecha":"02\/05\/2026 12:43"
+  },
+  {
+    "id_transaccion":694,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":393,
+    "fecha":"2025-11-14 20:08:34"
+  },
+  {
+    "id_transaccion":695,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4609,
+    "fecha":"2026-06-04 02:23:16"
+  },
+  {
+    "id_transaccion":696,
+    "id_usuario":8,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":4397,
+    "fecha":"2026-11-08 15:21:53"
+  },
+  {
+    "id_transaccion":697,
+    "id_usuario":4,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":818,
+    "fecha":"2026-09-23 09:36:19"
+  },
+  {
+    "id_transaccion":698,
+    "id_usuario":5,
+    "cantidad":-43,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2998,
+    "fecha":"11\/06\/2026 07:06"
+  },
+  {
+    "id_transaccion":699,
+    "id_usuario":8,
+    "cantidad":500,
+    "motivo":"Ajuste_admin",
+    "id_referencia":2479,
+    "fecha":"07\/08\/2026 22:21"
+  },
+  {
+    "id_transaccion":700,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":1798,
+    "fecha":"20\/08\/2026 13:57"
+  },
+  {
+    "id_transaccion":701,
+    "id_usuario":7,
+    "cantidad":-7,
+    "motivo":"gasto_mensaje",
+    "id_referencia":192,
+    "fecha":"14\/11\/2026 08:15"
+  },
+  {
+    "id_transaccion":702,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":" 150 ",
+    "fecha":"2026-08-29 07:51:18"
+  },
+  {
+    "id_transaccion":703,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-08-27 10:04:06"
+  },
+  {
+    "id_transaccion":704,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4044,
+    "fecha":"2026-08-01 15:05:23"
+  },
+  {
+    "id_transaccion":705,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":558,
+    "fecha":"29\/01\/2026 16:52"
+  },
+  {
+    "id_transaccion":706,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":2817,
+    "fecha":"04\/04\/2026 15:10"
+  },
+  {
+    "id_transaccion":707,
+    "id_usuario":6,
+    "cantidad":250,
+    "motivo":"COMPRA",
+    "id_referencia":4476,
+    "fecha":"30\/04\/2026 16:21"
+  },
+  {
+    "id_transaccion":708,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":" 2676 ",
+    "fecha":"11\/12\/2025 08:34"
+  },
+  {
+    "id_transaccion":709,
+    "id_usuario":5,
+    "cantidad":-10,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2579,
+    "fecha":"2026-07-30 03:31:23"
+  },
+  {
+    "id_transaccion":710,
+    "id_usuario":5,
+    "cantidad":20,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":null,
+    "fecha":"2026-11-06 18:35:08"
+  },
+  {
+    "id_transaccion":711,
+    "id_usuario":9,
+    "cantidad":1000,
+    "motivo":" compra ",
+    "id_referencia":" 4060 ",
+    "fecha":"22\/03\/2026 10:03"
+  },
+  {
+    "id_transaccion":712,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4328,
+    "fecha":"14\/07\/2026 04:36"
+  },
+  {
+    "id_transaccion":713,
+    "id_usuario":3,
+    "cantidad":-50,
+    "motivo":"bono_diario",
+    "id_referencia":1048,
+    "fecha":"2026-03-16 02:17:06"
+  },
+  {
+    "id_transaccion":714,
+    "id_usuario":1,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"29\/07\/2026 19:35"
+  },
+  {
+    "id_transaccion":715,
+    "id_usuario":5,
+    "cantidad":500,
+    "motivo":"Compra",
+    "id_referencia":null,
+    "fecha":"2026-10-09 12:27:16"
+  },
+  {
+    "id_transaccion":716,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-01-01 13:58:16"
+  },
+  {
+    "id_transaccion":717,
+    "id_usuario":9,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 1259 ",
+    "fecha":"20\/08\/2026 16:58"
+  },
+  {
+    "id_transaccion":718,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4528,
+    "fecha":"2026-10-29 17:25:25"
+  },
+  {
+    "id_transaccion":719,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"COMPRA",
+    "id_referencia":805,
+    "fecha":"2026-03-10 19:35:08"
+  },
+  {
+    "id_transaccion":720,
+    "id_usuario":3,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":4470,
+    "fecha":"2026-05-30 03:06:12"
+  },
+  {
+    "id_transaccion":721,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":896,
+    "fecha":"2026-03-14 07:07:16"
+  },
+  {
+    "id_transaccion":722,
+    "id_usuario":8,
+    "cantidad":-19,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":2213,
+    "fecha":"31\/07\/2026 04:16"
+  },
+  {
+    "id_transaccion":723,
+    "id_usuario":7,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2760,
+    "fecha":"2026-04-21 18:52:37"
+  },
+  {
+    "id_transaccion":724,
+    "id_usuario":1,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":2412,
+    "fecha":"20\/03\/2026 20:37"
+  },
+  {
+    "id_transaccion":725,
+    "id_usuario":3,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"19\/04\/2026 11:01"
+  },
+  {
+    "id_transaccion":726,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4588,
+    "fecha":"2026-08-11 22:49:57"
+  },
+  {
+    "id_transaccion":727,
+    "id_usuario":8,
+    "cantidad":-9,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3666,
+    "fecha":"09\/03\/2026 00:05"
+  },
+  {
+    "id_transaccion":728,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4803,
+    "fecha":"17\/06\/2026 11:52"
+  },
+  {
+    "id_transaccion":729,
+    "id_usuario":2,
+    "cantidad":500,
+    "motivo":" ajuste_admin ",
+    "id_referencia":2623,
+    "fecha":"02\/01\/2026 14:47"
+  },
+  {
+    "id_transaccion":730,
+    "id_usuario":2,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2782,
+    "fecha":"2026-01-27 16:27:30"
+  },
+  {
+    "id_transaccion":731,
+    "id_usuario":1,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":101,
+    "fecha":"26\/04\/2026 11:13"
+  },
+  {
+    "id_transaccion":732,
+    "id_usuario":3,
+    "cantidad":-39,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1784,
+    "fecha":"30\/07\/2026 09:58"
+  },
+  {
+    "id_transaccion":733,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2920,
+    "fecha":"14\/11\/2026 09:12"
+  },
+  {
+    "id_transaccion":734,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"10\/04\/2026 10:16"
+  },
+  {
+    "id_transaccion":735,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-08-04 05:26:23"
+  },
+  {
+    "id_transaccion":736,
+    "id_usuario":7,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-08-31 17:29:55"
+  },
+  {
+    "id_transaccion":737,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":1363,
+    "fecha":"2026-10-30 19:08:12"
+  },
+  {
+    "id_transaccion":738,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":4087,
+    "fecha":"20\/01\/2026 18:25"
+  },
+  {
+    "id_transaccion":739,
+    "id_usuario":3,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":3587,
+    "fecha":"11\/07\/2026 05:23"
+  },
+  {
+    "id_transaccion":740,
+    "id_usuario":8,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":1622,
+    "fecha":"2026-06-23 04:49:28"
+  },
+  {
+    "id_transaccion":741,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":3465,
+    "fecha":"11\/03\/2026 01:26"
+  },
+  {
+    "id_transaccion":742,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-04-20 21:16:26"
+  },
+  {
+    "id_transaccion":743,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":2389,
+    "fecha":"2026-06-14 23:31:26"
+  },
+  {
+    "id_transaccion":744,
+    "id_usuario":2,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":739,
+    "fecha":"03\/10\/2026 23:15"
+  },
+  {
+    "id_transaccion":745,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":188,
+    "fecha":"2025-11-14 08:09:46"
+  },
+  {
+    "id_transaccion":746,
+    "id_usuario":9,
+    "cantidad":-41,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2513,
+    "fecha":"2026-03-12 04:41:56"
+  },
+  {
+    "id_transaccion":747,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-03-05 14:36:31"
+  },
+  {
+    "id_transaccion":748,
+    "id_usuario":3,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":323,
+    "fecha":"2026-02-03 19:25:25"
+  },
+  {
+    "id_transaccion":749,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"30\/04\/2026 03:13"
+  },
+  {
+    "id_transaccion":750,
+    "id_usuario":5,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":1338,
+    "fecha":"15\/09\/2026 08:10"
+  },
+  {
+    "id_transaccion":751,
+    "id_usuario":6,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"27\/06\/2026 10:13"
+  },
+  {
+    "id_transaccion":752,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4162,
+    "fecha":"07\/07\/2026 18:52"
+  },
+  {
+    "id_transaccion":753,
+    "id_usuario":7,
+    "cantidad":-20,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"26\/07\/2026 10:40"
+  },
+  {
+    "id_transaccion":754,
+    "id_usuario":6,
+    "cantidad":500,
+    "motivo":" compra ",
+    "id_referencia":null,
+    "fecha":"2026-03-19 07:57:34"
+  },
+  {
+    "id_transaccion":755,
+    "id_usuario":5,
+    "cantidad":-39,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2251,
+    "fecha":"2026-05-13 18:22:59"
+  },
+  {
+    "id_transaccion":756,
+    "id_usuario":7,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":4443,
+    "fecha":"04\/05\/2026 18:07"
+  },
+  {
+    "id_transaccion":757,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":2333,
+    "fecha":"2026-05-04 21:36:25"
+  },
+  {
+    "id_transaccion":758,
+    "id_usuario":5,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":2080,
+    "fecha":"03\/08\/2026 13:40"
+  },
+  {
+    "id_transaccion":759,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 186 ",
+    "fecha":"05\/02\/2026 04:13"
+  },
+  {
+    "id_transaccion":760,
+    "id_usuario":2,
+    "cantidad":1000,
+    "motivo":" compra ",
+    "id_referencia":1897,
+    "fecha":"31\/05\/2026 16:51"
+  },
+  {
+    "id_transaccion":761,
+    "id_usuario":5,
+    "cantidad":-20,
+    "motivo":" bono_diario ",
+    "id_referencia":1876,
+    "fecha":"16\/05\/2026 22:47"
+  },
+  {
+    "id_transaccion":762,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":" compra ",
+    "id_referencia":4737,
+    "fecha":"18\/09\/2026 10:31"
+  },
+  {
+    "id_transaccion":763,
+    "id_usuario":3,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":3814,
+    "fecha":"30\/10\/2026 03:59"
+  },
+  {
+    "id_transaccion":764,
+    "id_usuario":5,
+    "cantidad":-49,
+    "motivo":"gasto_mensaje",
+    "id_referencia":" 1426 ",
+    "fecha":"19\/09\/2026 07:52"
+  },
+  {
+    "id_transaccion":765,
+    "id_usuario":5,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"27\/08\/2026 00:02"
+  },
+  {
+    "id_transaccion":766,
+    "id_usuario":3,
+    "cantidad":-9,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1561,
+    "fecha":"19\/01\/2026 02:01"
+  },
+  {
+    "id_transaccion":767,
+    "id_usuario":2,
+    "cantidad":50,
+    "motivo":"Bono_diario",
+    "id_referencia":3717,
+    "fecha":"28\/07\/2026 01:18"
+  },
+  {
+    "id_transaccion":768,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":253,
+    "fecha":"17\/12\/2025 02:43"
+  },
+  {
+    "id_transaccion":769,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":3305,
+    "fecha":"04\/03\/2026 09:27"
+  },
+  {
+    "id_transaccion":770,
+    "id_usuario":9,
+    "cantidad":-35,
+    "motivo":"gasto_mensaje",
+    "id_referencia":674,
+    "fecha":"02\/06\/2026 08:44"
+  },
+  {
+    "id_transaccion":771,
+    "id_usuario":1,
+    "cantidad":-49,
+    "motivo":"gasto_mensaje",
+    "id_referencia":3040,
+    "fecha":"2026-07-29 23:56:43"
+  },
+  {
+    "id_transaccion":772,
+    "id_usuario":5,
+    "cantidad":-8,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"17\/07\/2026 23:48"
+  },
+  {
+    "id_transaccion":773,
+    "id_usuario":6,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"12\/07\/2026 16:18"
+  },
+  {
+    "id_transaccion":774,
+    "id_usuario":7,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":3043,
+    "fecha":"2026-03-24 08:33:36"
+  },
+  {
+    "id_transaccion":775,
+    "id_usuario":8,
+    "cantidad":-20,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":2053,
+    "fecha":"2025-12-20 10:48:39"
+  },
+  {
+    "id_transaccion":776,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":234,
+    "fecha":"2026-09-28 00:38:19"
+  },
+  {
+    "id_transaccion":777,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":4385,
+    "fecha":"2026-09-01 21:29:38"
+  },
+  {
+    "id_transaccion":778,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-02-13 09:30:47"
+  },
+  {
+    "id_transaccion":779,
+    "id_usuario":1,
+    "cantidad":44,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-08-02 11:17:21"
+  },
+  {
+    "id_transaccion":780,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"Recompensa_personaje_publico",
+    "id_referencia":971,
+    "fecha":"2026-03-14 17:41:53"
+  },
+  {
+    "id_transaccion":781,
+    "id_usuario":4,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":3393,
+    "fecha":"2026-02-09 10:10:54"
+  },
+  {
+    "id_transaccion":782,
+    "id_usuario":9,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":4958,
+    "fecha":"2026-09-23 10:05:24"
+  },
+  {
+    "id_transaccion":783,
+    "id_usuario":2,
+    "cantidad":500,
+    "motivo":"compra",
+    "id_referencia":4633,
+    "fecha":"2026-01-30 12:24:16"
+  },
+  {
+    "id_transaccion":784,
+    "id_usuario":4,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":3181,
+    "fecha":"10\/01\/2026 09:49"
+  },
+  {
+    "id_transaccion":785,
+    "id_usuario":1,
+    "cantidad":10,
+    "motivo":"Gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"23\/11\/2025 16:02"
+  },
+  {
+    "id_transaccion":786,
+    "id_usuario":5,
+    "cantidad":-49,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1788,
+    "fecha":"2025-12-02 03:07:20"
+  },
+  {
+    "id_transaccion":787,
+    "id_usuario":5,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":408,
+    "fecha":"17\/02\/2026 06:28"
+  },
+  {
+    "id_transaccion":788,
+    "id_usuario":8,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":" 137 ",
+    "fecha":"17\/05\/2026 16:58"
+  },
+  {
+    "id_transaccion":789,
+    "id_usuario":4,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":4257,
+    "fecha":"2026-07-09 13:51:55"
+  },
+  {
+    "id_transaccion":790,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":3986,
+    "fecha":"2026-10-10 04:30:30"
+  },
+  {
+    "id_transaccion":791,
+    "id_usuario":3,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":2838,
+    "fecha":"08\/09\/2026 15:13"
+  },
+  {
+    "id_transaccion":792,
+    "id_usuario":8,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"12\/12\/2025 11:11"
+  },
+  {
+    "id_transaccion":793,
+    "id_usuario":8,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":4849,
+    "fecha":"2026-05-10 01:09:55"
+  },
+  {
+    "id_transaccion":794,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"24\/04\/2026 03:14"
+  },
+  {
+    "id_transaccion":795,
+    "id_usuario":4,
+    "cantidad":-19,
+    "motivo":"gasto_mensaje",
+    "id_referencia":null,
+    "fecha":"2026-10-24 07:46:25"
+  },
+  {
+    "id_transaccion":796,
+    "id_usuario":4,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":1690,
+    "fecha":"16\/07\/2026 18:13"
+  },
+  {
+    "id_transaccion":797,
+    "id_usuario":5,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-06-25 18:01:15"
+  },
+  {
+    "id_transaccion":798,
+    "id_usuario":8,
+    "cantidad":-31,
+    "motivo":"gasto_mensaje",
+    "id_referencia":1384,
+    "fecha":"28\/01\/2026 16:38"
+  },
+  {
+    "id_transaccion":799,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":1873,
+    "fecha":"20\/08\/2026 03:50"
+  },
+  {
+    "id_transaccion":800,
+    "id_usuario":8,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-08-11 14:52:16"
+  },
+  {
+    "id_transaccion":697,
+    "id_usuario":4,
+    "cantidad":-50,
+    "motivo":"ajuste_admin",
+    "id_referencia":818,
+    "fecha":"2026-09-23 09:36:19"
+  },
+  {
+    "id_transaccion":668,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":2659,
+    "fecha":"28\/12\/2025 23:26"
+  },
+  {
+    "id_transaccion":64,
+    "id_usuario":9,
+    "cantidad":-40,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":3786,
+    "fecha":"2026-06-10 10:23:14"
+  },
+  {
+    "id_transaccion":534,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":3038,
+    "fecha":"11\/10\/2026 10:06"
+  },
+  {
+    "id_transaccion":67,
+    "id_usuario":3,
+    "cantidad":20,
+    "motivo":"bono_diario",
+    "id_referencia":610,
+    "fecha":"2026-04-10 04:34:31"
+  },
+  {
+    "id_transaccion":622,
+    "id_usuario":2,
+    "cantidad":20,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":3993,
+    "fecha":"15\/10\/2026 18:02"
+  },
+  {
+    "id_transaccion":347,
+    "id_usuario":7,
+    "cantidad":500,
+    "motivo":" compra ",
+    "id_referencia":2145,
+    "fecha":"2025-12-22 09:42:00"
+  },
+  {
+    "id_transaccion":491,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":544,
+    "fecha":"22\/10\/2026 06:37"
+  },
+  {
+    "id_transaccion":761,
+    "id_usuario":5,
+    "cantidad":-20,
+    "motivo":" bono_diario ",
+    "id_referencia":1876,
+    "fecha":"16\/05\/2026 22:47"
+  },
+  {
+    "id_transaccion":457,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-06-05 05:04:02"
+  },
+  {
+    "id_transaccion":66,
+    "id_usuario":5,
+    "cantidad":100,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"2026-11-07 08:47:42"
+  },
+  {
+    "id_transaccion":287,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2242,
+    "fecha":"2026-10-29 13:23:24"
+  },
+  {
+    "id_transaccion":636,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"COMPRA",
+    "id_referencia":null,
+    "fecha":"08\/02\/2026 13:36"
+  },
+  {
+    "id_transaccion":68,
+    "id_usuario":7,
+    "cantidad":-42,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":4816,
+    "fecha":"2025-12-14 18:51:00"
+  },
+  {
+    "id_transaccion":328,
+    "id_usuario":5,
+    "cantidad":-100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"14\/09\/2026 21:33"
+  },
+  {
+    "id_transaccion":396,
+    "id_usuario":8,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":4164,
+    "fecha":"2025-11-15 00:28:07"
+  },
+  {
+    "id_transaccion":245,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":4404,
+    "fecha":"2026-10-03 04:03:49"
+  },
+  {
+    "id_transaccion":378,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-10-04 20:43:15"
+  },
+  {
+    "id_transaccion":611,
+    "id_usuario":9,
+    "cantidad":100,
+    "motivo":"RECOMPENSA_PERSONAJE_PUBLICO",
+    "id_referencia":null,
+    "fecha":"2026-04-23 07:14:29"
+  },
+  {
+    "id_transaccion":527,
+    "id_usuario":1,
+    "cantidad":50,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":4500,
+    "fecha":"07\/07\/2026 01:48"
+  },
+  {
+    "id_transaccion":659,
+    "id_usuario":4,
+    "cantidad":50,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-07-21 07:25:20"
+  },
+  {
+    "id_transaccion":530,
+    "id_usuario":1,
+    "cantidad":500,
+    "motivo":"AJUSTE_ADMIN",
+    "id_referencia":2153,
+    "fecha":"2026-03-27 08:15:18"
+  },
+  {
+    "id_transaccion":623,
+    "id_usuario":3,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2872,
+    "fecha":"26\/08\/2026 15:36"
+  },
+  {
+    "id_transaccion":722,
+    "id_usuario":8,
+    "cantidad":-19,
+    "motivo":" gasto_mensaje ",
+    "id_referencia":2213,
+    "fecha":"31\/07\/2026 04:16"
+  },
+  {
+    "id_transaccion":361,
+    "id_usuario":3,
+    "cantidad":1000,
+    "motivo":"compra",
+    "id_referencia":2129,
+    "fecha":"2026-04-27 00:36:03"
+  },
+  {
+    "id_transaccion":31,
+    "id_usuario":4,
+    "cantidad":-8,
+    "motivo":"GASTO_MENSAJE",
+    "id_referencia":3827,
+    "fecha":"2026-06-13 19:36:06"
+  },
+  {
+    "id_transaccion":261,
+    "id_usuario":8,
+    "cantidad":-50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":2287,
+    "fecha":"07\/09\/2026 14:28"
+  },
+  {
+    "id_transaccion":638,
+    "id_usuario":3,
+    "cantidad":500,
+    "motivo":"ajuste_admin",
+    "id_referencia":3857,
+    "fecha":"27\/09\/2026 07:31"
+  },
+  {
+    "id_transaccion":747,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":"ajuste_admin",
+    "id_referencia":null,
+    "fecha":"2026-03-05 14:36:31"
+  },
+  {
+    "id_transaccion":571,
+    "id_usuario":2,
+    "cantidad":100,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":4341,
+    "fecha":"2026-10-04 07:22:06"
+  },
+  {
+    "id_transaccion":216,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"recompensa_personaje_publico",
+    "id_referencia":null,
+    "fecha":"2026-05-30 08:18:55"
+  },
+  {
+    "id_transaccion":79,
+    "id_usuario":4,
+    "cantidad":250,
+    "motivo":"compra",
+    "id_referencia":1091,
+    "fecha":"14\/08\/2026 19:27"
+  },
+  {
+    "id_transaccion":579,
+    "id_usuario":6,
+    "cantidad":50,
+    "motivo":"bono_diario",
+    "id_referencia":1657,
+    "fecha":"2026-03-13 21:33:18"
+  },
+  {
+    "id_transaccion":384,
+    "id_usuario":9,
+    "cantidad":25,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":2392,
+    "fecha":"2026-02-13 23:35:44"
+  },
+  {
+    "id_transaccion":40,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":" recompensa_personaje_publico ",
+    "id_referencia":null,
+    "fecha":"2026-09-04 20:58:35"
+  },
+  {
+    "id_transaccion":24,
+    "id_usuario":9,
+    "cantidad":50,
+    "motivo":"BONO_DIARIO",
+    "id_referencia":1975,
+    "fecha":"2026-07-05 23:36:01"
+  },
+  {
+    "id_transaccion":693,
+    "id_usuario":1,
+    "cantidad":100,
+    "motivo":" ajuste_admin ",
+    "id_referencia":null,
+    "fecha":"02\/05\/2026 12:43"
+  },
+  {
+    "id_transaccion":399,
+    "id_usuario":5,
+    "cantidad":-13,
+    "motivo":"gasto_mensaje",
+    "id_referencia":2141,
+    "fecha":"09\/11\/2026 00:09"
+  },
+  {
+    "id_transaccion":797,
+    "id_usuario":5,
+    "cantidad":25,
+    "motivo":"bono_diario",
+    "id_referencia":null,
+    "fecha":"2026-06-25 18:01:15"
+  },
+  {
+    "id_transaccion":742,
+    "id_usuario":6,
+    "cantidad":100,
+    "motivo":"compra",
+    "id_referencia":null,
+    "fecha":"2026-04-20 21:16:26"
+  }
+]
