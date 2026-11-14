@@ -1,0 +1,7562 @@
+[
+  {
+    "id_pago":1,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_33de290fcdc3",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"20\/07\/2026 12:10"
+  },
+  {
+    "id_pago":2,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_076088b27c81",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-27 09:58:02"
+  },
+  {
+    "id_pago":3,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.bab9c823f8c6",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"23\/11\/2025 21:24"
+  },
+  {
+    "id_pago":4,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0dc1d6fef5e9",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-29 04:02:17"
+  },
+  {
+    "id_pago":5,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f6ed10a0644d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-28 23:44:44"
+  },
+  {
+    "id_pago":6,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_4e7c1cfae78c",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"17\/02\/2026 06:50"
+  },
+  {
+    "id_pago":7,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.7efda0fbaa74",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"08\/02\/2026 20:45"
+  },
+  {
+    "id_pago":8,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_95a93d69e3bf",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"07\/01\/2026 08:52"
+  },
+  {
+    "id_pago":9,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_50bf20552157",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-27 04:41:45"
+  },
+  {
+    "id_pago":10,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_426f063942cd",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-23 23:36:39"
+  },
+  {
+    "id_pago":11,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_da015c8c758a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"03\/08\/2026 23:34"
+  },
+  {
+    "id_pago":12,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_2c2852a70687",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"28\/08\/2026 19:48"
+  },
+  {
+    "id_pago":13,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a7e316f4b253",
+    "concepto":null,
+    "fecha_pago":"2026-10-26 16:00:10"
+  },
+  {
+    "id_pago":14,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ed60572202dc",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"13\/06\/2026 23:28"
+  },
+  {
+    "id_pago":15,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f78336a01790",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"17\/12\/2025 22:36"
+  },
+  {
+    "id_pago":16,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.f120a46d8a97",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"01\/07\/2026 12:04"
+  },
+  {
+    "id_pago":17,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.33b9b04e0a82",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"27\/04\/2026 00:52"
+  },
+  {
+    "id_pago":18,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e96b14d2037d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"26\/11\/2025 12:31"
+  },
+  {
+    "id_pago":19,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bfd41f332163",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-11-25 18:01:00"
+  },
+  {
+    "id_pago":20,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d6ead875884d",
+    "concepto":null,
+    "fecha_pago":"20\/12\/2025 13:35"
+  },
+  {
+    "id_pago":21,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.b4df999b05e7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"07\/02\/2026 02:08"
+  },
+  {
+    "id_pago":22,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d8a0462ccb7c",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-02-12 12:50:36"
+  },
+  {
+    "id_pago":23,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.16ecc6330934",
+    "concepto":null,
+    "fecha_pago":"29\/05\/2026 10:32"
+  },
+  {
+    "id_pago":24,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.18236d6ab1b0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-05 23:30:28"
+  },
+  {
+    "id_pago":25,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_dba8a274de75",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-11-24 11:37:11"
+  },
+  {
+    "id_pago":26,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_693723167264",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"20\/06\/2026 03:28"
+  },
+  {
+    "id_pago":27,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.d5d322c58c93",
+    "concepto":null,
+    "fecha_pago":"2026-01-30 09:35:16"
+  },
+  {
+    "id_pago":28,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_819d7a5c83ff",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"19\/08\/2026 06:04"
+  },
+  {
+    "id_pago":29,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_cf7d956a62f7",
+    "concepto":null,
+    "fecha_pago":"2026-07-24 13:38:55"
+  },
+  {
+    "id_pago":30,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b200474abc83",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"13\/08\/2026 13:06"
+  },
+  {
+    "id_pago":31,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a3fdd1484fc8",
+    "concepto":null,
+    "fecha_pago":"13\/06\/2026 19:30"
+  },
+  {
+    "id_pago":32,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.c94a3a10d882",
+    "concepto":null,
+    "fecha_pago":"2026-04-26 02:29:41"
+  },
+  {
+    "id_pago":33,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d9977aaa18d9",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"07\/02\/2026 18:56"
+  },
+  {
+    "id_pago":34,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.638f3d48fa50",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-05-07 15:13:06"
+  },
+  {
+    "id_pago":35,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3555e6c87b0d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"01\/07\/2026 00:38"
+  },
+  {
+    "id_pago":36,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5d4ce77fce8d",
+    "concepto":null,
+    "fecha_pago":"2026-03-02 05:12:43"
+  },
+  {
+    "id_pago":37,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8babb7a9044e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"24\/09\/2026 12:43"
+  },
+  {
+    "id_pago":38,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_08dc68691a60",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-10-17 18:45:10"
+  },
+  {
+    "id_pago":39,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"GPA.c94a3a10d882",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"16\/11\/2025 16:51"
+  },
+  {
+    "id_pago":40,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"ch_a55c21b7880d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"04\/09\/2026 20:53"
+  },
+  {
+    "id_pago":41,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_2853c4b89991",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-09-23 03:03:59"
+  },
+  {
+    "id_pago":42,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e886f1db7d43",
+    "concepto":null,
+    "fecha_pago":"2026-01-15 04:25:09"
+  },
+  {
+    "id_pago":43,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.381de9b0e756",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-12 07:25:02"
+  },
+  {
+    "id_pago":44,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.26a6eeebdbed",
+    "concepto":null,
+    "fecha_pago":"27\/04\/2026 07:20"
+  },
+  {
+    "id_pago":45,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3f34b44079a8",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"26\/03\/2026 07:39"
+  },
+  {
+    "id_pago":46,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_52233394f395",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-03-02 02:14:07"
+  },
+  {
+    "id_pago":47,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.67f301feb58f",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-01-13 13:27:38"
+  },
+  {
+    "id_pago":48,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1f04280654cb",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-05 19:09:22"
+  },
+  {
+    "id_pago":49,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a64b4cffb0d7",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-09-06 16:34:03"
+  },
+  {
+    "id_pago":50,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.3398139f365e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"24\/03\/2026 21:34"
+  },
+  {
+    "id_pago":51,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"ch_a4a142170880",
+    "concepto":null,
+    "fecha_pago":"2025-12-23 20:57:19"
+  },
+  {
+    "id_pago":52,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_6d0b773b6d5e",
+    "concepto":null,
+    "fecha_pago":"20\/12\/2025 04:44"
+  },
+  {
+    "id_pago":53,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0691a1c3dfd5",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"10\/04\/2026 17:27"
+  },
+  {
+    "id_pago":54,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_13656d68bca0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2025-12-21 17:44:55"
+  },
+  {
+    "id_pago":55,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_0974667fb60f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-02 14:13:01"
+  },
+  {
+    "id_pago":56,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3d95cd9f2158",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-10-09 07:30:24"
+  },
+  {
+    "id_pago":57,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1f5226dcfc81",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-03-27 18:11:10"
+  },
+  {
+    "id_pago":58,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":" apple ",
+    "id_externo":"GPA.a846a5ddea9b",
+    "concepto":null,
+    "fecha_pago":"06\/07\/2026 15:25"
+  },
+  {
+    "id_pago":59,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8e9ccbfbafe7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-24 21:47:59"
+  },
+  {
+    "id_pago":60,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.88d0e092bde9",
+    "concepto":null,
+    "fecha_pago":"2026-09-23 15:16:02"
+  },
+  {
+    "id_pago":61,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.69baaf0f4b77",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"01\/12\/2025 01:16"
+  },
+  {
+    "id_pago":62,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.4d549b4f2b1a",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-08-24 13:52:47"
+  },
+  {
+    "id_pago":63,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_1b92cc640167",
+    "concepto":null,
+    "fecha_pago":"11\/05\/2026 14:26"
+  },
+  {
+    "id_pago":64,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_589e80bfd260",
+    "concepto":null,
+    "fecha_pago":"10\/06\/2026 10:17"
+  },
+  {
+    "id_pago":65,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b5aba4f634d9",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"01\/01\/2026 15:45"
+  },
+  {
+    "id_pago":66,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_3a7710dbe637",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"07\/11\/2026 08:42"
+  },
+  {
+    "id_pago":67,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_d4d325970eea",
+    "concepto":null,
+    "fecha_pago":"10\/04\/2026 04:28"
+  },
+  {
+    "id_pago":68,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.31bf539466fe",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"14\/12\/2025 18:45"
+  },
+  {
+    "id_pago":69,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_775bf7549695",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"16\/06\/2026 13:40"
+  },
+  {
+    "id_pago":70,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.d55f98eacea9",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"08\/03\/2026 00:54"
+  },
+  {
+    "id_pago":71,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_97de198251dc",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"02\/10\/2026 06:53"
+  },
+  {
+    "id_pago":72,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c431087a860a",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"16\/07\/2026 07:38"
+  },
+  {
+    "id_pago":73,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0b2c2ed577ff",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-12 09:18:30"
+  },
+  {
+    "id_pago":74,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ba692d5d36ec",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"24\/10\/2026 01:17"
+  },
+  {
+    "id_pago":75,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.19f08f4e3723",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"14\/10\/2026 19:58"
+  },
+  {
+    "id_pago":76,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_84cd83f905b5",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-03 14:58:09"
+  },
+  {
+    "id_pago":77,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_58bc2f2b4749",
+    "concepto":null,
+    "fecha_pago":"26\/06\/2026 09:35"
+  },
+  {
+    "id_pago":78,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e874e527053d",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"27\/01\/2026 20:32"
+  },
+  {
+    "id_pago":79,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_465e5ccdf535",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"14\/08\/2026 19:22"
+  },
+  {
+    "id_pago":80,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7d0d371fc48d",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-11 04:35:15"
+  },
+  {
+    "id_pago":81,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9908a62bb851",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-01 23:24:03"
+  },
+  {
+    "id_pago":82,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_6fa21ef78f40",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-28 23:42:27"
+  },
+  {
+    "id_pago":83,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9cf22cb2eb6f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-10 16:27:09"
+  },
+  {
+    "id_pago":84,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0ebdc07ea1b4",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"10\/09\/2026 09:48"
+  },
+  {
+    "id_pago":85,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7e34f47fb27d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"06\/03\/2026 13:34"
+  },
+  {
+    "id_pago":86,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7d9f505e15ec",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"15\/12\/2025 04:00"
+  },
+  {
+    "id_pago":87,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d7e26f2f12f6",
+    "concepto":null,
+    "fecha_pago":"2026-10-12 08:25:32"
+  },
+  {
+    "id_pago":88,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f8e4946160e4",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-12 14:03:17"
+  },
+  {
+    "id_pago":89,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_fc1ebd605557",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"16\/10\/2026 16:29"
+  },
+  {
+    "id_pago":90,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_91e9a72ad713",
+    "concepto":null,
+    "fecha_pago":"2025-12-23 09:41:17"
+  },
+  {
+    "id_pago":91,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.219e572dd22c",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"10\/04\/2026 19:19"
+  },
+  {
+    "id_pago":92,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_990e22490896",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-03-02 03:11:18"
+  },
+  {
+    "id_pago":93,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.1c8732ae69fe",
+    "concepto":null,
+    "fecha_pago":"09\/05\/2026 06:22"
+  },
+  {
+    "id_pago":94,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_3dc58259f1da",
+    "concepto":null,
+    "fecha_pago":"19\/07\/2026 01:17"
+  },
+  {
+    "id_pago":95,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c3fe645a4a0d",
+    "concepto":null,
+    "fecha_pago":"04\/10\/2026 02:45"
+  },
+  {
+    "id_pago":96,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.955040c40215",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"04\/04\/2026 20:46"
+  },
+  {
+    "id_pago":97,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c6fcbcbc92be",
+    "concepto":null,
+    "fecha_pago":"16\/01\/2026 08:19"
+  },
+  {
+    "id_pago":98,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e502344c1bcb",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"06\/04\/2026 22:37"
+  },
+  {
+    "id_pago":99,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.103c454d9e61",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-01 03:38:58"
+  },
+  {
+    "id_pago":100,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.46441785e9f1",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"03\/02\/2026 13:02"
+  },
+  {
+    "id_pago":101,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"GPA.a273ef9bf08f",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-01 10:46:19"
+  },
+  {
+    "id_pago":102,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8b5b33b34648",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-25 20:42:01"
+  },
+  {
+    "id_pago":103,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.88d0e092bde9",
+    "concepto":null,
+    "fecha_pago":"13\/08\/2026 17:43"
+  },
+  {
+    "id_pago":104,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"ch_6d0b773b6d5e",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-11-12 22:32:24"
+  },
+  {
+    "id_pago":105,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_428508e30d8b",
+    "concepto":null,
+    "fecha_pago":"2026-08-06 15:24:45"
+  },
+  {
+    "id_pago":106,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_2100c4791726",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-23 20:24:51"
+  },
+  {
+    "id_pago":107,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.12cb4bb8de63",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-11 21:48:22"
+  },
+  {
+    "id_pago":108,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_2da9d7e3c011",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-08 17:47:56"
+  },
+  {
+    "id_pago":109,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"ch_4da4306b422b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-18 18:42:47"
+  },
+  {
+    "id_pago":110,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3067aef9e23a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"19\/01\/2026 15:24"
+  },
+  {
+    "id_pago":111,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.0f92f8f30fea",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-09 14:49:52"
+  },
+  {
+    "id_pago":112,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.ba29ebac9e6b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-24 08:14:27"
+  },
+  {
+    "id_pago":113,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.752b96958e94",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-17 06:05:23"
+  },
+  {
+    "id_pago":114,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"APPLE",
+    "id_externo":"APL_ff572ef0baf5",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-01-16 15:18:29"
+  },
+  {
+    "id_pago":115,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.07dbe6bf3ae4",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-05-12 16:51:50"
+  },
+  {
+    "id_pago":116,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5f29fbe98fbf",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-10 13:04:03"
+  },
+  {
+    "id_pago":117,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.7c1e26abe058",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"27\/02\/2026 00:22"
+  },
+  {
+    "id_pago":118,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.770bcdd7183c",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"08\/11\/2026 13:33"
+  },
+  {
+    "id_pago":119,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_38af314b31be",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-07-20 17:31:00"
+  },
+  {
+    "id_pago":120,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e5249d18eb4a",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"08\/08\/2026 10:25"
+  },
+  {
+    "id_pago":121,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_3c27900608dc",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"18\/06\/2026 11:26"
+  },
+  {
+    "id_pago":122,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8f45051c29cb",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-07 11:14:54"
+  },
+  {
+    "id_pago":123,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.638ed22f08a7",
+    "concepto":null,
+    "fecha_pago":"2026-08-07 01:21:14"
+  },
+  {
+    "id_pago":124,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.7fb4207440b5",
+    "concepto":null,
+    "fecha_pago":"20\/03\/2026 02:49"
+  },
+  {
+    "id_pago":125,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c56d7093ea53",
+    "concepto":null,
+    "fecha_pago":"2026-10-07 12:14:09"
+  },
+  {
+    "id_pago":126,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_600b691fccf1",
+    "concepto":null,
+    "fecha_pago":"2026-09-08 13:29:17"
+  },
+  {
+    "id_pago":127,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ed6aba00801a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"11\/09\/2026 13:07"
+  },
+  {
+    "id_pago":128,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_9553b38b3959",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"05\/12\/2025 21:39"
+  },
+  {
+    "id_pago":129,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_c5865f830cea",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-11 03:10:09"
+  },
+  {
+    "id_pago":130,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b4277664cca7",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"29\/09\/2026 08:02"
+  },
+  {
+    "id_pago":131,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.c5d1ac8e6eec",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-11-26 15:28:57"
+  },
+  {
+    "id_pago":132,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_0478021632b6",
+    "concepto":null,
+    "fecha_pago":"2026-09-22 19:51:26"
+  },
+  {
+    "id_pago":133,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_8b3631cb2daf",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-03-16 16:31:19"
+  },
+  {
+    "id_pago":134,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1d1b9392613a",
+    "concepto":null,
+    "fecha_pago":"2026-04-18 23:24:48"
+  },
+  {
+    "id_pago":135,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.76d0ea70af62",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-26 03:48:45"
+  },
+  {
+    "id_pago":136,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_443867870eb6",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-12-09 21:12:33"
+  },
+  {
+    "id_pago":137,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_990e22490896",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"04\/02\/2026 02:47"
+  },
+  {
+    "id_pago":138,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_51f403707481",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"03\/11\/2026 19:19"
+  },
+  {
+    "id_pago":139,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e4e86228c12a",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"22\/06\/2026 10:47"
+  },
+  {
+    "id_pago":140,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_d2b4a2717717",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"20\/10\/2026 12:37"
+  },
+  {
+    "id_pago":141,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_4b34d4bfc500",
+    "concepto":null,
+    "fecha_pago":"2026-08-19 23:43:57"
+  },
+  {
+    "id_pago":142,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_bb556076c787",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"16\/03\/2026 09:17"
+  },
+  {
+    "id_pago":143,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3064aa8bd1b4",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"04\/02\/2026 18:06"
+  },
+  {
+    "id_pago":144,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8429d65a01a8",
+    "concepto":null,
+    "fecha_pago":"26\/07\/2026 17:25"
+  },
+  {
+    "id_pago":145,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f991dcf44ca3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-27 01:27:33"
+  },
+  {
+    "id_pago":146,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_97c53f98879f",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-04-16 19:50:35"
+  },
+  {
+    "id_pago":147,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_446012e89072",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"23\/10\/2026 18:07"
+  },
+  {
+    "id_pago":148,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"APL_4e2a3db7aa79",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-11-04 08:29:16"
+  },
+  {
+    "id_pago":149,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_76791edca969",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-21 20:06:01"
+  },
+  {
+    "id_pago":150,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b23ba4f4fa3b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-05-11 09:05:45"
+  },
+  {
+    "id_pago":151,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_dd0b3b52b39c",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"08\/01\/2026 15:56"
+  },
+  {
+    "id_pago":152,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_98d50f3bd893",
+    "concepto":null,
+    "fecha_pago":"25\/02\/2026 01:08"
+  },
+  {
+    "id_pago":153,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.76ec6e6805c3",
+    "concepto":null,
+    "fecha_pago":"07\/01\/2026 09:44"
+  },
+  {
+    "id_pago":154,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"APL_a2877653c354",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"17\/02\/2026 23:01"
+  },
+  {
+    "id_pago":155,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.ae3ac6525a26",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-30 12:05:14"
+  },
+  {
+    "id_pago":156,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_50891c49883c",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-06-20 04:37:00"
+  },
+  {
+    "id_pago":157,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.cf22fdce4df7",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-11 11:55:08"
+  },
+  {
+    "id_pago":158,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_21a27a5b2da1",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-02-24 05:12:57"
+  },
+  {
+    "id_pago":159,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.2c7408eceb52",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"31\/08\/2026 06:57"
+  },
+  {
+    "id_pago":160,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_c8b54e3acb72",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"29\/06\/2026 05:01"
+  },
+  {
+    "id_pago":161,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e771028f80d0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"29\/04\/2026 13:34"
+  },
+  {
+    "id_pago":162,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_e4b59f8ffa2b",
+    "concepto":null,
+    "fecha_pago":"2026-10-28 20:36:08"
+  },
+  {
+    "id_pago":163,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b1a26ace4978",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-28 19:12:27"
+  },
+  {
+    "id_pago":164,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.2569287858eb",
+    "concepto":null,
+    "fecha_pago":"2026-04-18 06:58:09"
+  },
+  {
+    "id_pago":165,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.f706716a4b94",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-04-03 18:20:17"
+  },
+  {
+    "id_pago":166,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ed0a625d1582",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"07\/02\/2026 08:30"
+  },
+  {
+    "id_pago":167,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7461a6f57123",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"06\/01\/2026 21:37"
+  },
+  {
+    "id_pago":168,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b9bc707cf833",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-31 01:24:57"
+  },
+  {
+    "id_pago":169,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_24e2148f0f36",
+    "concepto":null,
+    "fecha_pago":"2026-05-24 20:11:15"
+  },
+  {
+    "id_pago":170,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_61fbcfef5213",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"19\/12\/2025 11:37"
+  },
+  {
+    "id_pago":171,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_06aeb68f20a7",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-09-03 16:41:13"
+  },
+  {
+    "id_pago":172,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.f6c19b772c50",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-02 11:26:35"
+  },
+  {
+    "id_pago":173,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a527d4086477",
+    "concepto":null,
+    "fecha_pago":"14\/10\/2026 14:20"
+  },
+  {
+    "id_pago":174,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0297d9262e1e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-26 18:17:26"
+  },
+  {
+    "id_pago":175,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_64f31f8a87fe",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-12 12:52:15"
+  },
+  {
+    "id_pago":176,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.6476ed6ca4fd",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-15 20:30:27"
+  },
+  {
+    "id_pago":177,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"APL_4098cb1a0418",
+    "concepto":null,
+    "fecha_pago":"15\/01\/2026 07:25"
+  },
+  {
+    "id_pago":178,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_40b3718ebdb0",
+    "concepto":null,
+    "fecha_pago":"2026-09-17 19:00:05"
+  },
+  {
+    "id_pago":179,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_f35942700f6e",
+    "concepto":null,
+    "fecha_pago":"05\/08\/2026 10:49"
+  },
+  {
+    "id_pago":180,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_70f5874f4db3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-04-27 03:06:09"
+  },
+  {
+    "id_pago":181,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.720b0440e1f5",
+    "concepto":null,
+    "fecha_pago":"2026-07-03 19:13:18"
+  },
+  {
+    "id_pago":182,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.ac148a5c2c53",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"08\/12\/2025 20:24"
+  },
+  {
+    "id_pago":183,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_8920e246ea96",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"12\/04\/2026 14:34"
+  },
+  {
+    "id_pago":184,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0b4338cd25c7",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"11\/04\/2026 09:14"
+  },
+  {
+    "id_pago":185,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f637944a656c",
+    "concepto":null,
+    "fecha_pago":"2026-07-03 14:22:09"
+  },
+  {
+    "id_pago":186,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.4994b6d3a26c",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-05-14 22:49:40"
+  },
+  {
+    "id_pago":187,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"APPLE",
+    "id_externo":"APL_cb51bfb76092",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"07\/06\/2026 15:59"
+  },
+  {
+    "id_pago":188,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.54e73edbb056",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-19 19:38:09"
+  },
+  {
+    "id_pago":189,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_02509241a80a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-06-17 00:43:32"
+  },
+  {
+    "id_pago":190,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e4e478b5e2da",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"14\/10\/2026 11:20"
+  },
+  {
+    "id_pago":191,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ffbdcf202067",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-11-18 15:17:51"
+  },
+  {
+    "id_pago":192,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ea8633735907",
+    "concepto":null,
+    "fecha_pago":"2026-08-05 08:59:15"
+  },
+  {
+    "id_pago":193,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"Apple",
+    "id_externo":"GPA.73033dd4f4f3",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/08\/2026 01:54"
+  },
+  {
+    "id_pago":194,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_2503e3913d86",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"28\/12\/2025 15:59"
+  },
+  {
+    "id_pago":195,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.2e88b779a19f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"05\/08\/2026 22:17"
+  },
+  {
+    "id_pago":196,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_78b57ce7e85b",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-10-23 19:06:45"
+  },
+  {
+    "id_pago":197,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_155664155f21",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"10\/06\/2026 17:12"
+  },
+  {
+    "id_pago":198,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_071d09d09efd",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"01\/09\/2026 18:58"
+  },
+  {
+    "id_pago":199,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_909c4b95ce6d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"25\/02\/2026 19:16"
+  },
+  {
+    "id_pago":200,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_2569c658fb0b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-09-08 16:08:45"
+  },
+  {
+    "id_pago":201,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.dc44723f3c0e",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/07\/2026 02:29"
+  },
+  {
+    "id_pago":202,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_21ab87706340",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"26\/03\/2026 06:57"
+  },
+  {
+    "id_pago":203,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_40c0a9ba4f2a",
+    "concepto":null,
+    "fecha_pago":"27\/12\/2025 12:01"
+  },
+  {
+    "id_pago":204,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8216e57b97c3",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-03-08 03:54:22"
+  },
+  {
+    "id_pago":205,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0d86838fb0ed",
+    "concepto":null,
+    "fecha_pago":"02\/05\/2026 00:35"
+  },
+  {
+    "id_pago":206,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0eb0afb5e1cc",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-14 14:25:25"
+  },
+  {
+    "id_pago":207,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_d39f92fb222e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"09\/05\/2026 09:17"
+  },
+  {
+    "id_pago":208,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_c59c077cab40",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-11-15 10:32:06"
+  },
+  {
+    "id_pago":209,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_387a48d515a7",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-21 14:40:20"
+  },
+  {
+    "id_pago":210,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ea26ab0e9576",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-10-20 07:49:39"
+  },
+  {
+    "id_pago":211,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d8fab5a6fd2b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"20\/08\/2026 16:11"
+  },
+  {
+    "id_pago":212,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.eb6c113a8967",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-24 11:15:01"
+  },
+  {
+    "id_pago":213,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_51f403707481",
+    "concepto":null,
+    "fecha_pago":"27\/05\/2026 14:05"
+  },
+  {
+    "id_pago":214,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1f1bd8d5ec18",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-09-06 02:17:20"
+  },
+  {
+    "id_pago":215,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_9945d8cefa25",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"22\/01\/2026 13:26"
+  },
+  {
+    "id_pago":216,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a747e08a6c94",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"30\/05\/2026 08:13"
+  },
+  {
+    "id_pago":217,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"ch_387930da02f3",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"03\/11\/2026 14:35"
+  },
+  {
+    "id_pago":218,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e041331ea46d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-12-25 12:06:26"
+  },
+  {
+    "id_pago":219,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ea76d5cf1ed2",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-10-18 06:06:28"
+  },
+  {
+    "id_pago":220,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.6ab036827bd7",
+    "concepto":null,
+    "fecha_pago":"2026-07-15 00:30:24"
+  },
+  {
+    "id_pago":221,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.6446d4838b79",
+    "concepto":null,
+    "fecha_pago":"10\/03\/2026 01:59"
+  },
+  {
+    "id_pago":222,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b7ad4cff02c9",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"07\/10\/2026 01:12"
+  },
+  {
+    "id_pago":223,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.d4f3624a46a3",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"20\/07\/2026 07:43"
+  },
+  {
+    "id_pago":224,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b56999c12249",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"30\/05\/2026 08:02"
+  },
+  {
+    "id_pago":225,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.b36396332087",
+    "concepto":null,
+    "fecha_pago":"2026-07-08 16:18:01"
+  },
+  {
+    "id_pago":226,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1da295f0e25f",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-01-30 10:16:21"
+  },
+  {
+    "id_pago":227,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_57bd84acacf3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-01-12 12:51:06"
+  },
+  {
+    "id_pago":228,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e3e4a9c03f95",
+    "concepto":null,
+    "fecha_pago":"2026-04-08 09:24:58"
+  },
+  {
+    "id_pago":229,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_d9eedac2e198",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"06\/09\/2026 07:24"
+  },
+  {
+    "id_pago":230,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.cf28c254dd05",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"15\/01\/2026 22:01"
+  },
+  {
+    "id_pago":231,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_9d9cd4a39fbe",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"11\/06\/2026 15:39"
+  },
+  {
+    "id_pago":232,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a273ef9bf08f",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-12 13:36:41"
+  },
+  {
+    "id_pago":233,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7e91d88bd163",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-11-07 09:59:43"
+  },
+  {
+    "id_pago":234,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"ch_9a7fb98c1af5",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-08 03:32:28"
+  },
+  {
+    "id_pago":235,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_912b3fe5d793",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"05\/11\/2026 21:15"
+  },
+  {
+    "id_pago":236,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f256d8403b79",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-11-14 09:37:01"
+  },
+  {
+    "id_pago":237,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_01736bd336cb",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"04\/07\/2026 18:51"
+  },
+  {
+    "id_pago":238,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e824f8522aa4",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"20\/03\/2026 01:38"
+  },
+  {
+    "id_pago":239,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_e25e6c80de22",
+    "concepto":null,
+    "fecha_pago":"2026-05-22 22:25:19"
+  },
+  {
+    "id_pago":240,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_92d7dee222a6",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"21\/11\/2025 17:49"
+  },
+  {
+    "id_pago":241,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.c4618533a74d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"27\/12\/2025 14:58"
+  },
+  {
+    "id_pago":242,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_2ed9c1249336",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"10\/11\/2026 00:06"
+  },
+  {
+    "id_pago":243,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7cc759bdf5e1",
+    "concepto":null,
+    "fecha_pago":"2026-04-04 03:30:45"
+  },
+  {
+    "id_pago":244,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"APL_0d3e74453fb9",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-10-21 10:34:05"
+  },
+  {
+    "id_pago":245,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_40e0c631c253",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-10-03 03:58:16"
+  },
+  {
+    "id_pago":246,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_678c338dd390",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"23\/09\/2026 11:58"
+  },
+  {
+    "id_pago":247,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b62ff7434055",
+    "concepto":null,
+    "fecha_pago":"2026-03-13 14:31:33"
+  },
+  {
+    "id_pago":248,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.02befc959b7c",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-15 04:08:38"
+  },
+  {
+    "id_pago":249,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_4098cb1a0418",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"06\/12\/2025 16:11"
+  },
+  {
+    "id_pago":250,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_986e97e7239d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"15\/02\/2026 17:22"
+  },
+  {
+    "id_pago":251,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_cbc21f00f252",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"21\/10\/2026 03:55"
+  },
+  {
+    "id_pago":252,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_26d74f83a4d9",
+    "concepto":null,
+    "fecha_pago":"22\/06\/2026 12:26"
+  },
+  {
+    "id_pago":253,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c1e6ab6ca452",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-14 18:21:20"
+  },
+  {
+    "id_pago":254,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_cb9641d2bcb3",
+    "concepto":null,
+    "fecha_pago":"2025-12-17 10:38:04"
+  },
+  {
+    "id_pago":255,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b3bf5897c2a1",
+    "concepto":null,
+    "fecha_pago":"2026-08-25 10:09:35"
+  },
+  {
+    "id_pago":256,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_1ab329fa3a37",
+    "concepto":null,
+    "fecha_pago":"21\/05\/2026 22:02"
+  },
+  {
+    "id_pago":257,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_4da4306b422b",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"27\/09\/2026 02:10"
+  },
+  {
+    "id_pago":258,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e255d92c471d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"11\/12\/2025 01:23"
+  },
+  {
+    "id_pago":259,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ae343492fbbb",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"05\/09\/2026 13:36"
+  },
+  {
+    "id_pago":260,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e4e86228c12a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"09\/06\/2026 01:28"
+  },
+  {
+    "id_pago":261,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3befa4142921",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-09-07 14:22:51"
+  },
+  {
+    "id_pago":262,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.78b220928ebc",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"02\/01\/2026 00:27"
+  },
+  {
+    "id_pago":263,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_33056f0de7a4",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"03\/01\/2026 00:58"
+  },
+  {
+    "id_pago":264,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_43f4927ee47e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-07-28 09:36:36"
+  },
+  {
+    "id_pago":265,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d04940d6c66d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"17\/05\/2026 18:14"
+  },
+  {
+    "id_pago":266,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0d3e74453fb9",
+    "concepto":null,
+    "fecha_pago":"2026-06-15 16:49:39"
+  },
+  {
+    "id_pago":267,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b118e71cc486",
+    "concepto":null,
+    "fecha_pago":"17\/01\/2026 07:22"
+  },
+  {
+    "id_pago":268,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ffac3fec0306",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-25 02:47:36"
+  },
+  {
+    "id_pago":269,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7119372a0998",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-06-07 02:33:46"
+  },
+  {
+    "id_pago":270,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f0d2c005d668",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"18\/10\/2026 23:57"
+  },
+  {
+    "id_pago":271,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"APL_09b489fd74a7",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-07 18:09:06"
+  },
+  {
+    "id_pago":272,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.d0b5cf05954a",
+    "concepto":null,
+    "fecha_pago":"27\/04\/2026 12:13"
+  },
+  {
+    "id_pago":273,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3cea30bd2e1b",
+    "concepto":null,
+    "fecha_pago":"04\/02\/2026 10:23"
+  },
+  {
+    "id_pago":274,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_6d90fae10b2a",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"09\/11\/2026 22:23"
+  },
+  {
+    "id_pago":275,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.fba12012639f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"11\/06\/2026 14:53"
+  },
+  {
+    "id_pago":276,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.69e28e5aee2b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"03\/09\/2026 11:52"
+  },
+  {
+    "id_pago":277,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b100214063ce",
+    "concepto":null,
+    "fecha_pago":"24\/08\/2026 15:44"
+  },
+  {
+    "id_pago":278,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_62d7f94b1a3f",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"09\/08\/2026 02:19"
+  },
+  {
+    "id_pago":279,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c78a7d9326fb",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-31 07:09:01"
+  },
+  {
+    "id_pago":280,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_555549b76db1",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"18\/08\/2026 01:27"
+  },
+  {
+    "id_pago":281,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0ea1bb425eea",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"15\/03\/2026 05:41"
+  },
+  {
+    "id_pago":282,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e262e1bef4d3",
+    "concepto":null,
+    "fecha_pago":"2026-04-18 03:09:51"
+  },
+  {
+    "id_pago":283,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"APL_b1a26ace4978",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"02\/08\/2026 00:51"
+  },
+  {
+    "id_pago":284,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.c853874aa64c",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"24\/07\/2026 13:35"
+  },
+  {
+    "id_pago":285,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_fb1ac16ba425",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-08 04:49:04"
+  },
+  {
+    "id_pago":286,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.ba912728300a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"03\/05\/2026 07:40"
+  },
+  {
+    "id_pago":287,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_33f02f557cf7",
+    "concepto":null,
+    "fecha_pago":"29\/10\/2026 13:17"
+  },
+  {
+    "id_pago":288,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.0aab95dd8cde",
+    "concepto":null,
+    "fecha_pago":"03\/06\/2026 04:26"
+  },
+  {
+    "id_pago":289,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f1667fccd14f",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"08\/05\/2026 12:26"
+  },
+  {
+    "id_pago":290,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.769a3c139239",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-31 04:07:39"
+  },
+  {
+    "id_pago":291,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f350000f5aad",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"18\/02\/2026 10:56"
+  },
+  {
+    "id_pago":292,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e2f4933ba1f7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"09\/02\/2026 10:37"
+  },
+  {
+    "id_pago":293,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"GPA.69e28e5aee2b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"09\/12\/2025 01:03"
+  },
+  {
+    "id_pago":294,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_83d3f319f867",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"25\/03\/2026 11:28"
+  },
+  {
+    "id_pago":295,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e8ad7785b9a3",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"22\/11\/2025 08:20"
+  },
+  {
+    "id_pago":296,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.c082e67f09fa",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-06-30 15:43:16"
+  },
+  {
+    "id_pago":297,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_823767560cb0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-06-17 07:12:34"
+  },
+  {
+    "id_pago":298,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b9db9c49f98f",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-11 13:06:41"
+  },
+  {
+    "id_pago":299,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.8ce730e5e69e",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-06-30 16:56:45"
+  },
+  {
+    "id_pago":300,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b0420ea27db6",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"07\/02\/2026 16:51"
+  },
+  {
+    "id_pago":301,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_1ba0c8c88bc1",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-11-16 23:18:36"
+  },
+  {
+    "id_pago":302,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_d7b3c038610b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"11\/12\/2025 17:59"
+  },
+  {
+    "id_pago":303,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.eefbf88ce250",
+    "concepto":null,
+    "fecha_pago":"16\/08\/2026 01:50"
+  },
+  {
+    "id_pago":304,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.91f6a1cfadfa",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-07-17 06:35:33"
+  },
+  {
+    "id_pago":305,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5fed8b2327f8",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"07\/12\/2025 01:01"
+  },
+  {
+    "id_pago":306,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f8ce3910afd1",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"11\/02\/2026 02:10"
+  },
+  {
+    "id_pago":307,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_98fb28a3b433",
+    "concepto":null,
+    "fecha_pago":"2025-12-10 08:30:11"
+  },
+  {
+    "id_pago":308,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.69e28e5aee2b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"31\/10\/2026 19:24"
+  },
+  {
+    "id_pago":309,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_1720b895a5db",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-11-26 09:04:35"
+  },
+  {
+    "id_pago":310,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.8dd195be1c8b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"14\/10\/2026 00:40"
+  },
+  {
+    "id_pago":311,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"ch_7461a6f57123",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-03-22 12:06:12"
+  },
+  {
+    "id_pago":312,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_21a7604fe7bc",
+    "concepto":null,
+    "fecha_pago":"11\/12\/2025 16:43"
+  },
+  {
+    "id_pago":313,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e095f3e03621",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"01\/06\/2026 20:34"
+  },
+  {
+    "id_pago":314,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_27f7239b4688",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-14 14:39:02"
+  },
+  {
+    "id_pago":315,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.115c5c75fa3f",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"02\/03\/2026 07:52"
+  },
+  {
+    "id_pago":316,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.fc484da843d5",
+    "concepto":null,
+    "fecha_pago":"31\/07\/2026 23:36"
+  },
+  {
+    "id_pago":317,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_bacf6325775f",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/05\/2026 16:40"
+  },
+  {
+    "id_pago":318,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3979d27b5595",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"05\/02\/2026 09:07"
+  },
+  {
+    "id_pago":319,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_cc297307cd61",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-06-11 14:18:40"
+  },
+  {
+    "id_pago":320,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7b188cb659d2",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"04\/01\/2026 13:31"
+  },
+  {
+    "id_pago":321,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7a0cdf5d9371",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-08-22 02:25:16"
+  },
+  {
+    "id_pago":322,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_71f41342a0f1",
+    "concepto":null,
+    "fecha_pago":"2026-11-12 11:54:40"
+  },
+  {
+    "id_pago":323,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_57ec22a75dbf",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-10-22 20:41:34"
+  },
+  {
+    "id_pago":324,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a32c5ff5945e",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"23\/06\/2026 22:47"
+  },
+  {
+    "id_pago":325,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_823c57643058",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-25 22:58:06"
+  },
+  {
+    "id_pago":326,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.56fd87001859",
+    "concepto":null,
+    "fecha_pago":"2026-05-16 17:53:59"
+  },
+  {
+    "id_pago":327,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_5805e94b6c7f",
+    "concepto":null,
+    "fecha_pago":"16\/02\/2026 13:11"
+  },
+  {
+    "id_pago":328,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_21be64e79598",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"14\/09\/2026 21:28"
+  },
+  {
+    "id_pago":329,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"GPA.b4df999b05e7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"16\/05\/2026 20:42"
+  },
+  {
+    "id_pago":330,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.fa20a0032276",
+    "concepto":null,
+    "fecha_pago":"2026-09-23 18:42:15"
+  },
+  {
+    "id_pago":331,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_542b42681bd2",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-04-21 06:21:37"
+  },
+  {
+    "id_pago":332,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_1293449334b0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-27 03:02:08"
+  },
+  {
+    "id_pago":333,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a4ecb068cc34",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"20\/12\/2025 19:28"
+  },
+  {
+    "id_pago":334,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ad5bec8c004e",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-21 19:44:50"
+  },
+  {
+    "id_pago":335,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e32e2eb254a0",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-07-28 02:27:03"
+  },
+  {
+    "id_pago":336,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3d1355fdb789",
+    "concepto":null,
+    "fecha_pago":"30\/04\/2026 13:58"
+  },
+  {
+    "id_pago":337,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.069c4e573fa6",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"31\/03\/2026 18:34"
+  },
+  {
+    "id_pago":338,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0ba4c7b0f06a",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"27\/04\/2026 16:19"
+  },
+  {
+    "id_pago":339,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5d14f9f69cc4",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"22\/04\/2026 20:02"
+  },
+  {
+    "id_pago":340,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"Google",
+    "id_externo":"APL_e9a9c2124ef3",
+    "concepto":null,
+    "fecha_pago":"2026-05-14 13:16:19"
+  },
+  {
+    "id_pago":341,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_22e6249b66bc",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"15\/10\/2026 15:49"
+  },
+  {
+    "id_pago":342,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_1048301979bd",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-08-24 07:45:58"
+  },
+  {
+    "id_pago":343,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.2afbeee01d34",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"05\/12\/2025 05:11"
+  },
+  {
+    "id_pago":344,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.744c032ff1b0",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-08-02 16:29:56"
+  },
+  {
+    "id_pago":345,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.90b89979e3fc",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"25\/07\/2026 22:55"
+  },
+  {
+    "id_pago":346,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a4a142170880",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"23\/07\/2026 03:07"
+  },
+  {
+    "id_pago":347,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_639db9c62637",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-22 09:36:27"
+  },
+  {
+    "id_pago":348,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_aca7a7006393",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2025-12-07 17:14:15"
+  },
+  {
+    "id_pago":349,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"APPLE",
+    "id_externo":"APL_ebf54a53d8c3",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-19 12:59:20"
+  },
+  {
+    "id_pago":350,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_451aa5bd1a9e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"23\/08\/2026 23:43"
+  },
+  {
+    "id_pago":351,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.55278846632b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"25\/03\/2026 22:48"
+  },
+  {
+    "id_pago":352,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ee2f20944172",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"21\/09\/2026 02:20"
+  },
+  {
+    "id_pago":353,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"ch_8216e57b97c3",
+    "concepto":null,
+    "fecha_pago":"14\/10\/2026 19:39"
+  },
+  {
+    "id_pago":354,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e9a9c2124ef3",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-26 14:44:52"
+  },
+  {
+    "id_pago":355,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_4347dd162cfd",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"18\/02\/2026 17:55"
+  },
+  {
+    "id_pago":356,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_81e7cc76bacb",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"27\/01\/2026 14:02"
+  },
+  {
+    "id_pago":357,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_48b2a469803a",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"27\/01\/2026 01:09"
+  },
+  {
+    "id_pago":358,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_db2da5b3cf7a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-06-10 10:49:55"
+  },
+  {
+    "id_pago":359,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.322192fd4972",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"07\/05\/2026 09:40"
+  },
+  {
+    "id_pago":360,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.3b691036b813",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"07\/01\/2026 14:52"
+  },
+  {
+    "id_pago":361,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_09e4596390ae",
+    "concepto":null,
+    "fecha_pago":"27\/04\/2026 00:30"
+  },
+  {
+    "id_pago":362,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_72f7a2d75ce5",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-01-24 10:31:08"
+  },
+  {
+    "id_pago":363,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_86d5f242a93f",
+    "concepto":null,
+    "fecha_pago":"02\/03\/2026 08:30"
+  },
+  {
+    "id_pago":364,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e90d5865862f",
+    "concepto":null,
+    "fecha_pago":"2026-05-12 20:17:34"
+  },
+  {
+    "id_pago":365,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_79d080be1379",
+    "concepto":null,
+    "fecha_pago":"2026-02-19 04:39:05"
+  },
+  {
+    "id_pago":366,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"STRIPE",
+    "id_externo":"ch_8147c837233a",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-19 19:05:11"
+  },
+  {
+    "id_pago":367,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.6c53a0bcb598",
+    "concepto":null,
+    "fecha_pago":"07\/11\/2026 17:44"
+  },
+  {
+    "id_pago":368,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_cee218e4b2c6",
+    "concepto":null,
+    "fecha_pago":"2025-12-13 10:55:29"
+  },
+  {
+    "id_pago":369,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bfaf1bf169c9",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-05 06:33:52"
+  },
+  {
+    "id_pago":370,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.027e6467cf5e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-23 23:35:59"
+  },
+  {
+    "id_pago":371,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.69e28e5aee2b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-10-14 16:38:31"
+  },
+  {
+    "id_pago":372,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_170f6e732ddc",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-12 14:28:34"
+  },
+  {
+    "id_pago":373,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.45feedddc943",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"15\/06\/2026 21:41"
+  },
+  {
+    "id_pago":374,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_2bebaaea69da",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"22\/12\/2025 04:51"
+  },
+  {
+    "id_pago":375,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_4bb78a8d13e4",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"03\/12\/2025 19:48"
+  },
+  {
+    "id_pago":376,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b8fac131e787",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-25 10:43:03"
+  },
+  {
+    "id_pago":377,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b2923c57b972",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"12\/06\/2026 02:55"
+  },
+  {
+    "id_pago":378,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e2356cda362b",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-10-04 20:37:42"
+  },
+  {
+    "id_pago":379,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_09b489fd74a7",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2025-11-19 21:50:23"
+  },
+  {
+    "id_pago":380,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bbec5fd61d56",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"20\/12\/2025 09:33"
+  },
+  {
+    "id_pago":381,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f27b3663bb06",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"08\/11\/2026 22:39"
+  },
+  {
+    "id_pago":382,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_cf7d956a62f7",
+    "concepto":null,
+    "fecha_pago":"2026-09-02 20:01:34"
+  },
+  {
+    "id_pago":383,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"GPA.cfef78c47bbe",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-10-09 18:42:15"
+  },
+  {
+    "id_pago":384,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.6e8712b97ab3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"13\/02\/2026 23:30"
+  },
+  {
+    "id_pago":385,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_8f4aeea91e4c",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"17\/01\/2026 18:25"
+  },
+  {
+    "id_pago":386,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_1e4a94a92056",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/04\/2026 00:20"
+  },
+  {
+    "id_pago":387,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.508b0dbc6e13",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-21 18:47:24"
+  },
+  {
+    "id_pago":388,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.40459c42fa20",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-05-20 02:52:20"
+  },
+  {
+    "id_pago":389,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5947c9149e11",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-05 04:33:21"
+  },
+  {
+    "id_pago":390,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_56bc53c18e0f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"15\/10\/2026 23:24"
+  },
+  {
+    "id_pago":391,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_9bcf9d18debd",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-18 22:15:11"
+  },
+  {
+    "id_pago":392,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_6282aad2eb40",
+    "concepto":null,
+    "fecha_pago":"2026-10-30 15:39:49"
+  },
+  {
+    "id_pago":393,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"GPA.e0b1200a61a0",
+    "concepto":null,
+    "fecha_pago":"2025-12-06 22:48:29"
+  },
+  {
+    "id_pago":394,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.866188756b14",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"17\/01\/2026 02:48"
+  },
+  {
+    "id_pago":395,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.f7aaafa6d63a",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"10\/04\/2026 08:34"
+  },
+  {
+    "id_pago":396,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.841656ff860e",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-11-15 00:22:34"
+  },
+  {
+    "id_pago":397,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b4df999b05e7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"14\/04\/2026 19:16"
+  },
+  {
+    "id_pago":398,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a6ebb1896ea3",
+    "concepto":null,
+    "fecha_pago":"2026-02-25 04:09:29"
+  },
+  {
+    "id_pago":399,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_dabf75a70f96",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"09\/11\/2026 00:03"
+  },
+  {
+    "id_pago":400,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_435eeffde5d6",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"14\/09\/2026 16:21"
+  },
+  {
+    "id_pago":401,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.58e7c18277a3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"15\/09\/2026 02:13"
+  },
+  {
+    "id_pago":402,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3650acdbe77c",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"09\/05\/2026 21:16"
+  },
+  {
+    "id_pago":403,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_2e94d81d8a60",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"04\/03\/2026 23:00"
+  },
+  {
+    "id_pago":404,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.79a3a57587ed",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-27 11:00:07"
+  },
+  {
+    "id_pago":405,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_4f82ae24cc73",
+    "concepto":null,
+    "fecha_pago":"11\/08\/2026 16:59"
+  },
+  {
+    "id_pago":406,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"STRIPE",
+    "id_externo":"GPA.322192fd4972",
+    "concepto":null,
+    "fecha_pago":"24\/08\/2026 21:05"
+  },
+  {
+    "id_pago":407,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a9a17ffd5276",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"14\/09\/2026 09:44"
+  },
+  {
+    "id_pago":408,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.27d94e731dd2",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-06-18 00:25:22"
+  },
+  {
+    "id_pago":409,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7aa196b1d834",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"29\/07\/2026 05:22"
+  },
+  {
+    "id_pago":410,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_bdfefa56fd4d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-20 04:20:13"
+  },
+  {
+    "id_pago":411,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b5441e2a99de",
+    "concepto":null,
+    "fecha_pago":"2026-05-22 04:23:34"
+  },
+  {
+    "id_pago":412,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7ab0250b4da4",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"13\/01\/2026 07:05"
+  },
+  {
+    "id_pago":413,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"APL_eb888f6b26e9",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-01-26 22:15:47"
+  },
+  {
+    "id_pago":414,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"ch_bc2d4a08f2ff",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-03-09 09:48:14"
+  },
+  {
+    "id_pago":415,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_82e2ecb8e746",
+    "concepto":null,
+    "fecha_pago":"06\/02\/2026 17:24"
+  },
+  {
+    "id_pago":416,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a1478a215211",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2025-12-06 21:23:25"
+  },
+  {
+    "id_pago":417,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"ch_50bf20552157",
+    "concepto":null,
+    "fecha_pago":"2026-06-27 02:38:17"
+  },
+  {
+    "id_pago":418,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_64361d18d167",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"26\/08\/2026 21:51"
+  },
+  {
+    "id_pago":419,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5208ef63d09f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-06-12 17:54:44"
+  },
+  {
+    "id_pago":420,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.223103524e13",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"07\/12\/2025 20:27"
+  },
+  {
+    "id_pago":421,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0ea1bb425eea",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"31\/08\/2026 15:55"
+  },
+  {
+    "id_pago":422,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_bb58205380c8",
+    "concepto":null,
+    "fecha_pago":"2026-03-15 23:17:43"
+  },
+  {
+    "id_pago":423,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.fe5022af8caf",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"06\/12\/2025 09:06"
+  },
+  {
+    "id_pago":424,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.4cdf6c23165d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"03\/12\/2025 15:38"
+  },
+  {
+    "id_pago":425,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9db787fca9c0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-06-29 01:12:59"
+  },
+  {
+    "id_pago":426,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_5aa3917565ae",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"18\/05\/2026 08:16"
+  },
+  {
+    "id_pago":427,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.44d7165b2752",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-28 11:11:30"
+  },
+  {
+    "id_pago":428,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_781a4a6c662e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-11-06 05:35:44"
+  },
+  {
+    "id_pago":429,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_20a3fca198ad",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"11\/10\/2026 08:12"
+  },
+  {
+    "id_pago":430,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bbb077ce38fd",
+    "concepto":null,
+    "fecha_pago":"08\/06\/2026 10:44"
+  },
+  {
+    "id_pago":431,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_69cfdf1eeb3e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-01-14 07:39:57"
+  },
+  {
+    "id_pago":432,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_21a13efb6809",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-06 06:26:33"
+  },
+  {
+    "id_pago":433,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0f6c0bb52c78",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"30\/05\/2026 09:35"
+  },
+  {
+    "id_pago":434,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e452154f8822",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"15\/12\/2025 06:58"
+  },
+  {
+    "id_pago":435,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.31bf539466fe",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-10 19:22:27"
+  },
+  {
+    "id_pago":436,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_1eac2e39c6ed",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"25\/01\/2026 08:18"
+  },
+  {
+    "id_pago":437,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_185b1e22cfc3",
+    "concepto":null,
+    "fecha_pago":"2025-12-10 18:57:06"
+  },
+  {
+    "id_pago":438,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_1ad4f412445c",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"03\/07\/2026 06:24"
+  },
+  {
+    "id_pago":439,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_d980a9ed3891",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-12-10 13:43:40"
+  },
+  {
+    "id_pago":440,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.d3c3acce50f6",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-03 09:43:25"
+  },
+  {
+    "id_pago":441,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a39eef812e33",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"14\/10\/2026 21:01"
+  },
+  {
+    "id_pago":442,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e7af6d6fc331",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"13\/02\/2026 12:32"
+  },
+  {
+    "id_pago":443,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_67131f0fa536",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"19\/04\/2026 23:44"
+  },
+  {
+    "id_pago":444,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_365994fc46c8",
+    "concepto":null,
+    "fecha_pago":"30\/12\/2025 17:42"
+  },
+  {
+    "id_pago":445,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9d9acb0c5235",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"25\/10\/2026 22:21"
+  },
+  {
+    "id_pago":446,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_5cfb219eba0e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"23\/06\/2026 10:02"
+  },
+  {
+    "id_pago":447,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_6aa7822ac889",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"17\/02\/2026 19:10"
+  },
+  {
+    "id_pago":448,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"APPLE",
+    "id_externo":"APL_282e3e21969e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-06-27 00:12:12"
+  },
+  {
+    "id_pago":449,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.a95b3709f981",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-03 01:36:24"
+  },
+  {
+    "id_pago":450,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_6318138e6c25",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2025-11-29 14:42:20"
+  },
+  {
+    "id_pago":451,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_201ceb7515aa",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-07-12 17:20:26"
+  },
+  {
+    "id_pago":452,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b4246305fb7b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"16\/12\/2025 00:25"
+  },
+  {
+    "id_pago":453,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_40b3718ebdb0",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-04-25 23:44:45"
+  },
+  {
+    "id_pago":454,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.223103524e13",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"27\/07\/2026 11:26"
+  },
+  {
+    "id_pago":455,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_6865cee56a1c",
+    "concepto":null,
+    "fecha_pago":"2026-06-28 20:30:24"
+  },
+  {
+    "id_pago":456,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_38f22709d87a",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/06\/2026 16:35"
+  },
+  {
+    "id_pago":457,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ef50bedd7bbf",
+    "concepto":null,
+    "fecha_pago":"2026-06-05 04:58:29"
+  },
+  {
+    "id_pago":458,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_fa49dc4b2d0c",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"17\/03\/2026 01:04"
+  },
+  {
+    "id_pago":459,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.d4942aecc8dc",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"12\/11\/2026 04:22"
+  },
+  {
+    "id_pago":460,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b2c2cf17694f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-23 10:47:56"
+  },
+  {
+    "id_pago":461,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_28fe7d4b6416",
+    "concepto":null,
+    "fecha_pago":"2026-02-01 12:07:13"
+  },
+  {
+    "id_pago":462,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_287176d1cc6c",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"01\/08\/2026 06:35"
+  },
+  {
+    "id_pago":463,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3e8719ed5147",
+    "concepto":null,
+    "fecha_pago":"19\/08\/2026 07:40"
+  },
+  {
+    "id_pago":464,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_62f6f77c1586",
+    "concepto":null,
+    "fecha_pago":"2026-03-16 04:41:33"
+  },
+  {
+    "id_pago":465,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.63c5d60c067a",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"14\/02\/2026 21:00"
+  },
+  {
+    "id_pago":466,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.34a30e147b2c",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-25 07:59:36"
+  },
+  {
+    "id_pago":467,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bb8007e27257",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"16\/04\/2026 21:16"
+  },
+  {
+    "id_pago":468,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e7865cd700e8",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-04 00:09:38"
+  },
+  {
+    "id_pago":469,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_107fbe841f1a",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-02 00:53:35"
+  },
+  {
+    "id_pago":470,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0bc5b848c3a6",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"22\/07\/2026 20:47"
+  },
+  {
+    "id_pago":471,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_1617418e53b6",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-03-10 16:27:43"
+  },
+  {
+    "id_pago":472,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bc2d4a08f2ff",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"10\/05\/2026 17:55"
+  },
+  {
+    "id_pago":473,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.62f42d0f0647",
+    "concepto":null,
+    "fecha_pago":"16\/03\/2026 23:16"
+  },
+  {
+    "id_pago":474,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ef1eaead70d1",
+    "concepto":null,
+    "fecha_pago":"09\/11\/2026 23:21"
+  },
+  {
+    "id_pago":475,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_c85261856ea3",
+    "concepto":null,
+    "fecha_pago":"2026-09-02 04:10:17"
+  },
+  {
+    "id_pago":476,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_80ec7a517bfe",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"12\/11\/2026 13:57"
+  },
+  {
+    "id_pago":477,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e0b1200a61a0",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-12 08:26:15"
+  },
+  {
+    "id_pago":478,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_12229e027c0a",
+    "concepto":null,
+    "fecha_pago":"2025-11-17 19:06:46"
+  },
+  {
+    "id_pago":479,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_868d8ca79293",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-05-11 03:49:02"
+  },
+  {
+    "id_pago":480,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.2b6738ed6906",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"13\/07\/2026 09:54"
+  },
+  {
+    "id_pago":481,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_6fbeef874822",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"20\/06\/2026 19:46"
+  },
+  {
+    "id_pago":482,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_51718fb86f28",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2025-12-23 00:10:46"
+  },
+  {
+    "id_pago":483,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.cd24a18ca0e7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-12 15:07:33"
+  },
+  {
+    "id_pago":484,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f47142f762ad",
+    "concepto":null,
+    "fecha_pago":"2026-06-10 23:24:09"
+  },
+  {
+    "id_pago":485,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_85185e4ab87f",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-02-04 23:01:43"
+  },
+  {
+    "id_pago":486,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.598616820d24",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-05-29 15:28:25"
+  },
+  {
+    "id_pago":487,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"GPA.1c8732ae69fe",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"25\/02\/2026 04:08"
+  },
+  {
+    "id_pago":488,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_d42fa8a497fd",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"04\/01\/2026 14:52"
+  },
+  {
+    "id_pago":489,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_113dfd88355b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-11-11 14:53:40"
+  },
+  {
+    "id_pago":490,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.eba24273f40e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"29\/03\/2026 17:17"
+  },
+  {
+    "id_pago":491,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_fb0f608e3041",
+    "concepto":null,
+    "fecha_pago":"22\/10\/2026 06:32"
+  },
+  {
+    "id_pago":492,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.4aa559afe890",
+    "concepto":null,
+    "fecha_pago":"10\/12\/2025 21:28"
+  },
+  {
+    "id_pago":493,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.40c66a16d910",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/10\/2026 15:40"
+  },
+  {
+    "id_pago":494,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.607e922fe3e1",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-17 01:10:56"
+  },
+  {
+    "id_pago":495,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_97bc3ccce92f",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-06 16:31:43"
+  },
+  {
+    "id_pago":496,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_9bb1661cc971",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"04\/03\/2026 20:33"
+  },
+  {
+    "id_pago":497,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"APL_ae343492fbbb",
+    "concepto":null,
+    "fecha_pago":"2026-01-14 10:35:37"
+  },
+  {
+    "id_pago":498,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"ch_a9a17ffd5276",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"03\/05\/2026 08:27"
+  },
+  {
+    "id_pago":499,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_3ecfe9695b15",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-03 23:21:10"
+  },
+  {
+    "id_pago":500,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_d7f87c431878",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-06-13 03:26:42"
+  },
+  {
+    "id_pago":501,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f474ea16f275",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-14 09:45:14"
+  },
+  {
+    "id_pago":502,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_eb888f6b26e9",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-03-11 15:57:02"
+  },
+  {
+    "id_pago":503,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_dc5a818c9dcd",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"09\/07\/2026 17:32"
+  },
+  {
+    "id_pago":504,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"GPA.6ab036827bd7",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-09-23 15:00:12"
+  },
+  {
+    "id_pago":505,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.5983ee851b97",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"26\/07\/2026 03:47"
+  },
+  {
+    "id_pago":506,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3a1101692f0f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"07\/06\/2026 14:22"
+  },
+  {
+    "id_pago":507,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0e40e402c1d6",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-11-17 05:12:11"
+  },
+  {
+    "id_pago":508,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_713c48c98ee1",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"31\/07\/2026 13:13"
+  },
+  {
+    "id_pago":509,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_afd6a174e66a",
+    "concepto":null,
+    "fecha_pago":"27\/09\/2026 12:14"
+  },
+  {
+    "id_pago":510,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_c19d97c98838",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"17\/06\/2026 13:33"
+  },
+  {
+    "id_pago":511,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ac4dbbb17f4b",
+    "concepto":null,
+    "fecha_pago":"10\/03\/2026 10:41"
+  },
+  {
+    "id_pago":512,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.d1cf7f2fd1fd",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-11-11 00:52:56"
+  },
+  {
+    "id_pago":513,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.98c4742038fb",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-29 19:31:03"
+  },
+  {
+    "id_pago":514,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_abef724d1523",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"24\/12\/2025 09:46"
+  },
+  {
+    "id_pago":515,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_4d2739a36b50",
+    "concepto":null,
+    "fecha_pago":"13\/11\/2026 19:44"
+  },
+  {
+    "id_pago":516,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_dc4b46bdf415",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"21\/10\/2026 05:01"
+  },
+  {
+    "id_pago":517,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d48fbb9a4baa",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"05\/01\/2026 07:58"
+  },
+  {
+    "id_pago":518,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_df3c10ea0a03",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"24\/02\/2026 21:17"
+  },
+  {
+    "id_pago":519,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"ch_db2da5b3cf7a",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"29\/12\/2025 00:09"
+  },
+  {
+    "id_pago":520,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.8c3d352404c7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-10-25 17:00:36"
+  },
+  {
+    "id_pago":521,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.cb829733c3b8",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-25 17:56:03"
+  },
+  {
+    "id_pago":522,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.8ae2db3ddab0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"29\/08\/2026 12:06"
+  },
+  {
+    "id_pago":523,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_3046ea1fc34c",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"17\/06\/2026 00:42"
+  },
+  {
+    "id_pago":524,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_0099804a107b",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-01-13 13:09:58"
+  },
+  {
+    "id_pago":525,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ae9b003be7da",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"27\/02\/2026 22:45"
+  },
+  {
+    "id_pago":526,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bfbc0337a99c",
+    "concepto":null,
+    "fecha_pago":"2026-03-03 14:26:43"
+  },
+  {
+    "id_pago":527,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3cff04604f23",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"07\/07\/2026 01:42"
+  },
+  {
+    "id_pago":528,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"ch_adf1202b608f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-03 23:29:50"
+  },
+  {
+    "id_pago":529,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"APL_e095f3e03621",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"19\/08\/2026 20:55"
+  },
+  {
+    "id_pago":530,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_26171db6823c",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"27\/03\/2026 08:09"
+  },
+  {
+    "id_pago":531,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a350ea1e0eac",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"01\/02\/2026 05:57"
+  },
+  {
+    "id_pago":532,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ba3ea60c06a3",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"08\/08\/2026 04:13"
+  },
+  {
+    "id_pago":533,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5c8885802cbd",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"18\/07\/2026 11:48"
+  },
+  {
+    "id_pago":534,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1b74a90e8bc3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-11 10:00:37"
+  },
+  {
+    "id_pago":535,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1a1f486dbc21",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"24\/02\/2026 16:47"
+  },
+  {
+    "id_pago":536,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7b9c700ca9ff",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"29\/05\/2026 11:02"
+  },
+  {
+    "id_pago":537,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.fd42c03e07bb",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-22 21:44:00"
+  },
+  {
+    "id_pago":538,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a2877653c354",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-19 16:54:22"
+  },
+  {
+    "id_pago":539,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.9e073290c953",
+    "concepto":null,
+    "fecha_pago":"2026-10-31 18:38:03"
+  },
+  {
+    "id_pago":540,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_876f06b404b0",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"01\/11\/2026 20:56"
+  },
+  {
+    "id_pago":541,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f95c2fb92dc2",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-10-08 18:32:41"
+  },
+  {
+    "id_pago":542,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_4c3bff37920c",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-03 21:46:00"
+  },
+  {
+    "id_pago":543,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5e1c9433d320",
+    "concepto":null,
+    "fecha_pago":"2025-12-20 00:34:14"
+  },
+  {
+    "id_pago":544,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7bd5afe3135d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"18\/07\/2026 12:14"
+  },
+  {
+    "id_pago":545,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_073f4453f79d",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"27\/04\/2026 16:17"
+  },
+  {
+    "id_pago":546,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_74dd4eeb9bf7",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-10-02 06:22:16"
+  },
+  {
+    "id_pago":547,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ffab77b74d96",
+    "concepto":null,
+    "fecha_pago":"01\/03\/2026 15:07"
+  },
+  {
+    "id_pago":548,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_249b0d54324d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2025-12-01 07:12:18"
+  },
+  {
+    "id_pago":549,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"ch_ecb6b0bf05b0",
+    "concepto":null,
+    "fecha_pago":"2025-11-15 13:20:05"
+  },
+  {
+    "id_pago":550,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_8e99c53e7e45",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"23\/03\/2026 17:15"
+  },
+  {
+    "id_pago":551,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_aeffb0dff7e6",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-09 15:38:19"
+  },
+  {
+    "id_pago":552,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9ea72ccf103e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"03\/01\/2026 23:36"
+  },
+  {
+    "id_pago":553,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e3256806f675",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-19 14:36:49"
+  },
+  {
+    "id_pago":554,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f8bf690289b3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"23\/02\/2026 21:53"
+  },
+  {
+    "id_pago":555,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_03637cb35a23",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"15\/01\/2026 22:20"
+  },
+  {
+    "id_pago":556,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"STRIPE",
+    "id_externo":"ch_c8b5147539c3",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-29 01:03:34"
+  },
+  {
+    "id_pago":557,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_5937e4c1597e",
+    "concepto":null,
+    "fecha_pago":"04\/05\/2026 18:29"
+  },
+  {
+    "id_pago":558,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_0cc2e9680442",
+    "concepto":null,
+    "fecha_pago":"2026-06-16 10:19:15"
+  },
+  {
+    "id_pago":559,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_6c4b64b2685d",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-08-15 05:35:02"
+  },
+  {
+    "id_pago":560,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_0c627573d3a7",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"29\/04\/2026 06:37"
+  },
+  {
+    "id_pago":561,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a24521084000",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"20\/06\/2026 00:19"
+  },
+  {
+    "id_pago":562,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.2ccc2ec1fd4b",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-11-17 22:24:53"
+  },
+  {
+    "id_pago":563,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.21f532769a8c",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"27\/12\/2025 15:01"
+  },
+  {
+    "id_pago":564,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.ab084931ac29",
+    "concepto":null,
+    "fecha_pago":"2025-12-13 09:36:36"
+  },
+  {
+    "id_pago":565,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b7221bcc92f5",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-23 03:26:05"
+  },
+  {
+    "id_pago":566,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a55c21b7880d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-09 13:03:22"
+  },
+  {
+    "id_pago":567,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_2d8a74e30c8b",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-10-31 05:30:41"
+  },
+  {
+    "id_pago":568,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_81edaa115fdf",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"11\/01\/2026 01:34"
+  },
+  {
+    "id_pago":569,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a45fba0bd41a",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-06-14 01:33:24"
+  },
+  {
+    "id_pago":570,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3e6d85e50184",
+    "concepto":null,
+    "fecha_pago":"2025-11-28 04:05:35"
+  },
+  {
+    "id_pago":571,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_aa5088392bc9",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-04 07:16:33"
+  },
+  {
+    "id_pago":572,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_5c415d29b9bc",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"06\/04\/2026 13:37"
+  },
+  {
+    "id_pago":573,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.677efdeb1ce0",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-06-28 09:40:09"
+  },
+  {
+    "id_pago":574,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_027be343fc3c",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-16 18:11:37"
+  },
+  {
+    "id_pago":575,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3c539f60ff66",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"10\/01\/2026 16:37"
+  },
+  {
+    "id_pago":576,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.777a0b8cb61d",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-30 02:11:21"
+  },
+  {
+    "id_pago":577,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.638f3d48fa50",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"02\/01\/2026 16:09"
+  },
+  {
+    "id_pago":578,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_9f88aa7e22fa",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-11-30 10:09:35"
+  },
+  {
+    "id_pago":579,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_be27030b6384",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"13\/03\/2026 21:27"
+  },
+  {
+    "id_pago":580,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_a23e03e239d9",
+    "concepto":null,
+    "fecha_pago":"2026-04-04 19:05:06"
+  },
+  {
+    "id_pago":581,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"ch_b200474abc83",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-29 07:24:05"
+  },
+  {
+    "id_pago":582,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5bdc152480b1",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"11\/11\/2026 13:17"
+  },
+  {
+    "id_pago":583,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f00f0a0f5a7a",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-19 08:41:03"
+  },
+  {
+    "id_pago":584,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_98d50f3bd893",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-14 10:36:58"
+  },
+  {
+    "id_pago":585,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_00ff0e1b6f2a",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-11-29 16:08:01"
+  },
+  {
+    "id_pago":586,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a7622b96a506",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"29\/10\/2026 06:52"
+  },
+  {
+    "id_pago":587,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_cc297307cd61",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"02\/04\/2026 03:18"
+  },
+  {
+    "id_pago":588,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0939676da1de",
+    "concepto":null,
+    "fecha_pago":"03\/02\/2026 18:20"
+  },
+  {
+    "id_pago":589,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.7dba162dc3ad",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-06 01:36:32"
+  },
+  {
+    "id_pago":590,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.73ad2de67698",
+    "concepto":null,
+    "fecha_pago":"19\/02\/2026 02:04"
+  },
+  {
+    "id_pago":591,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_dde884fb979f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-31 04:33:23"
+  },
+  {
+    "id_pago":592,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.8916ac957164",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2025-12-24 02:23:33"
+  },
+  {
+    "id_pago":593,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b7136bb9e534",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-03-31 12:48:37"
+  },
+  {
+    "id_pago":594,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.fc961ea0a2e2",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-13 03:29:49"
+  },
+  {
+    "id_pago":595,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_03845dc85eb2",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-19 14:46:45"
+  },
+  {
+    "id_pago":596,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_1c239f0e8c66",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"23\/10\/2026 13:01"
+  },
+  {
+    "id_pago":597,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_071d09d09efd",
+    "concepto":null,
+    "fecha_pago":"19\/10\/2026 21:12"
+  },
+  {
+    "id_pago":598,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.ca71b06622f2",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-04-20 23:59:54"
+  },
+  {
+    "id_pago":599,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.9bf221095210",
+    "concepto":null,
+    "fecha_pago":"2026-07-13 05:16:16"
+  },
+  {
+    "id_pago":600,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.699420527ce4",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"01\/09\/2026 05:55"
+  },
+  {
+    "id_pago":601,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.24fc9d80b816",
+    "concepto":null,
+    "fecha_pago":"13\/01\/2026 04:49"
+  },
+  {
+    "id_pago":602,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7ab0250b4da4",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-11-08 17:01:51"
+  },
+  {
+    "id_pago":603,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_40b3718ebdb0",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-11-10 07:24:21"
+  },
+  {
+    "id_pago":604,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_b738bed7892d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-14 02:50:18"
+  },
+  {
+    "id_pago":605,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_0ac986164049",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-15 22:59:45"
+  },
+  {
+    "id_pago":606,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.bc17a500484c",
+    "concepto":null,
+    "fecha_pago":"2026-01-16 06:54:46"
+  },
+  {
+    "id_pago":607,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e1026ffff79f",
+    "concepto":null,
+    "fecha_pago":"20\/09\/2026 19:46"
+  },
+  {
+    "id_pago":608,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_42af808e9e06",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"25\/09\/2026 01:13"
+  },
+  {
+    "id_pago":609,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5d072d4c0042",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"21\/01\/2026 22:32"
+  },
+  {
+    "id_pago":610,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_4e2a3db7aa79",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"22\/10\/2026 11:40"
+  },
+  {
+    "id_pago":611,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_2cb4b6b7c3e2",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-23 07:08:56"
+  },
+  {
+    "id_pago":612,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ec7cb7a54158",
+    "concepto":null,
+    "fecha_pago":"2025-11-23 19:18:44"
+  },
+  {
+    "id_pago":613,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b11c2a3d6b2d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"22\/01\/2026 20:02"
+  },
+  {
+    "id_pago":614,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_69153f80ded2",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-27 05:33:54"
+  },
+  {
+    "id_pago":615,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.34d889ce1fb9",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-11-08 05:07:58"
+  },
+  {
+    "id_pago":616,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7e2a2f0fff0d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"23\/03\/2026 04:28"
+  },
+  {
+    "id_pago":617,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_387930da02f3",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-09-14 00:39:26"
+  },
+  {
+    "id_pago":618,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0388f370045e",
+    "concepto":null,
+    "fecha_pago":"10\/11\/2026 16:07"
+  },
+  {
+    "id_pago":619,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3984eb70a238",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-23 01:43:53"
+  },
+  {
+    "id_pago":620,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"APL_426f063942cd",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-21 17:39:36"
+  },
+  {
+    "id_pago":621,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_011f6aca7d86",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"01\/08\/2026 08:16"
+  },
+  {
+    "id_pago":622,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_93744abef949",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"15\/10\/2026 17:56"
+  },
+  {
+    "id_pago":623,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_43083cb019c4",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-08-26 15:31:10"
+  },
+  {
+    "id_pago":624,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"APL_ed6aba00801a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-09-25 01:01:04"
+  },
+  {
+    "id_pago":625,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_28acc1f6bd8b",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"18\/02\/2026 13:22"
+  },
+  {
+    "id_pago":626,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b1a7180d364e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"25\/02\/2026 19:05"
+  },
+  {
+    "id_pago":627,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.69bea4d63a2c",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-01-15 00:07:05"
+  },
+  {
+    "id_pago":628,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_3c232d876368",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-09-15 23:08:56"
+  },
+  {
+    "id_pago":629,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.bb14fa30e546",
+    "concepto":null,
+    "fecha_pago":"13\/08\/2026 12:40"
+  },
+  {
+    "id_pago":630,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.80ccafb8976f",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-26 03:48:39"
+  },
+  {
+    "id_pago":631,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_bf4d6510b22b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-11 17:50:02"
+  },
+  {
+    "id_pago":632,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5f0ac130a3e2",
+    "concepto":null,
+    "fecha_pago":"18\/10\/2026 21:28"
+  },
+  {
+    "id_pago":633,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_89d26f9a3816",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"29\/11\/2025 05:13"
+  },
+  {
+    "id_pago":634,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"APL_ef50bedd7bbf",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-10-13 14:57:20"
+  },
+  {
+    "id_pago":635,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_17a81cf74805",
+    "concepto":null,
+    "fecha_pago":"15\/05\/2026 23:26"
+  },
+  {
+    "id_pago":636,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_32e65cb63146",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"08\/02\/2026 13:31"
+  },
+  {
+    "id_pago":637,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_9e1101aa8977",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"30\/01\/2026 16:26"
+  },
+  {
+    "id_pago":638,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.d6ad954f9d57",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-27 07:25:31"
+  },
+  {
+    "id_pago":639,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_54a838a16f99",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"05\/11\/2026 20:52"
+  },
+  {
+    "id_pago":640,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_278358ad5958",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-11 22:37:25"
+  },
+  {
+    "id_pago":641,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.d925e3ed1e8d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-03-29 23:20:21"
+  },
+  {
+    "id_pago":642,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8fc95652a19a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-03-12 16:52:18"
+  },
+  {
+    "id_pago":643,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5e8b0d88e059",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-28 20:14:24"
+  },
+  {
+    "id_pago":644,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_21074941b2f8",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"19\/09\/2026 01:26"
+  },
+  {
+    "id_pago":645,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.0a6f4d9e29ba",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-18 13:36:21"
+  },
+  {
+    "id_pago":646,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.91636124b2a4",
+    "concepto":null,
+    "fecha_pago":"2026-02-10 13:37:49"
+  },
+  {
+    "id_pago":647,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.4814da670aa0",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-08 18:05:05"
+  },
+  {
+    "id_pago":648,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.772cd7cb1aea",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"23\/11\/2025 08:51"
+  },
+  {
+    "id_pago":649,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ccc20fae50a6",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"28\/07\/2026 12:14"
+  },
+  {
+    "id_pago":650,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5bf14ae32d45",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"28\/01\/2026 04:23"
+  },
+  {
+    "id_pago":651,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8236caf986ad",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"17\/04\/2026 22:15"
+  },
+  {
+    "id_pago":652,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"APPLE",
+    "id_externo":"APL_a7622b96a506",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/03\/2026 15:54"
+  },
+  {
+    "id_pago":653,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_8ff41c62c012",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-03-02 09:03:19"
+  },
+  {
+    "id_pago":654,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7d9130a63d93",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-10-15 20:38:24"
+  },
+  {
+    "id_pago":655,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"APPLE",
+    "id_externo":"APL_8a12e719cd51",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"11\/12\/2025 03:20"
+  },
+  {
+    "id_pago":656,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.bf79ca1571e6",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-10 12:12:48"
+  },
+  {
+    "id_pago":657,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_7dd6f2aa7132",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"02\/03\/2026 13:55"
+  },
+  {
+    "id_pago":658,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_63d44a8b3bc2",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-03-30 13:12:20"
+  },
+  {
+    "id_pago":659,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a08c6ab71ca2",
+    "concepto":null,
+    "fecha_pago":"2026-07-21 07:19:47"
+  },
+  {
+    "id_pago":660,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_adf1202b608f",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-05-31 00:17:30"
+  },
+  {
+    "id_pago":661,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.ab142439d6c4",
+    "concepto":null,
+    "fecha_pago":"18\/04\/2026 09:33"
+  },
+  {
+    "id_pago":662,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.598616820d24",
+    "concepto":null,
+    "fecha_pago":"05\/08\/2026 01:51"
+  },
+  {
+    "id_pago":663,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_dd6fcdb73f87",
+    "concepto":null,
+    "fecha_pago":"2026-10-07 19:46:43"
+  },
+  {
+    "id_pago":664,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.73033dd4f4f3",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"10\/06\/2026 10:10"
+  },
+  {
+    "id_pago":665,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_024528851357",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"22\/03\/2026 18:49"
+  },
+  {
+    "id_pago":666,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_62ef362dbfba",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-11-13 22:36:40"
+  },
+  {
+    "id_pago":667,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_927ad8a90abe",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-11-24 21:32:32"
+  },
+  {
+    "id_pago":668,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_37f4e0154001",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-12-28 23:20:58"
+  },
+  {
+    "id_pago":669,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_8c46398c5474",
+    "concepto":null,
+    "fecha_pago":"2026-10-20 18:52:37"
+  },
+  {
+    "id_pago":670,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_dace61f6ebeb",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"23\/02\/2026 14:59"
+  },
+  {
+    "id_pago":671,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_df3c10ea0a03",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-22 12:39:33"
+  },
+  {
+    "id_pago":672,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_673a6f7768f0",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"27\/06\/2026 15:46"
+  },
+  {
+    "id_pago":673,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_43c498c356b0",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-25 06:36:45"
+  },
+  {
+    "id_pago":674,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_5e86932e8322",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"29\/11\/2025 00:52"
+  },
+  {
+    "id_pago":675,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b647c7fa6d0d",
+    "concepto":null,
+    "fecha_pago":"2025-12-26 06:40:17"
+  },
+  {
+    "id_pago":676,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_154119b3e4cf",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-07-03 20:44:01"
+  },
+  {
+    "id_pago":677,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.af3ded3f9502",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-05-01 22:42:52"
+  },
+  {
+    "id_pago":678,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c2ca7298fd93",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-03-28 10:19:26"
+  },
+  {
+    "id_pago":679,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_36890f2ade28",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-08-24 02:49:07"
+  },
+  {
+    "id_pago":680,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_38f8e27c9626",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-15 14:19:42"
+  },
+  {
+    "id_pago":681,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.8712145da796",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"15\/03\/2026 23:58"
+  },
+  {
+    "id_pago":682,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8e15e2e73cfe",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"02\/05\/2026 15:46"
+  },
+  {
+    "id_pago":683,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d27a29ec4b1a",
+    "concepto":null,
+    "fecha_pago":"07\/07\/2026 14:33"
+  },
+  {
+    "id_pago":684,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_32510edba1a7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-05-31 19:05:42"
+  },
+  {
+    "id_pago":685,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_2d2a89d3605f",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"29\/12\/2025 02:11"
+  },
+  {
+    "id_pago":686,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_d5f13f394bac",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-04-12 18:34:05"
+  },
+  {
+    "id_pago":687,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.f4afa20b9787",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"29\/10\/2026 12:16"
+  },
+  {
+    "id_pago":688,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.29e3684e5b56",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-06-26 02:28:36"
+  },
+  {
+    "id_pago":689,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e0de6ae55815",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-01-26 23:56:57"
+  },
+  {
+    "id_pago":690,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f5995af80f33",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"21\/02\/2026 02:28"
+  },
+  {
+    "id_pago":691,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.dd24a34b24f8",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"01\/12\/2025 09:59"
+  },
+  {
+    "id_pago":692,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1ad8726e94e1",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"16\/08\/2026 10:38"
+  },
+  {
+    "id_pago":693,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.70975c14c51d",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-02 12:38:14"
+  },
+  {
+    "id_pago":694,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.bbf884cb43cb",
+    "concepto":null,
+    "fecha_pago":"14\/11\/2025 20:03"
+  },
+  {
+    "id_pago":695,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9a7fb98c1af5",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-06-04 02:17:43"
+  },
+  {
+    "id_pago":696,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_7774b88218ef",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"08\/11\/2026 15:16"
+  },
+  {
+    "id_pago":697,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.fa266949603e",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"23\/09\/2026 09:30"
+  },
+  {
+    "id_pago":698,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.ac148a5c2c53",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"11\/06\/2026 07:01"
+  },
+  {
+    "id_pago":699,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_85185e4ab87f",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-07 22:15:33"
+  },
+  {
+    "id_pago":700,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.44d7165b2752",
+    "concepto":null,
+    "fecha_pago":"20\/08\/2026 13:51"
+  },
+  {
+    "id_pago":701,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.f9a1acd71ff7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-11-14 08:10:26"
+  },
+  {
+    "id_pago":702,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"ch_dd6fcdb73f87",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"29\/08\/2026 07:45"
+  },
+  {
+    "id_pago":703,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b277b860ecac",
+    "concepto":null,
+    "fecha_pago":"2026-08-27 09:58:33"
+  },
+  {
+    "id_pago":704,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.881340f901dd",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"01\/08\/2026 14:59"
+  },
+  {
+    "id_pago":705,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_64c46c40a98c",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-01-29 16:47:13"
+  },
+  {
+    "id_pago":706,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.82cb41289a45",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-04-04 15:04:36"
+  },
+  {
+    "id_pago":707,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.e920a2dba602",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-04-30 16:16:11"
+  },
+  {
+    "id_pago":708,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b9bc707cf833",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-11 08:29:23"
+  },
+  {
+    "id_pago":709,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.aff84a14d1c8",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-07-30 03:25:50"
+  },
+  {
+    "id_pago":710,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_1adbbc4d7a49",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-11-06 18:29:35"
+  },
+  {
+    "id_pago":711,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.598616820d24",
+    "concepto":null,
+    "fecha_pago":"2026-03-22 09:58:26"
+  },
+  {
+    "id_pago":712,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_68da30050f42",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-07-14 04:30:57"
+  },
+  {
+    "id_pago":713,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"ch_57bd84acacf3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"16\/03\/2026 02:11"
+  },
+  {
+    "id_pago":714,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_215f74b58f48",
+    "concepto":null,
+    "fecha_pago":"29\/07\/2026 19:30"
+  },
+  {
+    "id_pago":715,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_db89535106d4",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"09\/10\/2026 12:21"
+  },
+  {
+    "id_pago":716,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3831bfa260be",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-01-01 13:52:43"
+  },
+  {
+    "id_pago":717,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e38f3faf9884",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-20 16:52:57"
+  },
+  {
+    "id_pago":718,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_35aea3c3492d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-10-29 17:19:52"
+  },
+  {
+    "id_pago":719,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5215495f2024",
+    "concepto":null,
+    "fecha_pago":"10\/03\/2026 19:29"
+  },
+  {
+    "id_pago":720,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_c67f7583bea4",
+    "concepto":null,
+    "fecha_pago":"2026-05-30 03:00:39"
+  },
+  {
+    "id_pago":721,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_263c6ba0b6b8",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"14\/03\/2026 07:01"
+  },
+  {
+    "id_pago":722,
+    "id_usuario":4,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.a61cb73187fd",
+    "concepto":null,
+    "fecha_pago":"2026-07-31 04:10:44"
+  },
+  {
+    "id_pago":723,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ecb6b0bf05b0",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"21\/04\/2026 18:47"
+  },
+  {
+    "id_pago":724,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a31d8f0ecd66",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"20\/03\/2026 20:31"
+  },
+  {
+    "id_pago":725,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.db28ee290730",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"19\/04\/2026 10:55"
+  },
+  {
+    "id_pago":726,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.c62456ffc4e1",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-11 22:44:24"
+  },
+  {
+    "id_pago":727,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"ch_1e4a94a92056",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"08\/03\/2026 23:59"
+  },
+  {
+    "id_pago":728,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a846a5ddea9b",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-06-17 11:47:07"
+  },
+  {
+    "id_pago":729,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_ba76614a6a3c",
+    "concepto":null,
+    "fecha_pago":"2026-01-02 14:41:41"
+  },
+  {
+    "id_pago":730,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_fd34d1b4dbbb",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-27 16:21:57"
+  },
+  {
+    "id_pago":731,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.cfef78c47bbe",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-26 11:07:49"
+  },
+  {
+    "id_pago":732,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_29658fa2cd3e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-30 09:52:41"
+  },
+  {
+    "id_pago":733,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ef000377b045",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"14\/11\/2026 09:06"
+  },
+  {
+    "id_pago":734,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1a6914b69464",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-04-10 10:10:36"
+  },
+  {
+    "id_pago":735,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_aa3a744567ea",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"04\/08\/2026 05:20"
+  },
+  {
+    "id_pago":736,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e3f0d403c379",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"31\/08\/2026 17:24"
+  },
+  {
+    "id_pago":737,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.58b89cc3794f",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"30\/10\/2026 19:02"
+  },
+  {
+    "id_pago":738,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9a4ada70158d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"20\/01\/2026 18:20"
+  },
+  {
+    "id_pago":739,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_318f4448cbf1",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-07-11 05:18:05"
+  },
+  {
+    "id_pago":740,
+    "id_usuario":3,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_bd87b0bf1012",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"23\/06\/2026 04:43"
+  },
+  {
+    "id_pago":741,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.57d93302bb43",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-03-11 01:20:34"
+  },
+  {
+    "id_pago":742,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f41c360ca217",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"20\/04\/2026 21:10"
+  },
+  {
+    "id_pago":743,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.06f4a3866259",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-14 23:25:53"
+  },
+  {
+    "id_pago":744,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.dc40bdfbe4a6",
+    "concepto":null,
+    "fecha_pago":"03\/10\/2026 23:10"
+  },
+  {
+    "id_pago":745,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.cc91ef8469f1",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"14\/11\/2025 08:04"
+  },
+  {
+    "id_pago":746,
+    "id_usuario":2,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_cb2fcd909977",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-03-12 04:36:23"
+  },
+  {
+    "id_pago":747,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"APL_ffba1e42deaa",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"05\/03\/2026 14:30"
+  },
+  {
+    "id_pago":748,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9786731c8b84",
+    "concepto":null,
+    "fecha_pago":"03\/02\/2026 19:19"
+  },
+  {
+    "id_pago":749,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"APPLE",
+    "id_externo":"APL_3019f5811888",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"30\/04\/2026 03:08"
+  },
+  {
+    "id_pago":750,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_ed513362059f",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-09-15 08:05:23"
+  },
+  {
+    "id_pago":751,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5f8c2ea58255",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-27 10:08:11"
+  },
+  {
+    "id_pago":752,
+    "id_usuario":6,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_490fdef5c956",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-07 18:46:56"
+  },
+  {
+    "id_pago":753,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_481424d62818",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-26 10:35:07"
+  },
+  {
+    "id_pago":754,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_94fdccc29f48",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"19\/03\/2026 07:52"
+  },
+  {
+    "id_pago":755,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.409e26ef2c5d",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-05-13 18:17:26"
+  },
+  {
+    "id_pago":756,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3acbd1dc34ae",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-04 18:01:50"
+  },
+  {
+    "id_pago":757,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_18a16e5d9f71",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"04\/05\/2026 21:30"
+  },
+  {
+    "id_pago":758,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_1c50fff04b27",
+    "concepto":null,
+    "fecha_pago":"2026-08-03 13:35:20"
+  },
+  {
+    "id_pago":759,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.cf28c254dd05",
+    "concepto":null,
+    "fecha_pago":"05\/02\/2026 04:07"
+  },
+  {
+    "id_pago":760,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_e030e1128e57",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-05-31 16:46:25"
+  },
+  {
+    "id_pago":761,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a09a99c4e223",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"16\/05\/2026 22:42"
+  },
+  {
+    "id_pago":762,
+    "id_usuario":10,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"ch_37f4e0154001",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"18\/09\/2026 10:26"
+  },
+  {
+    "id_pago":763,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b131d7367e81",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-10-30 03:54:02"
+  },
+  {
+    "id_pago":764,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"GPA.82cb41289a45",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-19 07:46:30"
+  },
+  {
+    "id_pago":765,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f444b94f845d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-26 23:56:40"
+  },
+  {
+    "id_pago":766,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.62069b039e9b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"19\/01\/2026 01:55"
+  },
+  {
+    "id_pago":767,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_9f9e355d716e",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"28\/07\/2026 01:13"
+  },
+  {
+    "id_pago":768,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_a4a142170880",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-17 02:38:18"
+  },
+  {
+    "id_pago":769,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_a68eb3eeb6af",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-03-04 09:22:03"
+  },
+  {
+    "id_pago":770,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_21a8474149d5",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"02\/06\/2026 08:38"
+  },
+  {
+    "id_pago":771,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.a8dd1b1f36c5",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-07-29 23:51:10"
+  },
+  {
+    "id_pago":772,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.4c749b5a4657",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-07-17 23:43:22"
+  },
+  {
+    "id_pago":773,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.ec4baa8b1767",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-07-12 16:12:56"
+  },
+  {
+    "id_pago":774,
+    "id_usuario":5,
+    "monto":0.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_e7168c6d759d",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"24\/03\/2026 08:28"
+  },
+  {
+    "id_pago":775,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"google",
+    "id_externo":"GPA.15773dde89ca",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"20\/12\/2025 10:43"
+  },
+  {
+    "id_pago":776,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_f2d612601f65",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"28\/09\/2026 00:32"
+  },
+  {
+    "id_pago":777,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"APL_0eb0afb5e1cc",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-01 21:24:05"
+  },
+  {
+    "id_pago":778,
+    "id_usuario":8,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_43083cb019c4",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-02-13 09:25:14"
+  },
+  {
+    "id_pago":779,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_d05d398d75f1",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-08-02 11:11:48"
+  },
+  {
+    "id_pago":780,
+    "id_usuario":7,
+    "monto":3.99,
+    "proveedor":"Stripe",
+    "id_externo":"ch_eba5751fbf8b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"14\/03\/2026 17:36"
+  },
+  {
+    "id_pago":781,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_5b66c0fc304e",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-09 10:05:21"
+  },
+  {
+    "id_pago":782,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_b79c3cbb0f2c",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-09-23 09:59:51"
+  },
+  {
+    "id_pago":783,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.8173b77b88c9",
+    "concepto":null,
+    "fecha_pago":"30\/01\/2026 12:18"
+  },
+  {
+    "id_pago":784,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_fc7e6b6bd4fe",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-10 09:43:30"
+  },
+  {
+    "id_pago":785,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.69017e672025",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-11-23 15:56:52"
+  },
+  {
+    "id_pago":786,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":" STRIPE ",
+    "id_externo":"ch_c3b6aeb85bdd",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"02\/12\/2025 03:01"
+  },
+  {
+    "id_pago":787,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_ffba1e42deaa",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"17\/02\/2026 06:23"
+  },
+  {
+    "id_pago":788,
+    "id_usuario":7,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.51c62f9bb5bf",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"17\/05\/2026 16:52"
+  },
+  {
+    "id_pago":789,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_b18b670f6843",
+    "concepto":null,
+    "fecha_pago":"09\/07\/2026 13:46"
+  },
+  {
+    "id_pago":790,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ef456400fd7a",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"10\/10\/2026 04:24"
+  },
+  {
+    "id_pago":791,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.7b8411709672",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"08\/09\/2026 15:07"
+  },
+  {
+    "id_pago":792,
+    "id_usuario":7,
+    "monto":0.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.efb23e736891",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"12\/12\/2025 11:05"
+  },
+  {
+    "id_pago":793,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_bfbc0337a99c",
+    "concepto":null,
+    "fecha_pago":"10\/05\/2026 01:04"
+  },
+  {
+    "id_pago":794,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_55cfdedd5f17",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-04-24 03:09:24"
+  },
+  {
+    "id_pago":795,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_a2517362a99a",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-10-24 07:40:52"
+  },
+  {
+    "id_pago":796,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_01f0b8d8d571",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-07-16 18:07:31"
+  },
+  {
+    "id_pago":797,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_eb2a1ee1b3f0",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-06-25 17:55:42"
+  },
+  {
+    "id_pago":798,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"STRIPE",
+    "id_externo":"ch_18f576530650",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-01-28 16:33:15"
+  },
+  {
+    "id_pago":799,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_e7865cd700e8",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-20 03:45:21"
+  },
+  {
+    "id_pago":800,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.b56999c12249",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-08-11 14:46:43"
+  },
+  {
+    "id_pago":478,
+    "id_usuario":2,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_12229e027c0a",
+    "concepto":null,
+    "fecha_pago":"2025-11-17 19:06:46"
+  },
+  {
+    "id_pago":310,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":" Google ",
+    "id_externo":"GPA.8dd195be1c8b",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"14\/10\/2026 00:40"
+  },
+  {
+    "id_pago":694,
+    "id_usuario":1,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.bbf884cb43cb",
+    "concepto":null,
+    "fecha_pago":"14\/11\/2025 20:03"
+  },
+  {
+    "id_pago":534,
+    "id_usuario":8,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.1b74a90e8bc3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-10-11 10:00:37"
+  },
+  {
+    "id_pago":639,
+    "id_usuario":4,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_54a838a16f99",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"05\/11\/2026 20:52"
+  },
+  {
+    "id_pago":407,
+    "id_usuario":9,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_a9a17ffd5276",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"14\/09\/2026 09:44"
+  },
+  {
+    "id_pago":599,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.9bf221095210",
+    "concepto":null,
+    "fecha_pago":"2026-07-13 05:16:16"
+  },
+  {
+    "id_pago":105,
+    "id_usuario":10,
+    "monto":0.99,
+    "proveedor":"apple",
+    "id_externo":"APL_428508e30d8b",
+    "concepto":null,
+    "fecha_pago":"2026-08-06 15:24:45"
+  },
+  {
+    "id_pago":8,
+    "id_usuario":8,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_95a93d69e3bf",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"07\/01\/2026 08:52"
+  },
+  {
+    "id_pago":524,
+    "id_usuario":4,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_0099804a107b",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-01-13 13:09:58"
+  },
+  {
+    "id_pago":679,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"Apple",
+    "id_externo":"APL_36890f2ade28",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-08-24 02:49:07"
+  },
+  {
+    "id_pago":384,
+    "id_usuario":7,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.6e8712b97ab3",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"13\/02\/2026 23:30"
+  },
+  {
+    "id_pago":575,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.3c539f60ff66",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"10\/01\/2026 16:37"
+  },
+  {
+    "id_pago":663,
+    "id_usuario":3,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_dd6fcdb73f87",
+    "concepto":null,
+    "fecha_pago":"2026-10-07 19:46:43"
+  },
+  {
+    "id_pago":609,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.5d072d4c0042",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"21\/01\/2026 22:32"
+  },
+  {
+    "id_pago":624,
+    "id_usuario":8,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"APL_ed6aba00801a",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-09-25 01:01:04"
+  },
+  {
+    "id_pago":290,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.769a3c139239",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2025-12-31 04:07:39"
+  },
+  {
+    "id_pago":306,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"apple",
+    "id_externo":"APL_f8ce3910afd1",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"11\/02\/2026 02:10"
+  },
+  {
+    "id_pago":701,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.f9a1acd71ff7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-11-14 08:10:26"
+  },
+  {
+    "id_pago":111,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"GOOGLE",
+    "id_externo":"GPA.0f92f8f30fea",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-06-09 14:49:52"
+  },
+  {
+    "id_pago":494,
+    "id_usuario":6,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.607e922fe3e1",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-02-17 01:10:56"
+  },
+  {
+    "id_pago":66,
+    "id_usuario":1,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_3a7710dbe637",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"07\/11\/2026 08:42"
+  },
+  {
+    "id_pago":345,
+    "id_usuario":2,
+    "monto":3.99,
+    "proveedor":"Google",
+    "id_externo":"GPA.90b89979e3fc",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"25\/07\/2026 22:55"
+  },
+  {
+    "id_pago":284,
+    "id_usuario":10,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.c853874aa64c",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"24\/07\/2026 13:35"
+  },
+  {
+    "id_pago":656,
+    "id_usuario":9,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"GPA.bf79ca1571e6",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2026-09-10 12:12:48"
+  },
+  {
+    "id_pago":333,
+    "id_usuario":3,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_a4ecb068cc34",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"20\/12\/2025 19:28"
+  },
+  {
+    "id_pago":268,
+    "id_usuario":10,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_ffac3fec0306",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-25 02:47:36"
+  },
+  {
+    "id_pago":672,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"apple",
+    "id_externo":"APL_673a6f7768f0",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"27\/06\/2026 15:46"
+  },
+  {
+    "id_pago":729,
+    "id_usuario":5,
+    "monto":9.99,
+    "proveedor":" apple ",
+    "id_externo":"APL_ba76614a6a3c",
+    "concepto":null,
+    "fecha_pago":"2026-01-02 14:41:41"
+  },
+  {
+    "id_pago":668,
+    "id_usuario":1,
+    "monto":9.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_37f4e0154001",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"2025-12-28 23:20:58"
+  },
+  {
+    "id_pago":193,
+    "id_usuario":1,
+    "monto":4.99,
+    "proveedor":"Apple",
+    "id_externo":"GPA.73033dd4f4f3",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"21\/08\/2026 01:54"
+  },
+  {
+    "id_pago":154,
+    "id_usuario":2,
+    "monto":9.99,
+    "proveedor":"google",
+    "id_externo":"APL_a2877653c354",
+    "concepto":"1500 Amatistas",
+    "fecha_pago":"17\/02\/2026 23:01"
+  },
+  {
+    "id_pago":530,
+    "id_usuario":3,
+    "monto":3.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_26171db6823c",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"27\/03\/2026 08:09"
+  },
+  {
+    "id_pago":784,
+    "id_usuario":9,
+    "monto":0.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_fc7e6b6bd4fe",
+    "concepto":"100 Amatistas",
+    "fecha_pago":"2026-01-10 09:43:30"
+  },
+  {
+    "id_pago":247,
+    "id_usuario":4,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.b62ff7434055",
+    "concepto":null,
+    "fecha_pago":"2026-03-13 14:31:33"
+  },
+  {
+    "id_pago":59,
+    "id_usuario":9,
+    "monto":4.99,
+    "proveedor":"stripe",
+    "id_externo":"ch_8e9ccbfbafe7",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-02-24 21:47:59"
+  },
+  {
+    "id_pago":615,
+    "id_usuario":5,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"GPA.34d889ce1fb9",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-11-08 05:07:58"
+  },
+  {
+    "id_pago":414,
+    "id_usuario":6,
+    "monto":3.99,
+    "proveedor":"google",
+    "id_externo":"ch_bc2d4a08f2ff",
+    "concepto":"500 Amatistas",
+    "fecha_pago":"2026-03-09 09:48:14"
+  },
+  {
+    "id_pago":677,
+    "id_usuario":5,
+    "monto":4.99,
+    "proveedor":"google",
+    "id_externo":"GPA.af3ded3f9502",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"2026-05-01 22:42:52"
+  },
+  {
+    "id_pago":328,
+    "id_usuario":6,
+    "monto":4.99,
+    "proveedor":"apple",
+    "id_externo":"APL_21be64e79598",
+    "concepto":"Suscripcion Mensual",
+    "fecha_pago":"14\/09\/2026 21:28"
+  }
+]
