@@ -1,0 +1,226 @@
+id_pago,id_usuario,monto,proveedor,id_externo,concepto,fecha_pago,mes
+1,5,0.99,stripe,ch_33de290fcdc3,100 Amatistas,2026-07-20 12:10:00,2026-07
+2,3,3.99,stripe,ch_076088b27c81,500 Amatistas,2025-12-27 09:58:02,2025-12
+5,2,0.99,stripe,ch_f6ed10a0644d,100 Amatistas,2026-02-28 23:44:44,2026-02
+6,9,3.99,stripe,ch_4e7c1cfae78c,500 Amatistas,2026-02-17 06:50:00,2026-02
+8,8,4.99,stripe,ch_95a93d69e3bf,Suscripcion Mensual,2026-01-07 08:52:00,2026-01
+9,3,9.99,stripe,ch_50bf20552157,1500 Amatistas,2026-08-27 04:41:45,2026-08
+11,6,3.99,stripe,ch_da015c8c758a,500 Amatistas,2026-08-03 23:34:00,2026-08
+12,7,0.99,stripe,ch_2c2852a70687,100 Amatistas,2026-08-28 19:48:00,2026-08
+14,8,9.99,stripe,ch_ed60572202dc,1500 Amatistas,2026-06-13 23:28:00,2026-06
+18,4,0.99,stripe,ch_e96b14d2037d,100 Amatistas,2025-11-26 12:31:00,2025-11
+19,4,9.99,stripe,ch_bfd41f332163,1500 Amatistas,2025-11-25 18:01:00,2025-11
+25,8,3.99,stripe,ch_dba8a274de75,500 Amatistas,2025-11-24 11:37:11,2025-11
+28,1,0.99,stripe,ch_819d7a5c83ff,100 Amatistas,2026-08-19 06:04:00,2026-08
+30,10,0.99,stripe,ch_b200474abc83,100 Amatistas,2026-08-13 13:06:00,2026-08
+31,8,9.99,stripe,ch_a3fdd1484fc8,Paquete de Amatistas no especificado,2026-06-13 19:30:00,2026-06
+37,3,9.99,stripe,ch_8babb7a9044e,1500 Amatistas,2026-09-24 12:43:00,2026-09
+38,1,4.99,stripe,ch_08dc68691a60,Suscripcion Mensual,2026-10-17 18:45:10,2026-10
+49,6,3.99,stripe,ch_a64b4cffb0d7,500 Amatistas,2026-09-06 16:34:03,2026-09
+52,2,4.99,stripe,ch_6d0b773b6d5e,Paquete de Amatistas no especificado,2025-12-20 04:44:00,2025-12
+54,10,0.99,stripe,ch_13656d68bca0,100 Amatistas,2025-12-21 17:44:55,2025-12
+55,8,0.99,stripe,ch_0974667fb60f,100 Amatistas,2026-04-02 14:13:01,2026-04
+59,9,4.99,stripe,ch_8e9ccbfbafe7,Suscripcion Mensual,2026-02-24 21:47:59,2026-02
+63,4,0.99,stripe,ch_1b92cc640167,Paquete de Amatistas no especificado,2026-05-11 14:26:00,2026-05
+66,1,0.99,stripe,ch_3a7710dbe637,100 Amatistas,2026-11-07 08:42:00,2026-11
+67,1,3.99,stripe,ch_d4d325970eea,Paquete de Amatistas no especificado,2026-04-10 04:28:00,2026-04
+68,9,9.99,stripe,GPA.31bf539466fe,1500 Amatistas,2025-12-14 18:45:00,2025-12
+71,8,4.99,stripe,ch_97de198251dc,Suscripcion Mensual,2026-10-02 06:53:00,2026-10
+72,2,4.99,stripe,ch_c431087a860a,Suscripcion Mensual,2026-07-16 07:38:00,2026-07
+76,7,0.99,stripe,ch_84cd83f905b5,100 Amatistas,2026-04-03 14:58:09,2026-04
+77,4,9.99,stripe,ch_58bc2f2b4749,Paquete de Amatistas no especificado,2026-06-26 09:35:00,2026-06
+78,9,3.99,stripe,ch_e874e527053d,500 Amatistas,2026-01-27 20:32:00,2026-01
+79,7,4.99,stripe,ch_465e5ccdf535,Suscripcion Mensual,2026-08-14 19:22:00,2026-08
+81,8,3.99,stripe,ch_9908a62bb851,500 Amatistas,2025-12-01 23:24:03,2025-12
+82,9,0.99,stripe,ch_6fa21ef78f40,100 Amatistas,2026-07-28 23:42:27,2026-07
+83,4,0.99,stripe,ch_9cf22cb2eb6f,100 Amatistas,2026-02-10 16:27:09,2026-02
+85,7,4.99,stripe,ch_7e34f47fb27d,Suscripcion Mensual,2026-03-06 13:34:00,2026-03
+86,7,0.99,stripe,ch_7d9f505e15ec,100 Amatistas,2025-12-15 04:00:00,2025-12
+89,4,4.99,stripe,ch_fc1ebd605557,Suscripcion Mensual,2026-10-16 16:29:00,2026-10
+90,1,9.99,stripe,ch_91e9a72ad713,Paquete de Amatistas no especificado,2025-12-23 09:41:17,2025-12
+92,10,0.99,stripe,ch_990e22490896,100 Amatistas,2026-03-02 03:11:18,2026-03
+94,9,3.99,stripe,ch_3dc58259f1da,Paquete de Amatistas no especificado,2026-07-19 01:17:00,2026-07
+95,2,0.99,stripe,ch_c3fe645a4a0d,Paquete de Amatistas no especificado,2026-10-04 02:45:00,2026-10
+97,10,4.99,stripe,ch_c6fcbcbc92be,Paquete de Amatistas no especificado,2026-01-16 08:19:00,2026-01
+102,5,9.99,stripe,ch_8b5b33b34648,1500 Amatistas,2026-02-25 20:42:01,2026-02
+106,9,0.99,stripe,ch_2100c4791726,100 Amatistas,2026-07-23 20:24:51,2026-07
+121,1,9.99,stripe,ch_3c27900608dc,1500 Amatistas,2026-06-18 11:26:00,2026-06
+122,5,9.99,stripe,ch_8f45051c29cb,1500 Amatistas,2026-02-07 11:14:54,2026-02
+125,3,0.99,stripe,ch_c56d7093ea53,Paquete de Amatistas no especificado,2026-10-07 12:14:09,2026-10
+132,3,3.99,stripe,ch_0478021632b6,Paquete de Amatistas no especificado,2026-09-22 19:51:26,2026-09
+136,2,9.99,stripe,ch_443867870eb6,1500 Amatistas,2025-12-09 21:12:33,2025-12
+138,8,3.99,stripe,ch_51f403707481,500 Amatistas,2026-11-03 19:19:00,2026-11
+140,4,3.99,stripe,ch_d2b4a2717717,500 Amatistas,2026-10-20 12:37:00,2026-10
+144,2,9.99,stripe,ch_8429d65a01a8,Paquete de Amatistas no especificado,2026-07-26 17:25:00,2026-07
+145,10,9.99,stripe,ch_f991dcf44ca3,1500 Amatistas,2026-05-27 01:27:33,2026-05
+146,2,9.99,stripe,ch_97c53f98879f,1500 Amatistas,2026-04-16 19:50:35,2026-04
+151,9,4.99,stripe,ch_dd0b3b52b39c,Suscripcion Mensual,2026-01-08 15:56:00,2026-01
+167,4,9.99,stripe,ch_7461a6f57123,1500 Amatistas,2026-01-06 21:37:00,2026-01
+168,4,9.99,stripe,ch_b9bc707cf833,1500 Amatistas,2026-05-31 01:24:57,2026-05
+169,1,3.99,stripe,ch_24e2148f0f36,Paquete de Amatistas no especificado,2026-05-24 20:11:15,2026-05
+177,9,4.99,stripe,APL_4098cb1a0418,Paquete de Amatistas no especificado,2026-01-15 07:25:00,2026-01
+178,8,3.99,stripe,ch_40b3718ebdb0,Paquete de Amatistas no especificado,2026-09-17 19:00:05,2026-09
+189,4,3.99,stripe,ch_02509241a80a,500 Amatistas,2026-06-17 00:43:32,2026-06
+191,7,3.99,stripe,ch_ffbdcf202067,500 Amatistas,2025-11-18 15:17:51,2025-11
+196,6,4.99,stripe,ch_78b57ce7e85b,Suscripcion Mensual,2026-10-23 19:06:45,2026-10
+202,10,4.99,stripe,ch_21ab87706340,Suscripcion Mensual,2026-03-26 06:57:00,2026-03
+204,7,0.99,stripe,ch_8216e57b97c3,100 Amatistas,2026-03-08 03:54:22,2026-03
+207,8,9.99,stripe,ch_d39f92fb222e,1500 Amatistas,2026-05-09 09:17:00,2026-05
+215,8,3.99,stripe,ch_9945d8cefa25,500 Amatistas,2026-01-22 13:26:00,2026-01
+218,10,9.99,stripe,ch_e041331ea46d,1500 Amatistas,2025-12-25 12:06:26,2025-12
+219,5,0.99,stripe,ch_ea76d5cf1ed2,100 Amatistas,2026-10-18 06:06:28,2026-10
+227,9,9.99,stripe,ch_57bd84acacf3,1500 Amatistas,2026-01-12 12:51:06,2026-01
+228,7,9.99,stripe,ch_e3e4a9c03f95,Paquete de Amatistas no especificado,2026-04-08 09:24:58,2026-04
+229,7,4.99,stripe,ch_d9eedac2e198,Suscripcion Mensual,2026-09-06 07:24:00,2026-09
+239,6,4.99,stripe,ch_e25e6c80de22,Paquete de Amatistas no especificado,2026-05-22 22:25:19,2026-05
+242,4,3.99,stripe,ch_2ed9c1249336,500 Amatistas,2026-11-10 00:06:00,2026-11
+253,4,3.99,stripe,ch_c1e6ab6ca452,500 Amatistas,2025-12-14 18:21:20,2025-12
+254,9,9.99,stripe,ch_cb9641d2bcb3,Paquete de Amatistas no especificado,2025-12-17 10:38:04,2025-12
+255,4,3.99,stripe,ch_b3bf5897c2a1,Paquete de Amatistas no especificado,2026-08-25 10:09:35,2026-08
+258,6,9.99,stripe,ch_e255d92c471d,1500 Amatistas,2025-12-11 01:23:00,2025-12
+263,10,0.99,stripe,ch_33056f0de7a4,100 Amatistas,2026-01-03 00:58:00,2026-01
+267,7,0.99,stripe,ch_b118e71cc486,Paquete de Amatistas no especificado,2026-01-17 07:22:00,2026-01
+268,10,4.99,stripe,ch_ffac3fec0306,Suscripcion Mensual,2026-02-25 02:47:36,2026-02
+269,3,0.99,stripe,ch_7119372a0998,100 Amatistas,2026-06-07 02:33:46,2026-06
+270,4,9.99,stripe,ch_f0d2c005d668,1500 Amatistas,2026-10-18 23:57:00,2026-10
+278,3,3.99,stripe,ch_62d7f94b1a3f,500 Amatistas,2026-08-09 02:19:00,2026-08
+279,1,0.99,stripe,ch_c78a7d9326fb,100 Amatistas,2026-01-31 07:09:01,2026-01
+287,2,9.99,stripe,ch_33f02f557cf7,Paquete de Amatistas no especificado,2026-10-29 13:17:00,2026-10
+288,5,0.99,stripe,GPA.0aab95dd8cde,Paquete de Amatistas no especificado,2026-06-03 04:26:00,2026-06
+294,2,9.99,stripe,ch_83d3f319f867,1500 Amatistas,2026-03-25 11:28:00,2026-03
+297,8,0.99,stripe,ch_823767560cb0,100 Amatistas,2026-06-17 07:12:34,2026-06
+302,6,0.99,stripe,ch_d7b3c038610b,100 Amatistas,2025-12-11 17:59:00,2025-12
+312,5,0.99,stripe,ch_21a7604fe7bc,Paquete de Amatistas no especificado,2025-12-11 16:43:00,2025-12
+314,1,4.99,stripe,ch_27f7239b4688,Suscripcion Mensual,2026-02-14 14:39:02,2026-02
+317,4,4.99,stripe,ch_bacf6325775f,Suscripcion Mensual,2026-05-21 16:40:00,2026-05
+321,8,4.99,stripe,ch_7a0cdf5d9371,Suscripcion Mensual,2026-08-22 02:25:16,2026-08
+323,5,3.99,stripe,ch_57ec22a75dbf,500 Amatistas,2026-10-22 20:41:34,2026-10
+325,5,9.99,stripe,ch_823c57643058,1500 Amatistas,2026-06-25 22:58:06,2026-06
+327,8,4.99,stripe,ch_5805e94b6c7f,Paquete de Amatistas no especificado,2026-02-16 13:11:00,2026-02
+331,7,4.99,stripe,ch_542b42681bd2,Suscripcion Mensual,2026-04-21 06:21:37,2026-04
+334,3,4.99,stripe,ch_ad5bec8c004e,Suscripcion Mensual,2025-12-21 19:44:50,2025-12
+335,8,9.99,stripe,ch_e32e2eb254a0,1500 Amatistas,2026-07-28 02:27:03,2026-07
+347,5,4.99,stripe,ch_639db9c62637,Suscripcion Mensual,2025-12-22 09:36:27,2025-12
+348,6,0.99,stripe,ch_aca7a7006393,100 Amatistas,2025-12-07 17:14:15,2025-12
+352,3,3.99,stripe,ch_ee2f20944172,500 Amatistas,2026-09-21 02:20:00,2026-09
+355,8,3.99,stripe,ch_4347dd162cfd,500 Amatistas,2026-02-18 17:55:00,2026-02
+358,8,3.99,stripe,ch_db2da5b3cf7a,500 Amatistas,2026-06-10 10:49:55,2026-06
+365,7,9.99,stripe,ch_79d080be1379,Paquete de Amatistas no especificado,2026-02-19 04:39:05,2026-02
+366,10,9.99,stripe,ch_8147c837233a,1500 Amatistas,2026-10-19 19:05:11,2026-10
+368,10,9.99,stripe,ch_cee218e4b2c6,Paquete de Amatistas no especificado,2025-12-13 10:55:29,2025-12
+369,4,9.99,stripe,ch_bfaf1bf169c9,1500 Amatistas,2026-05-05 06:33:52,2026-05
+375,4,4.99,stripe,ch_4bb78a8d13e4,Suscripcion Mensual,2025-12-03 19:48:00,2025-12
+377,5,9.99,stripe,ch_b2923c57b972,1500 Amatistas,2026-06-12 02:55:00,2026-06
+380,7,3.99,stripe,ch_bbec5fd61d56,500 Amatistas,2025-12-20 09:33:00,2025-12
+381,7,9.99,stripe,ch_f27b3663bb06,1500 Amatistas,2026-11-08 22:39:00,2026-11
+385,4,9.99,stripe,ch_8f4aeea91e4c,1500 Amatistas,2026-01-17 18:25:00,2026-01
+386,10,4.99,stripe,ch_1e4a94a92056,Suscripcion Mensual,2026-04-21 00:20:00,2026-04
+390,1,0.99,stripe,ch_56bc53c18e0f,100 Amatistas,2026-10-15 23:24:00,2026-10
+392,4,0.99,stripe,ch_6282aad2eb40,Paquete de Amatistas no especificado,2026-10-30 15:39:49,2026-10
+398,6,9.99,stripe,ch_a6ebb1896ea3,Paquete de Amatistas no especificado,2026-02-25 04:09:29,2026-02
+403,8,3.99,stripe,ch_2e94d81d8a60,500 Amatistas,2026-03-04 23:00:00,2026-03
+405,6,0.99,stripe,ch_4f82ae24cc73,Paquete de Amatistas no especificado,2026-08-11 16:59:00,2026-08
+407,9,3.99,stripe,ch_a9a17ffd5276,500 Amatistas,2026-09-14 09:44:00,2026-09
+412,1,3.99,stripe,ch_7ab0250b4da4,500 Amatistas,2026-01-13 07:05:00,2026-01
+413,6,3.99,stripe,APL_eb888f6b26e9,500 Amatistas,2026-01-26 22:15:47,2026-01
+415,5,0.99,stripe,ch_82e2ecb8e746,Paquete de Amatistas no especificado,2026-02-06 17:24:00,2026-02
+416,7,0.99,stripe,ch_a1478a215211,100 Amatistas,2025-12-06 21:23:25,2025-12
+425,6,0.99,stripe,ch_9db787fca9c0,100 Amatistas,2026-06-29 01:12:59,2026-06
+426,3,3.99,stripe,ch_5aa3917565ae,500 Amatistas,2026-05-18 08:16:00,2026-05
+430,2,4.99,stripe,ch_bbb077ce38fd,Paquete de Amatistas no especificado,2026-06-08 10:44:00,2026-06
+436,8,9.99,stripe,ch_1eac2e39c6ed,1500 Amatistas,2026-01-25 08:18:00,2026-01
+437,2,0.99,stripe,ch_185b1e22cfc3,Paquete de Amatistas no especificado,2025-12-10 18:57:06,2025-12
+439,9,9.99,stripe,ch_d980a9ed3891,1500 Amatistas,2025-12-10 13:43:40,2025-12
+445,8,3.99,stripe,ch_9d9acb0c5235,500 Amatistas,2026-10-25 22:21:00,2026-10
+446,6,3.99,stripe,ch_5cfb219eba0e,500 Amatistas,2026-06-23 10:02:00,2026-06
+447,5,9.99,stripe,ch_6aa7822ac889,1500 Amatistas,2026-02-17 19:10:00,2026-02
+450,5,0.99,stripe,ch_6318138e6c25,100 Amatistas,2025-11-29 14:42:20,2025-11
+452,3,0.99,stripe,ch_b4246305fb7b,100 Amatistas,2025-12-16 00:25:00,2025-12
+458,3,0.99,stripe,ch_fa49dc4b2d0c,100 Amatistas,2026-03-17 01:04:00,2026-03
+467,7,0.99,stripe,ch_bb8007e27257,100 Amatistas,2026-04-16 21:16:00,2026-04
+468,4,0.99,stripe,ch_e7865cd700e8,100 Amatistas,2026-01-04 00:09:38,2026-01
+469,3,9.99,stripe,ch_107fbe841f1a,1500 Amatistas,2026-08-02 00:53:35,2026-08
+471,8,0.99,stripe,ch_1617418e53b6,100 Amatistas,2026-03-10 16:27:43,2026-03
+474,7,9.99,stripe,ch_ef1eaead70d1,Paquete de Amatistas no especificado,2026-11-09 23:21:00,2026-11
+476,6,4.99,stripe,ch_80ec7a517bfe,Suscripcion Mensual,2026-11-12 13:57:00,2026-11
+479,6,4.99,stripe,ch_868d8ca79293,Suscripcion Mensual,2026-05-11 03:49:02,2026-05
+481,7,9.99,stripe,ch_6fbeef874822,1500 Amatistas,2026-06-20 19:46:00,2026-06
+482,7,0.99,stripe,ch_51718fb86f28,100 Amatistas,2025-12-23 00:10:46,2025-12
+488,2,3.99,stripe,ch_d42fa8a497fd,500 Amatistas,2026-01-04 14:52:00,2026-01
+491,8,0.99,stripe,ch_fb0f608e3041,Paquete de Amatistas no especificado,2026-10-22 06:32:00,2026-10
+500,6,0.99,stripe,ch_d7f87c431878,100 Amatistas,2026-06-13 03:26:42,2026-06
+501,2,9.99,stripe,ch_f474ea16f275,1500 Amatistas,2026-08-14 09:45:14,2026-08
+508,4,3.99,stripe,ch_713c48c98ee1,500 Amatistas,2026-07-31 13:13:00,2026-07
+518,10,4.99,stripe,ch_df3c10ea0a03,Suscripcion Mensual,2026-02-24 21:17:00,2026-02
+523,6,9.99,stripe,ch_3046ea1fc34c,1500 Amatistas,2026-06-17 00:42:00,2026-06
+524,4,9.99,stripe,ch_0099804a107b,1500 Amatistas,2026-01-13 13:09:58,2026-01
+526,3,3.99,stripe,ch_bfbc0337a99c,Paquete de Amatistas no especificado,2026-03-03 14:26:43,2026-03
+530,3,3.99,stripe,ch_26171db6823c,500 Amatistas,2026-03-27 08:09:00,2026-03
+540,4,4.99,stripe,ch_876f06b404b0,Suscripcion Mensual,2026-11-01 20:56:00,2026-11
+551,1,9.99,stripe,ch_aeffb0dff7e6,1500 Amatistas,2026-09-09 15:38:19,2026-09
+552,6,9.99,stripe,ch_9ea72ccf103e,1500 Amatistas,2026-01-03 23:36:00,2026-01
+553,1,3.99,stripe,ch_e3256806f675,500 Amatistas,2026-07-19 14:36:49,2026-07
+556,1,0.99,stripe,ch_c8b5147539c3,100 Amatistas,2026-08-29 01:03:34,2026-08
+557,3,9.99,stripe,ch_5937e4c1597e,Paquete de Amatistas no especificado,2026-05-04 18:29:00,2026-05
+558,5,4.99,stripe,ch_0cc2e9680442,Paquete de Amatistas no especificado,2026-06-16 10:19:15,2026-06
+560,7,0.99,stripe,ch_0c627573d3a7,100 Amatistas,2026-04-29 06:37:00,2026-04
+561,2,4.99,stripe,ch_a24521084000,Suscripcion Mensual,2026-06-20 00:19:00,2026-06
+567,2,4.99,stripe,ch_2d8a74e30c8b,Suscripcion Mensual,2026-10-31 05:30:41,2026-10
+568,9,9.99,stripe,ch_81edaa115fdf,1500 Amatistas,2026-01-11 01:34:00,2026-01
+572,6,9.99,stripe,ch_5c415d29b9bc,1500 Amatistas,2026-04-06 13:37:00,2026-04
+574,1,9.99,stripe,ch_027be343fc3c,1500 Amatistas,2026-06-16 18:11:37,2026-06
+578,8,3.99,stripe,ch_9f88aa7e22fa,500 Amatistas,2025-11-30 10:09:35,2025-11
+580,1,0.99,stripe,ch_a23e03e239d9,Paquete de Amatistas no especificado,2026-04-04 19:05:06,2026-04
+583,4,9.99,stripe,ch_f00f0a0f5a7a,1500 Amatistas,2026-09-19 08:41:03,2026-09
+593,2,9.99,stripe,ch_b7136bb9e534,1500 Amatistas,2026-03-31 12:48:37,2026-03
+596,8,4.99,stripe,ch_1c239f0e8c66,Suscripcion Mensual,2026-10-23 13:01:00,2026-10
+604,6,0.99,stripe,ch_b738bed7892d,100 Amatistas,2026-02-14 02:50:18,2026-02
+608,10,4.99,stripe,ch_42af808e9e06,Suscripcion Mensual,2026-09-25 01:13:00,2026-09
+611,1,3.99,stripe,ch_2cb4b6b7c3e2,500 Amatistas,2026-04-23 07:08:56,2026-04
+616,2,4.99,stripe,ch_7e2a2f0fff0d,Suscripcion Mensual,2026-03-23 04:28:00,2026-03
+623,4,3.99,stripe,ch_43083cb019c4,500 Amatistas,2026-08-26 15:31:10,2026-08
+633,9,9.99,stripe,ch_89d26f9a3816,1500 Amatistas,2025-11-29 05:13:00,2025-11
+635,9,0.99,stripe,ch_17a81cf74805,Paquete de Amatistas no especificado,2026-05-15 23:26:00,2026-05
+640,5,9.99,stripe,ch_278358ad5958,1500 Amatistas,2026-05-11 22:37:25,2026-05
+642,10,3.99,stripe,ch_8fc95652a19a,500 Amatistas,2026-03-12 16:52:18,2026-03
+644,1,0.99,stripe,ch_21074941b2f8,100 Amatistas,2026-09-19 01:26:00,2026-09
+649,7,4.99,stripe,ch_ccc20fae50a6,Suscripcion Mensual,2026-07-28 12:14:00,2026-07
+651,8,0.99,stripe,ch_8236caf986ad,100 Amatistas,2026-04-17 22:15:00,2026-04
+658,5,4.99,stripe,ch_63d44a8b3bc2,Suscripcion Mensual,2026-03-30 13:12:20,2026-03
+659,3,4.99,stripe,ch_a08c6ab71ca2,Paquete de Amatistas no especificado,2026-07-21 07:19:47,2026-07
+663,3,9.99,stripe,ch_dd6fcdb73f87,Paquete de Amatistas no especificado,2026-10-07 19:46:43,2026-10
+666,7,0.99,stripe,ch_62ef362dbfba,100 Amatistas,2026-11-13 22:36:40,2026-11
+667,4,4.99,stripe,ch_927ad8a90abe,Suscripcion Mensual,2025-11-24 21:32:32,2025-11
+668,1,9.99,stripe,ch_37f4e0154001,1500 Amatistas,2025-12-28 23:20:58,2025-12
+674,10,4.99,stripe,ch_5e86932e8322,Suscripcion Mensual,2025-11-29 00:52:00,2025-11
+676,7,9.99,stripe,ch_154119b3e4cf,1500 Amatistas,2026-07-03 20:44:01,2026-07
+678,2,0.99,stripe,ch_c2ca7298fd93,100 Amatistas,2026-03-28 10:19:26,2026-03
+680,4,9.99,stripe,ch_38f8e27c9626,1500 Amatistas,2026-09-15 14:19:42,2026-09
+682,3,0.99,stripe,ch_8e15e2e73cfe,100 Amatistas,2026-05-02 15:46:00,2026-05
+684,10,4.99,stripe,ch_32510edba1a7,Suscripcion Mensual,2026-05-31 19:05:42,2026-05
+686,7,9.99,stripe,ch_d5f13f394bac,1500 Amatistas,2026-04-12 18:34:05,2026-04
+696,4,4.99,stripe,ch_7774b88218ef,Suscripcion Mensual,2026-11-08 15:16:00,2026-11
+718,4,4.99,stripe,ch_35aea3c3492d,Suscripcion Mensual,2026-10-29 17:19:52,2026-10
+720,10,3.99,stripe,ch_c67f7583bea4,Paquete de Amatistas no especificado,2026-05-30 03:00:39,2026-05
+721,1,3.99,stripe,ch_263c6ba0b6b8,500 Amatistas,2026-03-14 07:01:00,2026-03
+730,10,0.99,stripe,ch_fd34d1b4dbbb,100 Amatistas,2026-01-27 16:21:57,2026-01
+735,5,0.99,stripe,ch_aa3a744567ea,100 Amatistas,2026-08-04 05:20:00,2026-08
+738,9,4.99,stripe,ch_9a4ada70158d,Suscripcion Mensual,2026-01-20 18:20:00,2026-01
+742,6,3.99,stripe,ch_f41c360ca217,500 Amatistas,2026-04-20 21:10:00,2026-04
+747,8,3.99,stripe,APL_ffba1e42deaa,500 Amatistas,2026-03-05 14:30:00,2026-03
+748,1,9.99,stripe,ch_9786731c8b84,Paquete de Amatistas no especificado,2026-02-03 19:19:00,2026-02
+753,2,3.99,stripe,ch_481424d62818,500 Amatistas,2026-07-26 10:35:07,2026-07
+758,3,3.99,stripe,ch_1c50fff04b27,Paquete de Amatistas no especificado,2026-08-03 13:35:20,2026-08
+765,9,0.99,stripe,ch_f444b94f845d,100 Amatistas,2026-08-26 23:56:40,2026-08
+767,6,3.99,stripe,ch_9f9e355d716e,500 Amatistas,2026-07-28 01:13:00,2026-07
+769,9,4.99,stripe,ch_a68eb3eeb6af,Suscripcion Mensual,2026-03-04 09:22:03,2026-03
+770,8,4.99,stripe,ch_21a8474149d5,Suscripcion Mensual,2026-06-02 08:38:00,2026-06
+776,7,0.99,stripe,ch_f2d612601f65,100 Amatistas,2026-09-28 00:32:00,2026-09
+780,7,3.99,stripe,ch_eba5751fbf8b,500 Amatistas,2026-03-14 17:36:00,2026-03
+784,9,0.99,stripe,ch_fc7e6b6bd4fe,100 Amatistas,2026-01-10 09:43:30,2026-01
+786,1,3.99,stripe,ch_c3b6aeb85bdd,500 Amatistas,2025-12-02 03:01:00,2025-12
+789,8,3.99,stripe,ch_b18b670f6843,Paquete de Amatistas no especificado,2026-07-09 13:46:00,2026-07
+790,5,9.99,stripe,ch_ef456400fd7a,1500 Amatistas,2026-10-10 04:24:00,2026-10
+794,10,0.99,stripe,ch_55cfdedd5f17,100 Amatistas,2026-04-24 03:09:24,2026-04
+796,1,0.99,stripe,ch_01f0b8d8d571,100 Amatistas,2026-07-16 18:07:31,2026-07
+798,3,3.99,stripe,ch_18f576530650,500 Amatistas,2026-01-28 16:33:15,2026-01
