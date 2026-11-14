@@ -1,0 +1,1 @@
+id_usuario,uid,nombre_usuario,correo,genero,contrasena_hash,proveedor_auth,id_plan,fecha_nacimiento,edad_verificada,terminos_aceptados,fecha_aceptacion_terminos,version_terminos,amatistas_saldo,estado,intentos_fallidos,bloqueado_hasta,debe_cambiar_password,token_version,ultimo_acceso,fecha_registro,rol,avatar_url,fecha_eliminacion,motivo_eliminacion,mes

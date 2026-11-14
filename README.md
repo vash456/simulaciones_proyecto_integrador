@@ -1,39 +1,44 @@
-# Proyecto Integrador — Simulación y Análisis de `personajes`
+# Proyecto Integrador — Simulación y Análisis (`personajes` y `usuarios`)
 
-Pipeline en Python para simular datos sucios de la tabla `personajes` (24 columnas) con `Faker("es_CO")`, exportarlos en múltiples formatos, limpiarlos con `pandas`, responder consultas analíticas y generar reportes gráficos con `matplotlib`.
+Pipeline en Python para simular datos sucios de las tablas `personajes` (24 columnas) y `usuarios` (25 columnas) con `Faker("es_CO")`, exportarlos en múltiples formatos, limpiarlos con `pandas`, responder consultas analíticas y generar reportes gráficos con `matplotlib`.
 
 ---
 
 ## Estructura del proyecto
 
 ```text
-proyecto_integrador_simulaciones/
+simulaciones_proyecto_integrador/
 ├── .agents/skills/                         # Skills locales instaladas para el workspace
 ├── data/
 │   ├── crudo/                              # Datos sucios generados (CSV, XLSX, JSON)
-│   │   ├── personajes_sucio.csv
-│   │   ├── personajes_sucio.xlsx
-│   │   └── personajes_sucio.json
+│   │   ├── personajes_sucio.{csv,xlsx,json}
+│   │   └── usuarios_sucio.{csv,xlsx,json}
 │   └── limpio/                             # Datos limpios y resultados de consultas
 │       ├── personajes_limpio.csv
-│       └── personajes_consulta_1..5.csv
+│       ├── personajes_consulta_1..5.csv
+│       ├── usuarios_limpio.csv
+│       └── usuarios_consulta_1..5.csv
 ├── reportes/                               # Gráficas generadas (PNG, 120 dpi)
-│   ├── personajes_grafica_1.png
-│   ├── personajes_grafica_2.png
-│   └── personajes_grafica_3.png
+│   ├── personajes_grafica_1..3.png
+│   └── usuarios_grafica_1..3.png
 ├── src/
 │   └── notebook/
-│       ├── main.py                         # Ejecuta las 5 etapas en orden
+│       ├── main.py                         # Ejecuta los pipelines de personajes y usuarios
 │       ├── simulaciones/
-│       │   └── simular_personajes.py
+│       │   ├── simular_personajes.py
+│       │   └── simular_usuarios.py
 │       ├── exportaciones/
-│       │   └── exportar_personajes.py
+│       │   ├── exportar_personajes.py
+│       │   └── exportar_usuarios.py
 │       ├── limpieza/
-│       │   └── limpiar_personajes.py
+│       │   ├── limpiar_personajes.py
+│       │   └── limpiar_usuarios.py
 │       ├── consultas/
-│       │   └── consultas_personajes.py
+│       │   ├── consultas_personajes.py
+│       │   └── consultas_usuarios.py
 │       └── reportes/
-│           └── reporte_personajes.py
+│           ├── reporte_personajes.py
+│           └── reporte_usuarios.py
 ├── .gitignore
 ├── README.md
 └── requirements.txt
@@ -43,12 +48,7 @@ proyecto_integrador_simulaciones/
 
 ## Requisitos e instalación
 
-Dependencias declaradas en `requirements.txt` (probado en Windows con Python `3.13.9` y `pandas` `2.3.3`):
-
-- `pandas>=2,<3`
-- `faker`
-- `openpyxl`
-- `matplotlib`
+Dependencias declaradas en `requirements.txt` (`pandas>=2,<3`, `faker`, `openpyxl`, `matplotlib`):
 
 En PowerShell, desde la raíz del proyecto:
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 ### Pipeline completo (recomendado)
 
-Ejecuta en secuencia la simulación, exportación, limpieza, consultas y generación de gráficas:
+Ejecuta en secuencia las 5 etapas para `personajes` y luego para `usuarios`:
 
 ```powershell
 python src/notebook/main.py
@@ -74,29 +74,38 @@ python src/notebook/main.py
 
 Cada módulo puede ejecutarse de forma independiente desde la raíz del repositorio:
 
+#### Tabla `personajes`
 ```powershell
-# 1. Simular 800 filas base (+ 5% duplicados exactos = 840) con semilla fija (42)
 python src/notebook/simulaciones/simular_personajes.py
-
-# 2. Exportar el DataFrame sucio a CSV, Excel (hoja 'personajes') y JSON en data/crudo/
 python src/notebook/exportaciones/exportar_personajes.py
-
-# 3. Limpiar data/crudo/personajes_sucio.csv y guardar data/limpio/personajes_limpio.csv
 python src/notebook/limpieza/limpiar_personajes.py
-
-# 4. Responder las 5 consultas sobre data/limpio/personajes_limpio.csv
 python src/notebook/consultas/consultas_personajes.py
-
-# 5. Generar las 3 gráficas en reportes/ e imprimir las conclusiones
 python src/notebook/reportes/reporte_personajes.py
+```
+
+#### Tabla `usuarios`
+```powershell
+python src/notebook/simulaciones/simular_usuarios.py
+python src/notebook/exportaciones/exportar_usuarios.py
+python src/notebook/limpieza/limpiar_usuarios.py
+python src/notebook/consultas/consultas_usuarios.py
+python src/notebook/reportes/reporte_usuarios.py
 ```
 
 ---
 
 ## Resumen de etapas
 
-1. **Simulación (`simular_personajes.py`):** genera `800` registros base con las 24 columnas del esquema `personajes` usando `Faker.seed(42)` y `random.seed(42)`, e introduce suciedad controlada: fechas en formato ISO y `DD/MM/AAAA HH:MM`, `20%` de nulos en `descripcion_corta`, `10%` en `avatar_url`, espacios y mayúsculas mezcladas en `estado_moderacion` y `nombre`, `10%` de `cid` repetidos y `5%` de duplicados exactos (`840` filas en total).
-2. **Exportación (`exportar_personajes.py`):** importa `generar_personajes()` y genera `personajes_sucio.csv`, `personajes_sucio.xlsx` y `personajes_sucio.json` dentro de `data/crudo/`.
-3. **Limpieza (`limpiar_personajes.py`):** muestra diagnóstico antes y después (`shape`, `info`, nulos, duplicados), elimina `40` duplicados exactos y `75` filas excedentes por `cid` repetido, unifica `fecha_creacion` a `datetime`, normaliza `estado_moderacion` y `nombre`, rellena `descripcion_corta` con `"Sin descripcion"`, agrega la columna `mes` y exporta `data/limpio/personajes_limpio.csv` (`725` filas, `25` columnas, sin nulos en columnas obligatorias).
-4. **Consultas (`consultas_personajes.py`):** responde 5 preguntas sobre los datos limpios (incluyendo 2 agrupaciones `groupby` por `id_categoria` y por `mes`) y guarda `personajes_consulta_1.csv` a `personajes_consulta_5.csv` en `data/limpio/`.
-5. **Reportes (`reporte_personajes.py`):** genera 3 gráficas PNG en `reportes/` (`estado_moderacion`, creaciones por `mes` y top categorías) e imprime las conclusiones principales, incluyendo la justificación de la restricción `UNIQUE` sobre `cid`.
+### 1. Tabla `personajes`
+1. **Simulación (`simular_personajes.py`):** genera `800` registros base con 24 columnas usando semilla `42` (`840` filas con 5 % de duplicados exactos).
+2. **Exportación (`exportar_personajes.py`):** exporta `personajes_sucio.{csv,xlsx,json}` en `data/crudo/`.
+3. **Limpieza (`limpiar_personajes.py`):** elimina duplicados exactos y `cid` repetidos, unifica fechas/textos, rellena nulos y genera `data/limpio/personajes_limpio.csv` (`725` filas, `25` columnas).
+4. **Consultas (`consultas_personajes.py`):** responde 5 consultas (2 con `groupby`) y guarda `personajes_consulta_1..5.csv`.
+5. **Reportes (`reporte_personajes.py`):** genera 3 gráficas PNG en `reportes/` e imprime conclusiones.
+
+### 2. Tabla `usuarios`
+1. **Simulación (`simular_usuarios.py`):** genera `800` filas con 25 columnas usando `Faker.seed(42)` y `random.seed(42)`, con fechas mezcladas, ~20 % de nulos en `motivo_eliminacion`, variantes en `estado`, ~10 % de `correo` repetido con mayúsculas/espacios y 5 % de duplicados exactos.
+2. **Exportación (`exportar_usuarios.py`):** importa `generar_usuarios()` y genera `usuarios_sucio.csv`, `usuarios_sucio.xlsx` (hoja `usuarios`) y `usuarios_sucio.json` en `data/crudo/`.
+3. **Limpieza (`limpiar_usuarios.py`):** elimina duplicados exactos y correos duplicados normalizados, unifica `fecha_registro` y `estado`, rellena `motivo_eliminacion` con `"Sin motivo"`, crea `mes` y exporta `data/limpio/usuarios_limpio.csv` (`681` filas, `26` columnas).
+4. **Consultas (`consultas_usuarios.py`):** responde 5 consultas (incluyendo `groupby` por `rol` y por `mes`) y guarda `usuarios_consulta_1..5.csv`.
+5. **Reportes (`reporte_usuarios.py`):** genera `usuarios_grafica_1..3.png` en `reportes/` e imprime las conclusiones sobre rol mayoritario, mes pico y validación `409 Conflict` para correos duplicados.
